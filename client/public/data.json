@@ -1,0 +1,173 @@
+{
+  "reportDate": "March 03, 2026",
+  "dataAsOf": "Mar 02, 2026, 5:27 PM ET",
+  "postsCount": 12,
+  "publicationsCount": 10,
+  "subscriptionsCount": 34,
+  "quickSummary": "The market remains in Fear territory as it digests the escalating US-Iran conflict and its impact on oil prices and global stability. Key themes include the nuclear renaissance driven by AI data center demand, the deepening divide in AI adoption (frontier ops vs. memory bottlenecks), and a bearish turn on several tech names.",
+  "keyThemes": [
+    {
+      "title": "US-Iran Conflict & Oil Spike",
+      "description": "Brent crude +8.75%. Geopolitical risk suppressing sentiment despite intraday market recovery.",
+      "icon": "globe"
+    },
+    {
+      "title": "Nuclear Renaissance",
+      "description": "AI and electrification driving a global return to nuclear energy. US targeting 400GW by 2050.",
+      "icon": "zap"
+    },
+    {
+      "title": "AI Adoption Divide",
+      "description": "Frontier ops accelerating while AI memory bottlenecks cap productivity gains.",
+      "icon": "cpu"
+    },
+    {
+      "title": "Tech Earnings Divergence",
+      "description": "MDB crashes -25% on weak guidance; optical stocks surge on NVDA $2B investment.",
+      "icon": "trending"
+    },
+    {
+      "title": "Free Cash Flow as Alpha Signal",
+      "description": "FCF yield identified as the most significant factor for 1,000%+ multibagger returns.",
+      "icon": "dollar"
+    }
+  ],
+  "fearGreedIndex": {
+    "value": 42,
+    "label": "Fear",
+    "previousClose": "Fear",
+    "context": "The market remains in Fear territory, holding steady from the previous day. This reflects ongoing investor anxiety surrounding the US-Iran conflict, which has caused a spike in oil prices (Brent +8.75%). While major indices recovered from early losses, the underlying tension and geopolitical risk are keeping sentiment suppressed."
+  },
+  "stockHighlights": [
+    { "ticker": "MDB", "context": "-25% post-close on weak FY27 guidance and sales leadership changes.", "publication": "TMT Breakout" },
+    { "ticker": "FOUR", "context": "Down ~60% from highs, but author remains bullish on 13% FCF yield.", "publication": "Coughlin Capital" },
+    { "ticker": "DRT.TO", "context": "Bearish review citing declining revenue, margins, and questionable buybacks.", "publication": "Wolf of Oakville" },
+    { "ticker": "NVDA", "context": "Announced $2B investment in optical companies COHR and LITE.", "publication": "TMT Breakout" },
+    { "ticker": "Nuclear/Uranium", "context": "Bullish deep-dive on the nuclear renaissance supercycle.", "publication": "Crack The Market" }
+  ],
+  "bullishStocks": ["FOUR", "NVDA", "COHR", "LITE", "AEHR", "CCJ", "SMR"],
+  "bearishStocks": ["MDB", "DRT.TO"],
+  "socialBuzz": {
+    "high": ["MDB", "NVDA", "COHR", "LITE", "AVGO"],
+    "moderate": ["FOUR", "AEHR", "CCJ", "SMR"],
+    "low": ["DRT.TO"]
+  },
+  "insiderBuys": [
+    { "ticker": "GENB", "company": "Generate Biomedicines", "insider": "AFEYAN NOUBAR", "title": "Insider", "shares": 1562500, "price": 16.00, "totalValue": 25000000, "date": "Mar 02" },
+    { "ticker": "LRMR", "company": "Larimar Therapeutics", "insider": "Flynn James E", "title": "Director / 10% Owner", "shares": 5000000, "price": 5.00, "totalValue": 25000000, "date": "Feb 27" },
+    { "ticker": "ZURA", "company": "Zura Bio Ltd", "insider": "AI Biotechnology LLC", "title": "10% Owner", "shares": 2000000, "price": 6.25, "totalValue": 12500000, "date": "Feb 26" },
+    { "ticker": "FOUR", "company": "Shift4 Payments", "insider": "Isaacman Jared", "title": "Insider", "shares": 159244, "price": 44.15, "totalValue": 7030416, "date": "Feb 27" },
+    { "ticker": "FOUR", "company": "Shift4 Payments", "insider": "Isaacman Jared", "title": "Insider", "shares": 136993, "price": 48.38, "totalValue": 6627845, "date": "Feb 26" },
+    { "ticker": "BCAX", "company": "Bicara Therapeutics", "insider": "RA Capital Mgmt", "title": "Director / 10% Owner", "shares": 300000, "price": 16.00, "totalValue": 4800000, "date": "Feb 26" },
+    { "ticker": "NOW", "company": "ServiceNow", "insider": "McDermott William R", "title": "Chairman & CEO", "shares": 28677, "price": 104.60, "totalValue": 2999528, "date": "Feb 27" },
+    { "ticker": "CSGP", "company": "CoStar Group", "insider": "Florance Andrew C", "title": "President & CEO", "shares": 55720, "price": 44.52, "totalValue": 2480654, "date": "Feb 27" },
+    { "ticker": "IDYA", "company": "IDEAYA Biosciences", "insider": "Stein Jeffrey", "title": "Insider", "shares": 50000, "price": 32.96, "totalValue": 1647890, "date": "Mar 02" },
+    { "ticker": "SOFI", "company": "SoFi Technologies", "insider": "Noto Anthony", "title": "CEO", "shares": 56000, "price": 17.88, "totalValue": 1001515, "date": "Mar 02" },
+    { "ticker": "ACVA", "company": "ACV Auctions", "insider": "Waterman Michael", "title": "Chief Sales Officer", "shares": 214600, "price": 4.66, "totalValue": 1000036, "date": "Feb 26" },
+    { "ticker": "BCHT", "company": "Birchtech Corp", "insider": "MacPherson Richard", "title": "President & CEO", "shares": 312500, "price": 2.40, "totalValue": 750000, "date": "Feb 27" },
+    { "ticker": "PVLA", "company": "Palvella Therapeutics", "insider": "Jenkins George M", "title": "Director", "shares": 4000, "price": 125.00, "totalValue": 500000, "date": "Feb 27" },
+    { "ticker": "TFIN", "company": "Triumph Financial", "insider": "Graft Aaron P", "title": "President & CEO", "shares": 8949, "price": 55.87, "totalValue": 499981, "date": "Feb 27" },
+    { "ticker": "TNC", "company": "Tennant Co", "insider": "Glerum James T Jr.", "title": "Insider", "shares": 8163, "price": 61.25, "totalValue": 499980, "date": "Mar 02" },
+    { "ticker": "CTEV", "company": "Claritev Corp", "insider": "Kim Michael", "title": "EVP, Chief Digital Officer", "shares": 30000, "price": 14.30, "totalValue": 428955, "date": "Feb 27" },
+    { "ticker": "HRI", "company": "Herc Holdings", "insider": "Olin John A", "title": "Director", "shares": 3000, "price": 142.47, "totalValue": 427410, "date": "Feb 27" },
+    { "ticker": "TNC", "company": "Tennant Co", "insider": "Mulligan Donal L", "title": "Insider", "shares": 5000, "price": 63.86, "totalValue": 319300, "date": "Feb 26" },
+    { "ticker": "PVLA", "company": "Palvella Therapeutics", "insider": "Heron Elaine J", "title": "Director", "shares": 2400, "price": 125.00, "totalValue": 300000, "date": "Feb 27" },
+    { "ticker": "EHTH", "company": "eHealth", "insider": "Duke Derrick A", "title": "CEO", "shares": 187969, "price": 1.38, "totalValue": 259397, "date": "Feb 27" }
+  ],
+  "insiderBuysNote": "Showing top 20 of 49 total insider purchases ≥ $25,000. Data sourced directly from SEC EDGAR Form 4 filings.",
+  "insiderBuysSignals": "CEO Jared Isaacman of Shift4 ($FOUR) bought ~$13.6M across two days — notable given the stock's 60% decline from highs. ServiceNow CEO William McDermott bought $3M at $104.60. CoStar CEO Andrew Florance bought $2.5M. SoFi CEO Anthony Noto bought $1M.",
+  "postSummaries": [
+    {
+      "category": "Investing/Stocks",
+      "posts": [
+        {
+          "publication": "Coughlin Capital",
+          "title": "Shift4 (FOUR): Pain and Opportunity",
+          "url": "https://coughlincap.com/p/shift4-four-pain-and-opportunity",
+          "date": "Mar 02",
+          "summary": "A deep-dive Q4 earnings review of Shift4 ($FOUR), which is down ~60% from its highs but now trades at an attractive 13% FCF yield. Despite light 2026 guidance and temporary margin dilution from the Global Blue acquisition, the author remains bullish, noting it is one of their largest positions."
+        },
+        {
+          "publication": "Crack The Market",
+          "title": "The Nuclear Renaissance",
+          "url": "https://crackthemarket.substack.com/p/the-nuclear-renaissance",
+          "date": "Mar 01",
+          "summary": "A massive 34-minute deep-dive arguing that AI, electrification, and geopolitics are forcing a global return to nuclear energy. The piece highlights that US electricity demand is rising 6x faster than before and that the US is targeting 400GW of nuclear power by 2050. It provides a comprehensive investment playbook for the entire nuclear value chain."
+        },
+        {
+          "publication": "Multibagger Ideas",
+          "title": "The Blueprint for 1,000%+ Returns (Part 2)",
+          "url": "https://multibaggerideas.substack.com/p/the-blueprint-for-1000-returns-part-635",
+          "date": "Mar 02",
+          "summary": "This post analyzes stocks that have returned over 1,000% and concludes that traditional metrics like P/E and earnings growth are not reliable predictors. Instead, free cash flow yield emerges as the most significant factor for identifying potential multibagger returns."
+        },
+        {
+          "publication": "Sleep Well Investments",
+          "title": "Sleep Well Portfolio (Feb 2026) - Software AI risk Assessed",
+          "url": "https://www.sleepwellinvestments.com/p/sleep-well-portfolio-jan-2026-ai-threat",
+          "date": "Mar 02",
+          "summary": "The February portfolio update shows 5 losing positions out of 13 holdings, with the portfolio underperforming the S&P 500. The author is continuing the AI risk assessment framework from the previous post and plans to cut the most disrupted software companies."
+        },
+        {
+          "publication": "TMT Breakout",
+          "title": "TMTB EOD Wrap; MDB First Takes",
+          "url": "https://www.tmtbreakout.com/p/tmtb-eod-wrap-mdb-first-takes",
+          "date": "Mar 02",
+          "summary": "The market saw a \"buy the war news\" action as QQQs recovered from a 1.5% drop to close up 13bps. The big news was MongoDB ($MDB) crashing 25% after-hours on a significant guidance miss and the departure of two sales heads. In contrast, optical stocks like Coherent ($COHR) and Lumentum ($LITE) surged on a $2B investment from Nvidia."
+        },
+        {
+          "publication": "Wolf of Oakville",
+          "title": "Dirtt Environmental ($DRT.TO) FINS Review",
+          "url": "https://www.wolfofoakville.com/p/dirtt-environmental-drtto-fins-review",
+          "date": "Mar 02",
+          "summary": "A bearish review of Dirtt Environmental ($DRT.TO), giving it a 2.75/5 star rating. The author highlights declining revenue and margins, a questionable balance sheet, and management's poor track record on guidance, calling it a \"Reverse Wolf Trifecta.\""
+        }
+      ]
+    },
+    {
+      "category": "Tech & AI",
+      "posts": [
+        {
+          "publication": "Nate's Substack",
+          "title": "Why your AI starts from zero every time you open a new chat + my Open Brain guide",
+          "url": "https://natesnewsletter.substack.com/p/every-ai-you-use-forgets-you-heres",
+          "date": "Mar 02",
+          "summary": "This post identifies AI memory as the key bottleneck capping productivity. It introduces the \"Open Brain\" guide, a practical, low-cost solution to create persistent memory for AI tools, allowing them to build on previous interactions."
+        },
+        {
+          "publication": "The VC Corner",
+          "title": "Anthropic VS Pentagon, State of Pre-Seed, Perplexity's new AI Command Center",
+          "url": "https://www.thevccorner.com/p/anthropic-vs-pentagon-state-of-pre",
+          "date": "Mar 01",
+          "summary": "A weekly pulse check on the VC world. Key highlights include the DoD designating Anthropic a \"supply chain risk,\" a new report on the state of pre-seed funding, and Perplexity's launch of its new AI Command Center product."
+        },
+        {
+          "publication": "The VC Corner",
+          "title": "GEO & AEO in 2026: How to Rank When AI Answers the Question",
+          "url": "https://www.thevccorner.com/p/geo-aeo-how-to-rank-when-ai-answers",
+          "date": "Feb 28",
+          "summary": "A tactical playbook for the new era of search. This post explains Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO), providing strategies for how to rank and maintain visibility when AI chatbots are the primary source of answers."
+        }
+      ]
+    },
+    {
+      "category": "General/Other",
+      "posts": [
+        {
+          "publication": "The Efficiency Playbook",
+          "title": "Playbook Kickoff: March 02, 2026",
+          "url": "https://efficiencyplaybook.substack.com/p/playbook-kickoff-march-02-2026",
+          "date": "Mar 02",
+          "summary": "This weekly kickoff examines the tensions created by the AI transition, including the struggle of large IT firms to stay relevant, the push for AI adoption within tech companies, and the shift in BPO models from headcount to skill precision."
+        },
+        {
+          "publication": "The Founders Corner",
+          "title": "The Number That Will Decide Your Company's Survival",
+          "url": "https://www.the-founders-corner.com/p/the-number-that-will-decide-your",
+          "date": "Mar 02",
+          "summary": "A practical guide for startup founders on financial modeling. The post introduces a tool that helps founders understand how different decisions impact their burn rate and runway, which the author identifies as the most critical survival metric."
+        }
+      ]
+    }
+  ]
+}
