@@ -39,40 +39,264 @@
     "context": "The market remains in Fear territory, holding steady from the previous day. This reflects ongoing investor anxiety surrounding the US-Iran conflict, which has caused a spike in oil prices (Brent +8.75%). While major indices recovered from early losses, the underlying tension and geopolitical risk are keeping sentiment suppressed."
   },
   "stockHighlights": [
-    { "ticker": "MDB", "context": "-25% post-close on weak FY27 guidance and sales leadership changes.", "publication": "TMT Breakout" },
-    { "ticker": "FOUR", "context": "Down ~60% from highs, but author remains bullish on 13% FCF yield.", "publication": "Coughlin Capital" },
-    { "ticker": "DRT.TO", "context": "Bearish review citing declining revenue, margins, and questionable buybacks.", "publication": "Wolf of Oakville" },
-    { "ticker": "NVDA", "context": "Announced $2B investment in optical companies COHR and LITE.", "publication": "TMT Breakout" },
-    { "ticker": "Nuclear/Uranium", "context": "Bullish deep-dive on the nuclear renaissance supercycle.", "publication": "Crack The Market" }
+    {
+      "ticker": "MDB",
+      "context": "-25% post-close on weak FY27 guidance and sales leadership changes.",
+      "publication": "TMT Breakout"
+    },
+    {
+      "ticker": "FOUR",
+      "context": "Down ~60% from highs, but author remains bullish on 13% FCF yield.",
+      "publication": "Coughlin Capital"
+    },
+    {
+      "ticker": "DRT.TO",
+      "context": "Bearish review citing declining revenue, margins, and questionable buybacks.",
+      "publication": "Wolf of Oakville"
+    },
+    {
+      "ticker": "NVDA",
+      "context": "Announced $2B investment in optical companies COHR and LITE.",
+      "publication": "TMT Breakout"
+    },
+    {
+      "ticker": "Nuclear/Uranium",
+      "context": "Bullish deep-dive on the nuclear renaissance supercycle.",
+      "publication": "Crack The Market"
+    }
   ],
-  "bullishStocks": ["FOUR", "NVDA", "COHR", "LITE", "AEHR", "CCJ", "SMR"],
-  "bearishStocks": ["MDB", "DRT.TO"],
+  "bullishStocks": [
+    "FOUR",
+    "NVDA",
+    "COHR",
+    "LITE",
+    "AEHR",
+    "CCJ",
+    "SMR"
+  ],
+  "bearishStocks": [
+    "MDB",
+    "DRT.TO"
+  ],
   "socialBuzz": {
-    "high": ["MDB", "NVDA", "COHR", "LITE", "AVGO"],
-    "moderate": ["FOUR", "AEHR", "CCJ", "SMR"],
-    "low": ["DRT.TO"]
+    "high": [
+      "MDB",
+      "NVDA",
+      "COHR",
+      "LITE",
+      "AVGO"
+    ],
+    "moderate": [
+      "FOUR",
+      "AEHR",
+      "CCJ",
+      "SMR"
+    ],
+    "low": [
+      "DRT.TO"
+    ]
   },
   "insiderBuys": [
-    { "ticker": "GENB", "company": "Generate Biomedicines", "insider": "AFEYAN NOUBAR", "title": "Insider", "shares": 1562500, "price": 16.00, "totalValue": 25000000, "date": "Mar 02" },
-    { "ticker": "LRMR", "company": "Larimar Therapeutics", "insider": "Flynn James E", "title": "Director / 10% Owner", "shares": 5000000, "price": 5.00, "totalValue": 25000000, "date": "Feb 27" },
-    { "ticker": "ZURA", "company": "Zura Bio Ltd", "insider": "AI Biotechnology LLC", "title": "10% Owner", "shares": 2000000, "price": 6.25, "totalValue": 12500000, "date": "Feb 26" },
-    { "ticker": "FOUR", "company": "Shift4 Payments", "insider": "Isaacman Jared", "title": "Insider", "shares": 159244, "price": 44.15, "totalValue": 7030416, "date": "Feb 27" },
-    { "ticker": "FOUR", "company": "Shift4 Payments", "insider": "Isaacman Jared", "title": "Insider", "shares": 136993, "price": 48.38, "totalValue": 6627845, "date": "Feb 26" },
-    { "ticker": "BCAX", "company": "Bicara Therapeutics", "insider": "RA Capital Mgmt", "title": "Director / 10% Owner", "shares": 300000, "price": 16.00, "totalValue": 4800000, "date": "Feb 26" },
-    { "ticker": "NOW", "company": "ServiceNow", "insider": "McDermott William R", "title": "Chairman & CEO", "shares": 28677, "price": 104.60, "totalValue": 2999528, "date": "Feb 27" },
-    { "ticker": "CSGP", "company": "CoStar Group", "insider": "Florance Andrew C", "title": "President & CEO", "shares": 55720, "price": 44.52, "totalValue": 2480654, "date": "Feb 27" },
-    { "ticker": "IDYA", "company": "IDEAYA Biosciences", "insider": "Stein Jeffrey", "title": "Insider", "shares": 50000, "price": 32.96, "totalValue": 1647890, "date": "Mar 02" },
-    { "ticker": "SOFI", "company": "SoFi Technologies", "insider": "Noto Anthony", "title": "CEO", "shares": 56000, "price": 17.88, "totalValue": 1001515, "date": "Mar 02" },
-    { "ticker": "ACVA", "company": "ACV Auctions", "insider": "Waterman Michael", "title": "Chief Sales Officer", "shares": 214600, "price": 4.66, "totalValue": 1000036, "date": "Feb 26" },
-    { "ticker": "BCHT", "company": "Birchtech Corp", "insider": "MacPherson Richard", "title": "President & CEO", "shares": 312500, "price": 2.40, "totalValue": 750000, "date": "Feb 27" },
-    { "ticker": "PVLA", "company": "Palvella Therapeutics", "insider": "Jenkins George M", "title": "Director", "shares": 4000, "price": 125.00, "totalValue": 500000, "date": "Feb 27" },
-    { "ticker": "TFIN", "company": "Triumph Financial", "insider": "Graft Aaron P", "title": "President & CEO", "shares": 8949, "price": 55.87, "totalValue": 499981, "date": "Feb 27" },
-    { "ticker": "TNC", "company": "Tennant Co", "insider": "Glerum James T Jr.", "title": "Insider", "shares": 8163, "price": 61.25, "totalValue": 499980, "date": "Mar 02" },
-    { "ticker": "CTEV", "company": "Claritev Corp", "insider": "Kim Michael", "title": "EVP, Chief Digital Officer", "shares": 30000, "price": 14.30, "totalValue": 428955, "date": "Feb 27" },
-    { "ticker": "HRI", "company": "Herc Holdings", "insider": "Olin John A", "title": "Director", "shares": 3000, "price": 142.47, "totalValue": 427410, "date": "Feb 27" },
-    { "ticker": "TNC", "company": "Tennant Co", "insider": "Mulligan Donal L", "title": "Insider", "shares": 5000, "price": 63.86, "totalValue": 319300, "date": "Feb 26" },
-    { "ticker": "PVLA", "company": "Palvella Therapeutics", "insider": "Heron Elaine J", "title": "Director", "shares": 2400, "price": 125.00, "totalValue": 300000, "date": "Feb 27" },
-    { "ticker": "EHTH", "company": "eHealth", "insider": "Duke Derrick A", "title": "CEO", "shares": 187969, "price": 1.38, "totalValue": 259397, "date": "Feb 27" }
+    {
+      "ticker": "GENB",
+      "company": "Generate Biomedicines",
+      "insider": "AFEYAN NOUBAR",
+      "title": "Insider",
+      "shares": 1562500,
+      "price": 16.0,
+      "totalValue": 25000000,
+      "date": "Mar 02"
+    },
+    {
+      "ticker": "LRMR",
+      "company": "Larimar Therapeutics",
+      "insider": "Flynn James E",
+      "title": "Director / 10% Owner",
+      "shares": 5000000,
+      "price": 5.0,
+      "totalValue": 25000000,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "ZURA",
+      "company": "Zura Bio Ltd",
+      "insider": "AI Biotechnology LLC",
+      "title": "10% Owner",
+      "shares": 2000000,
+      "price": 6.25,
+      "totalValue": 12500000,
+      "date": "Feb 26"
+    },
+    {
+      "ticker": "FOUR",
+      "company": "Shift4 Payments",
+      "insider": "Isaacman Jared",
+      "title": "Insider",
+      "shares": 159244,
+      "price": 44.15,
+      "totalValue": 7030416,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "FOUR",
+      "company": "Shift4 Payments",
+      "insider": "Isaacman Jared",
+      "title": "Insider",
+      "shares": 136993,
+      "price": 48.38,
+      "totalValue": 6627845,
+      "date": "Feb 26"
+    },
+    {
+      "ticker": "BCAX",
+      "company": "Bicara Therapeutics",
+      "insider": "RA Capital Mgmt",
+      "title": "Director / 10% Owner",
+      "shares": 300000,
+      "price": 16.0,
+      "totalValue": 4800000,
+      "date": "Feb 26"
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "insider": "McDermott William R",
+      "title": "Chairman & CEO",
+      "shares": 28677,
+      "price": 104.6,
+      "totalValue": 2999528,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "CSGP",
+      "company": "CoStar Group",
+      "insider": "Florance Andrew C",
+      "title": "President & CEO",
+      "shares": 55720,
+      "price": 44.52,
+      "totalValue": 2480654,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "IDYA",
+      "company": "IDEAYA Biosciences",
+      "insider": "Stein Jeffrey",
+      "title": "Insider",
+      "shares": 50000,
+      "price": 32.96,
+      "totalValue": 1647890,
+      "date": "Mar 02"
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies",
+      "insider": "Noto Anthony",
+      "title": "CEO",
+      "shares": 56000,
+      "price": 17.88,
+      "totalValue": 1001515,
+      "date": "Mar 02"
+    },
+    {
+      "ticker": "ACVA",
+      "company": "ACV Auctions",
+      "insider": "Waterman Michael",
+      "title": "Chief Sales Officer",
+      "shares": 214600,
+      "price": 4.66,
+      "totalValue": 1000036,
+      "date": "Feb 26"
+    },
+    {
+      "ticker": "BCHT",
+      "company": "Birchtech Corp",
+      "insider": "MacPherson Richard",
+      "title": "President & CEO",
+      "shares": 312500,
+      "price": 2.4,
+      "totalValue": 750000,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "PVLA",
+      "company": "Palvella Therapeutics",
+      "insider": "Jenkins George M",
+      "title": "Director",
+      "shares": 4000,
+      "price": 125.0,
+      "totalValue": 500000,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "TFIN",
+      "company": "Triumph Financial",
+      "insider": "Graft Aaron P",
+      "title": "President & CEO",
+      "shares": 8949,
+      "price": 55.87,
+      "totalValue": 499981,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "TNC",
+      "company": "Tennant Co",
+      "insider": "Glerum James T Jr.",
+      "title": "Insider",
+      "shares": 8163,
+      "price": 61.25,
+      "totalValue": 499980,
+      "date": "Mar 02"
+    },
+    {
+      "ticker": "CTEV",
+      "company": "Claritev Corp",
+      "insider": "Kim Michael",
+      "title": "EVP, Chief Digital Officer",
+      "shares": 30000,
+      "price": 14.3,
+      "totalValue": 428955,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "HRI",
+      "company": "Herc Holdings",
+      "insider": "Olin John A",
+      "title": "Director",
+      "shares": 3000,
+      "price": 142.47,
+      "totalValue": 427410,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "TNC",
+      "company": "Tennant Co",
+      "insider": "Mulligan Donal L",
+      "title": "Insider",
+      "shares": 5000,
+      "price": 63.86,
+      "totalValue": 319300,
+      "date": "Feb 26"
+    },
+    {
+      "ticker": "PVLA",
+      "company": "Palvella Therapeutics",
+      "insider": "Heron Elaine J",
+      "title": "Director",
+      "shares": 2400,
+      "price": 125.0,
+      "totalValue": 300000,
+      "date": "Feb 27"
+    },
+    {
+      "ticker": "EHTH",
+      "company": "eHealth",
+      "insider": "Duke Derrick A",
+      "title": "CEO",
+      "shares": 187969,
+      "price": 1.38,
+      "totalValue": 259397,
+      "date": "Feb 27"
+    }
   ],
   "insiderBuysNote": "Showing top 20 of 49 total insider purchases ≥ $25,000. Data sourced directly from SEC EDGAR Form 4 filings.",
   "insiderBuysSignals": "CEO Jared Isaacman of Shift4 ($FOUR) bought ~$13.6M across two days — notable given the stock's 60% decline from highs. ServiceNow CEO William McDermott bought $3M at $104.60. CoStar CEO Andrew Florance bought $2.5M. SoFi CEO Anthony Noto bought $1M.",
@@ -80,7 +304,8 @@
     "source": "42 Macro",
     "author": "Darius Dale",
     "title": "More War, Fewer Rate Cuts",
-    "date": "March 2, 2026",
+    "date": "March 03, 2026",
+    "videoUrl": "https://www.youtube.com/watch?v=...",
     "themes": [
       {
         "title": "Geopolitical Risk & Inflation",
@@ -94,7 +319,7 @@
       },
       {
         "title": "Energy",
-        "description": "Bullish - supply disruptions from Saudi refinery suspension and Qatar LNG complex attacks.",
+        "description": "Bullish — supply disruptions from Saudi refinery suspension and Qatar LNG complex attacks.",
         "sentiment": "bullish"
       },
       {
@@ -203,42 +428,177 @@
       ]
     }
   ],
-  "watchlist": ["AEHR", "TSSI", "GKPRF", "KUYA", "OPTX", "TPCS", "IZEA", "CURI", "FWRD", "SNES", "NURS", "BCHT", "PESI", "ASG", "CZZLF", "TGEN", "COUR", "OSCR", "BFSA", "EVLV", "CXDO", "DBO", "CODA", "INFU", "SNIPF", "ITMSF", "AMPX", "GILT", "CRDO", "PGY", "SEZL", "BYRN"],
+  "watchlist": [
+    "AEHR",
+    "TSSI",
+    "GKPRF",
+    "KUYA",
+    "OPTX",
+    "TPCS",
+    "IZEA",
+    "CURI",
+    "FWRD",
+    "SNES",
+    "NURS",
+    "BCHT",
+    "PESI",
+    "ASG",
+    "CZZLF",
+    "TGEN",
+    "COUR",
+    "OSCR",
+    "BFSA",
+    "EVLV",
+    "CXDO",
+    "DBO",
+    "CODA",
+    "INFU",
+    "SNIPF",
+    "ITMSF",
+    "AMPX",
+    "GILT",
+    "CRDO",
+    "PGY",
+    "SEZL",
+    "BYRN"
+  ],
   "substackPublications": [
-    { "name": "Coughlin Capital", "url": "https://coughlincap.com" },
-    { "name": "Crack The Market", "url": "https://crackthemarket.substack.com" },
-    { "name": "Multibagger Ideas", "url": "https://multibaggerideas.substack.com" },
-    { "name": "Sleep Well Investments", "url": "https://www.sleepwellinvestments.com" },
-    { "name": "TMT Breakout", "url": "https://www.tmtbreakout.com" },
-    { "name": "Wolf of Oakville", "url": "https://www.wolfofoakville.com" },
-    { "name": "Nate's Substack", "url": "https://natesnewsletter.substack.com" },
-    { "name": "The VC Corner", "url": "https://www.thevccorner.com" },
-    { "name": "The Efficiency Playbook", "url": "https://efficiencyplaybook.substack.com" },
-    { "name": "The Founders Corner", "url": "https://www.the-founders-corner.com" },
-    { "name": "AmsterdamStocks", "url": "https://amsterdamstocks.substack.com" },
-    { "name": "Investor's Podcast Network", "url": "https://www.investorspodcastnetwork.com" },
-    { "name": "Contrarian Investing", "url": "https://contrarian-investing.substack.com" },
-    { "name": "Deep Value Investing", "url": "https://deepvalueinvesting.substack.com" },
-    { "name": "Micro Cap Opportunities", "url": "https://microcap-opportunities.substack.com" },
-    { "name": "Growth at a Reasonable Price", "url": "https://garp-investing.substack.com" },
-    { "name": "Biotech Insights", "url": "https://biotech-insights.substack.com" },
-    { "name": "Tech Trends Daily", "url": "https://tech-trends-daily.substack.com" },
-    { "name": "Energy Markets Weekly", "url": "https://energy-markets.substack.com" },
-    { "name": "Fintech Revolution", "url": "https://fintech-revolution.substack.com" },
-    { "name": "Healthcare Innovation", "url": "https://healthcare-innovation.substack.com" },
-    { "name": "Commodities & Macro", "url": "https://commodities-macro.substack.com" },
-    { "name": "Small Cap Stocks", "url": "https://smallcap-stocks.substack.com" },
-    { "name": "Dividend Aristocrats", "url": "https://dividend-aristocrats.substack.com" },
-    { "name": "Options Trading Strategies", "url": "https://options-trading.substack.com" },
-    { "name": "Crypto Markets Daily", "url": "https://crypto-markets.substack.com" },
-    { "name": "Real Estate Investing", "url": "https://realestate-investing.substack.com" },
-    { "name": "Emerging Markets Focus", "url": "https://emerging-markets.substack.com" },
-    { "name": "Quantitative Analysis", "url": "https://quant-analysis.substack.com" },
-    { "name": "Value Investing Classics", "url": "https://value-investing-classics.substack.com" },
-    { "name": "Market Mechanics", "url": "https://market-mechanics.substack.com" },
-    { "name": "Portfolio Management", "url": "https://portfolio-management.substack.com" },
-    { "name": "Risk Management Weekly", "url": "https://risk-management.substack.com" },
-    { "name": "42 Macro", "url": "https://42macro.substack.com" }
+    {
+      "name": "Coughlin Capital",
+      "url": "https://coughlincap.com"
+    },
+    {
+      "name": "Crack The Market",
+      "url": "https://crackthemarket.substack.com"
+    },
+    {
+      "name": "Multibagger Ideas",
+      "url": "https://multibaggerideas.substack.com"
+    },
+    {
+      "name": "Sleep Well Investments",
+      "url": "https://www.sleepwellinvestments.com"
+    },
+    {
+      "name": "TMT Breakout",
+      "url": "https://www.tmtbreakout.com"
+    },
+    {
+      "name": "Wolf of Oakville",
+      "url": "https://www.wolfofoakville.com"
+    },
+    {
+      "name": "Nate's Substack",
+      "url": "https://natesnewsletter.substack.com"
+    },
+    {
+      "name": "The VC Corner",
+      "url": "https://www.thevccorner.com"
+    },
+    {
+      "name": "The Efficiency Playbook",
+      "url": "https://efficiencyplaybook.substack.com"
+    },
+    {
+      "name": "The Founders Corner",
+      "url": "https://www.the-founders-corner.com"
+    },
+    {
+      "name": "AmsterdamStocks",
+      "url": "https://amsterdamstocks.substack.com"
+    },
+    {
+      "name": "Investor's Podcast Network",
+      "url": "https://www.investorspodcastnetwork.com"
+    },
+    {
+      "name": "Contrarian Investing",
+      "url": "https://contrarian-investing.substack.com"
+    },
+    {
+      "name": "Deep Value Investing",
+      "url": "https://deepvalueinvesting.substack.com"
+    },
+    {
+      "name": "Micro Cap Opportunities",
+      "url": "https://microcap-opportunities.substack.com"
+    },
+    {
+      "name": "Growth at a Reasonable Price",
+      "url": "https://garp-investing.substack.com"
+    },
+    {
+      "name": "Biotech Insights",
+      "url": "https://biotech-insights.substack.com"
+    },
+    {
+      "name": "Tech Trends Daily",
+      "url": "https://tech-trends-daily.substack.com"
+    },
+    {
+      "name": "Energy Markets Weekly",
+      "url": "https://energy-markets.substack.com"
+    },
+    {
+      "name": "Fintech Revolution",
+      "url": "https://fintech-revolution.substack.com"
+    },
+    {
+      "name": "Healthcare Innovation",
+      "url": "https://healthcare-innovation.substack.com"
+    },
+    {
+      "name": "Commodities & Macro",
+      "url": "https://commodities-macro.substack.com"
+    },
+    {
+      "name": "Small Cap Stocks",
+      "url": "https://smallcap-stocks.substack.com"
+    },
+    {
+      "name": "Dividend Aristocrats",
+      "url": "https://dividend-aristocrats.substack.com"
+    },
+    {
+      "name": "Options Trading Strategies",
+      "url": "https://options-trading.substack.com"
+    },
+    {
+      "name": "Crypto Markets Daily",
+      "url": "https://crypto-markets.substack.com"
+    },
+    {
+      "name": "Real Estate Investing",
+      "url": "https://realestate-investing.substack.com"
+    },
+    {
+      "name": "Emerging Markets Focus",
+      "url": "https://emerging-markets.substack.com"
+    },
+    {
+      "name": "Quantitative Analysis",
+      "url": "https://quant-analysis.substack.com"
+    },
+    {
+      "name": "Value Investing Classics",
+      "url": "https://value-investing-classics.substack.com"
+    },
+    {
+      "name": "Market Mechanics",
+      "url": "https://market-mechanics.substack.com"
+    },
+    {
+      "name": "Portfolio Management",
+      "url": "https://portfolio-management.substack.com"
+    },
+    {
+      "name": "Risk Management Weekly",
+      "url": "https://risk-management.substack.com"
+    },
+    {
+      "name": "42 Macro",
+      "url": "https://42macro.substack.com"
+    }
   ],
   "tickerIntel": {
     "AEHR": {
@@ -385,7 +745,7 @@
           "insider": "MacPherson Richard",
           "title": "President & CEO",
           "shares": 312500,
-          "price": 2.40,
+          "price": 2.4,
           "totalValue": 750000,
           "date": "Feb 27"
         }

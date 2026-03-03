@@ -14,7 +14,7 @@ interface Props {
 
 export default function StockSentiment({ bullish, bearish, highlights }: Props) {
   return (
-    <div className="dash-card">
+    <div>
       <div className="section-label flex items-center gap-2">
         <TrendingUp className="w-3.5 h-3.5 text-bull" />
         Stock Sentiment
