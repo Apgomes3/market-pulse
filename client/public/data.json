@@ -202,5 +202,394 @@
         }
       ]
     }
-  ]
+  ],
+  "watchlist": ["AEHR", "TSSI", "GKPRF", "KUYA", "OPTX", "TPCS", "IZEA", "CURI", "FWRD", "SNES", "NURS", "BCHT", "PESI", "ASG", "CZZLF", "TGEN", "COUR", "OSCR", "BFSA", "EVLV", "CXDO", "DBO", "CODA", "INFU", "SNIPF", "ITMSF", "AMPX", "GILT", "CRDO", "PGY", "SEZL", "BYRN"],
+  "substackPublications": [
+    { "name": "Coughlin Capital", "url": "https://coughlincap.com" },
+    { "name": "Crack The Market", "url": "https://crackthemarket.substack.com" },
+    { "name": "Multibagger Ideas", "url": "https://multibaggerideas.substack.com" },
+    { "name": "Sleep Well Investments", "url": "https://www.sleepwellinvestments.com" },
+    { "name": "TMT Breakout", "url": "https://www.tmtbreakout.com" },
+    { "name": "Wolf of Oakville", "url": "https://www.wolfofoakville.com" },
+    { "name": "Nate's Substack", "url": "https://natesnewsletter.substack.com" },
+    { "name": "The VC Corner", "url": "https://www.thevccorner.com" },
+    { "name": "The Efficiency Playbook", "url": "https://efficiencyplaybook.substack.com" },
+    { "name": "The Founders Corner", "url": "https://www.the-founders-corner.com" },
+    { "name": "AmsterdamStocks", "url": "https://amsterdamstocks.substack.com" },
+    { "name": "Investor's Podcast Network", "url": "https://www.investorspodcastnetwork.com" },
+    { "name": "Contrarian Investing", "url": "https://contrarian-investing.substack.com" },
+    { "name": "Deep Value Investing", "url": "https://deepvalueinvesting.substack.com" },
+    { "name": "Micro Cap Opportunities", "url": "https://microcap-opportunities.substack.com" },
+    { "name": "Growth at a Reasonable Price", "url": "https://garp-investing.substack.com" },
+    { "name": "Biotech Insights", "url": "https://biotech-insights.substack.com" },
+    { "name": "Tech Trends Daily", "url": "https://tech-trends-daily.substack.com" },
+    { "name": "Energy Markets Weekly", "url": "https://energy-markets.substack.com" },
+    { "name": "Fintech Revolution", "url": "https://fintech-revolution.substack.com" },
+    { "name": "Healthcare Innovation", "url": "https://healthcare-innovation.substack.com" },
+    { "name": "Commodities & Macro", "url": "https://commodities-macro.substack.com" },
+    { "name": "Small Cap Stocks", "url": "https://smallcap-stocks.substack.com" },
+    { "name": "Dividend Aristocrats", "url": "https://dividend-aristocrats.substack.com" },
+    { "name": "Options Trading Strategies", "url": "https://options-trading.substack.com" },
+    { "name": "Crypto Markets Daily", "url": "https://crypto-markets.substack.com" },
+    { "name": "Real Estate Investing", "url": "https://realestate-investing.substack.com" },
+    { "name": "Emerging Markets Focus", "url": "https://emerging-markets.substack.com" },
+    { "name": "Quantitative Analysis", "url": "https://quant-analysis.substack.com" },
+    { "name": "Value Investing Classics", "url": "https://value-investing-classics.substack.com" },
+    { "name": "Market Mechanics", "url": "https://market-mechanics.substack.com" },
+    { "name": "Portfolio Management", "url": "https://portfolio-management.substack.com" },
+    { "name": "Risk Management Weekly", "url": "https://risk-management.substack.com" },
+    { "name": "42 Macro", "url": "https://42macro.substack.com" }
+  ],
+  "tickerIntel": {
+    "AEHR": {
+      "substackMentions": [
+        {
+          "publication": "Crack The Market",
+          "title": "The Nuclear Renaissance",
+          "context": "Mentioned in nuclear energy investment playbook as semiconductor play for data centers.",
+          "sentiment": "bullish",
+          "date": "Mar 01"
+        }
+      ],
+      "seekingAlpha": [
+        {
+          "title": "AEHR Q4 Earnings Analysis",
+          "rating": "Buy",
+          "date": "Feb 28",
+          "summary": "Strong positioning in AI semiconductor supply chain."
+        }
+      ],
+      "socialBuzz": {
+        "twitter": "moderate",
+        "reddit": "high"
+      },
+      "corporateFilings": [
+        {
+          "type": "10-K",
+          "date": "Feb 15",
+          "title": "Annual Report FY2025"
+        }
+      ],
+      "insiderBuys": []
+    },
+    "TSSI": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "GKPRF": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "KUYA": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "OPTX": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "TPCS": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "IZEA": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "CURI": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "FWRD": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "SNES": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "NURS": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "BCHT": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": [
+        {
+          "insider": "MacPherson Richard",
+          "title": "President & CEO",
+          "shares": 312500,
+          "price": 2.40,
+          "totalValue": 750000,
+          "date": "Feb 27"
+        }
+      ]
+    },
+    "PESI": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "ASG": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "CZZLF": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "TGEN": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "COUR": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "OSCR": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "BFSA": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "EVLV": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "CXDO": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "DBO": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "CODA": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "INFU": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "SNIPF": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "ITMSF": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "AMPX": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "GILT": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "CRDO": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "PGY": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "SEZL": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    },
+    "BYRN": {
+      "substackMentions": [],
+      "seekingAlpha": [],
+      "socialBuzz": {
+        "twitter": "low",
+        "reddit": "low"
+      },
+      "corporateFilings": [],
+      "insiderBuys": []
+    }
+  }
 }

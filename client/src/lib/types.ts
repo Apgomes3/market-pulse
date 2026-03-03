@@ -16,6 +16,9 @@ export interface DashboardData {
   insiderBuysSignals: string;
   macroOverview: MacroOverview;
   postSummaries: PostCategory[];
+  watchlist: string[];
+  substackPublications: SubstackPublication[];
+  tickerIntel: Record<string, TickerIntel>;
 }
 
 export interface KeyTheme {
@@ -79,4 +82,52 @@ export interface MacroTheme {
   title: string;
   description: string;
   sentiment: "bullish" | "bearish" | "hawkish" | "neutral";
+}
+
+export interface SubstackPublication {
+  name: string;
+  url: string;
+}
+
+export interface TickerIntel {
+  substackMentions: SubstackMention[];
+  seekingAlpha: SeekingAlphaMention[];
+  socialBuzz: SocialBuzzTicker;
+  corporateFilings: CorporateFiling[];
+  insiderBuys: TickerInsiderBuy[];
+}
+
+export interface SubstackMention {
+  publication: string;
+  title: string;
+  context: string;
+  sentiment: "bullish" | "bearish" | "neutral";
+  date: string;
+}
+
+export interface SeekingAlphaMention {
+  title: string;
+  rating: string;
+  date: string;
+  summary: string;
+}
+
+export interface SocialBuzzTicker {
+  twitter: "low" | "moderate" | "high";
+  reddit: "low" | "moderate" | "high";
+}
+
+export interface CorporateFiling {
+  type: string;
+  date: string;
+  title: string;
+}
+
+export interface TickerInsiderBuy {
+  insider: string;
+  title: string;
+  shares: number;
+  price: number;
+  totalValue: number;
+  date: string;
 }
