@@ -76,6 +76,39 @@
   ],
   "insiderBuysNote": "Showing top 20 of 49 total insider purchases ≥ $25,000. Data sourced directly from SEC EDGAR Form 4 filings.",
   "insiderBuysSignals": "CEO Jared Isaacman of Shift4 ($FOUR) bought ~$13.6M across two days — notable given the stock's 60% decline from highs. ServiceNow CEO William McDermott bought $3M at $104.60. CoStar CEO Andrew Florance bought $2.5M. SoFi CEO Anthony Noto bought $1M.",
+  "macroOverview": {
+    "source": "42 Macro",
+    "author": "Darius Dale",
+    "title": "More War, Fewer Rate Cuts",
+    "date": "March 2, 2026",
+    "themes": [
+      {
+        "title": "Geopolitical Risk & Inflation",
+        "description": "Strait of Hormuz closure + attacks on Saudi/Qatari energy infrastructure driving Brent crude up ~9% to >$79/bbl. War is inflationary through multiple channels.",
+        "sentiment": "bearish"
+      },
+      {
+        "title": "Fed Policy Outlook",
+        "description": "Market actively pricing out rate cuts. Powell-led Fed will seize any excuse to delay easing.",
+        "sentiment": "hawkish"
+      },
+      {
+        "title": "Energy",
+        "description": "Bullish - supply disruptions from Saudi refinery suspension and Qatar LNG complex attacks.",
+        "sentiment": "bullish"
+      },
+      {
+        "title": "Rates",
+        "description": "Hawkish — yields rising as traders pare back rate cut expectations.",
+        "sentiment": "hawkish"
+      },
+      {
+        "title": "Bitcoin",
+        "description": "\"Dr. Mo\" signal has been \"no position\" since Nov 7, 2025.",
+        "sentiment": "neutral"
+      }
+    ]
+  },
   "postSummaries": [
     {
       "category": "Investing/Stocks",

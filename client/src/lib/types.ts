@@ -3,7 +3,7 @@ export interface DashboardData {
   dataAsOf: string;
   postsCount: number;
   publicationsCount: number;
-  subscriptionsCount: number;
+  subscriptionsCount: string;
   quickSummary: string;
   keyThemes: KeyTheme[];
   fearGreedIndex: FearGreedIndex;
@@ -14,6 +14,7 @@ export interface DashboardData {
   insiderBuys: InsiderBuy[];
   insiderBuysNote: string;
   insiderBuysSignals: string;
+  macroOverview: MacroOverview;
   postSummaries: PostCategory[];
 }
 
@@ -64,4 +65,18 @@ export interface Post {
   url: string;
   date: string;
   summary: string;
+}
+
+export interface MacroOverview {
+  source: string;
+  author: string;
+  title: string;
+  date: string;
+  themes: MacroTheme[];
+}
+
+export interface MacroTheme {
+  title: string;
+  description: string;
+  sentiment: "bullish" | "bearish" | "hawkish" | "neutral";
 }

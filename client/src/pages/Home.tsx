@@ -13,6 +13,7 @@ import FearGreedGauge from "@/components/FearGreedGauge";
 import StockSentiment from "@/components/StockSentiment";
 import SocialBuzz from "@/components/SocialBuzz";
 import InsiderBuys from "@/components/InsiderBuys";
+import MacroOverview from "@/components/MacroOverview";
 import PostSummaries from "@/components/PostSummaries";
 
 export default function Home() {
@@ -54,6 +55,15 @@ export default function Home() {
       <main className="container py-6 md:py-8">
         {/* Key Themes — full width */}
         <KeyThemes themes={data.keyThemes} />
+
+        {/* Macro Overview — full width, prominent */}
+        <motion.div
+          initial={{ opacity: 0, y: 16 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.2, duration: 0.5 }}
+        >
+          <MacroOverview data={data.macroOverview} />
+        </motion.div>
 
         {/* Dashboard grid — asymmetric */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-5">
