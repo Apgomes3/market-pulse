@@ -2,6 +2,7 @@
  * Dashboard Router — Market Pulse
  * Handles data.json persistence: read, update watchlist, update publications.
  * Single source of truth: data.json stored in S3 and synced to GitHub.
+ * Optimized with 5-minute in-memory cache and 2-second S3 fetch timeout.
  */
 import { z } from "zod";
 import { publicProcedure, router } from "./_core/trpc";
@@ -11,8 +12,14 @@ import { ENV } from "./_core/env";
 const DATA_KEY = "market-pulse/data.json";
 const GITHUB_REPO = "Apgomes3/market-pulse";
 const GITHUB_FILE_PATH = "client/public/data.json";
+const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+const S3_FETCH_TIMEOUT = 2000; // 2 seconds
 
-// ─── GitHub sync helper ───────────────────────────────────────────────────────
+// ─── In-memory cache ─────────────────────────────────────────────────────────
+let cachedData: Record<string, unknown> | null = null;
+let cacheTime = 0;
+
+// ─── GitHub sync helper ──────────────────────────────────────────────────────
 async function syncToGitHub(jsonContent: string): Promise<void> {
   const token = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
   if (!token) {
@@ -71,31 +78,59 @@ async function syncToGitHub(jsonContent: string): Promise<void> {
   }
 }
 
-// ─── S3 helpers ───────────────────────────────────────────────────────────────
+// ─── S3 helpers with caching and timeout ──────────────────────────────────────
 async function readDataFromS3(): Promise<Record<string, unknown> | null> {
+  // Check cache first
+  if (cachedData && Date.now() - cacheTime < CACHE_TTL) {
+    console.log("[Dashboard] Using cached data");
+    return cachedData;
+  }
+
   try {
     const { url } = await storageGet(DATA_KEY);
-    const res = await fetch(url);
-    if (!res.ok) return null;
-    return await res.json();
-  } catch {
-    return null;
+
+    // Fetch with timeout
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), S3_FETCH_TIMEOUT);
+
+    const res = await fetch(url, { signal: controller.signal });
+    clearTimeout(timeout);
+
+    if (!res.ok) {
+      console.warn("[Dashboard] S3 returned non-OK status:", res.status);
+      return cachedData || null;
+    }
+
+    const data = await res.json();
+
+    // Cache the result
+    cachedData = data;
+    cacheTime = Date.now();
+
+    return data;
+  } catch (error) {
+    console.warn("[Dashboard] S3 fetch failed, falling back to cache", error);
+    return cachedData || null; // Return cached data if available, even if stale
   }
 }
 
 async function writeDataToS3(data: Record<string, unknown>): Promise<void> {
   const json = JSON.stringify(data, null, 2);
   await storagePut(DATA_KEY, Buffer.from(json), "application/json");
+
+  // Invalidate cache on write
+  cachedData = data;
+  cacheTime = Date.now();
 }
 
-// ─── Router ───────────────────────────────────────────────────────────────────
+// ─── Router ──────────────────────────────────────────────────────────────────
 export const dashboardRouter = router({
   /**
-   * Get dashboard data — tries S3 first, falls back to static file
+   * Get dashboard data — uses cache with 5-min TTL, S3 fetch with 2-sec timeout
    */
   getData: publicProcedure.query(async () => {
     const s3Data = await readDataFromS3();
-    return { data: s3Data, source: s3Data ? "s3" : "static" };
+    return { data: s3Data, source: s3Data ? "s3" : "cache" };
   }),
 
   /**
