@@ -14,6 +14,8 @@ import {
   X,
   Settings,
   Clock,
+  Wifi,
+  WifiOff,
 } from "lucide-react";
 
 export type NavSection = "overview" | "intelligence" | "watchlist" | "publications";
@@ -24,6 +26,7 @@ interface Props {
   reportDate: string;
   watchlistCount: number;
   publicationsCount: number;
+  dataSource?: "github" | "s3" | "static";
 }
 
 const navItems: { id: NavSection; label: string; icon: React.ReactNode; group: "main" | "settings" }[] = [
@@ -33,7 +36,7 @@ const navItems: { id: NavSection; label: string; icon: React.ReactNode; group: "
   { id: "publications", label: "Publications", icon: <Rss className="w-4 h-4" />, group: "settings" },
 ];
 
-export default function Sidebar({ active, onNavigate, reportDate, watchlistCount, publicationsCount }: Props) {
+export default function Sidebar({ active, onNavigate, reportDate, watchlistCount, publicationsCount, dataSource = "static" }: Props) {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   const mainItems = navItems.filter((n) => n.group === "main");
@@ -123,7 +126,24 @@ export default function Sidebar({ active, onNavigate, reportDate, watchlistCount
       </div>
 
       {/* Footer */}
-      <div className="p-4 pt-2 border-t border-sidebar-border">
+      <div className="p-4 pt-2 border-t border-sidebar-border space-y-2">
+        {/* Data source indicator */}
+        <div className={`flex items-center gap-1.5 text-[10px] font-medium px-2 py-1 rounded ${
+          dataSource === "github"
+            ? "text-emerald-400 bg-emerald-400/10"
+            : dataSource === "s3"
+            ? "text-blue-400 bg-blue-400/10"
+            : "text-amber-400 bg-amber-400/10"
+        }`}>
+          {dataSource === "github" || dataSource === "s3" ? (
+            <Wifi className="w-3 h-3" />
+          ) : (
+            <WifiOff className="w-3 h-3" />
+          )}
+          <span>
+            {dataSource === "github" ? "Live · GitHub" : dataSource === "s3" ? "Live · S3" : "Cached · Build"}
+          </span>
+        </div>
         <div className="text-[10px] text-muted-foreground/50 leading-relaxed">
           <span className="font-semibold text-muted-foreground/70" style={{ fontFamily: "var(--font-heading)" }}>
             Daily Intelligence

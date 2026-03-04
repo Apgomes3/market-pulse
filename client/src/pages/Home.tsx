@@ -46,7 +46,7 @@ const NAV_ITEMS: { id: NavSection; label: string; icon: React.ReactNode; descrip
 ];
 
 export default function Home() {
-  const { data, loading, error } = useDashboardData();
+  const { data, loading, error, dataSource } = useDashboardData();
   const [activeSection, setActiveSection] = useState<NavSection>("overview");
   const [watchlist, setWatchlistState] = useState<string[]>([]);
   const [publications, setPublicationsState] = useState<SubstackPublication[]>([]);
@@ -224,6 +224,19 @@ export default function Home() {
 
       {/* Footer stats */}
       <div className="px-4 py-3 border-t border-border/50 space-y-1.5">
+        {/* Data source indicator */}
+        <div className={`flex items-center gap-1.5 text-[10px] font-medium px-1.5 py-1 rounded mb-1 ${
+          dataSource === "github"
+            ? "text-emerald-400 bg-emerald-400/10"
+            : dataSource === "s3"
+            ? "text-blue-400 bg-blue-400/10"
+            : "text-amber-400 bg-amber-400/10"
+        }`}>
+          <span className="w-1.5 h-1.5 rounded-full animate-pulse" style={{ backgroundColor: dataSource === "github" ? "#34d399" : dataSource === "s3" ? "#60a5fa" : "#fbbf24" }} />
+          <span>
+            {dataSource === "github" ? "Live · GitHub" : dataSource === "s3" ? "Live · S3" : "Cached · Build"}
+          </span>
+        </div>
         <div className="flex items-center justify-between text-[10px] text-muted-foreground">
           <span>Watchlist</span>
           <span className="font-mono text-foreground/60">{watchlist.length} tickers</span>
