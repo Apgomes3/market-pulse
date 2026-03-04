@@ -21,7 +21,7 @@ let cacheTime = 0;
 
 // ─── GitHub sync helper ──────────────────────────────────────────────────────
 async function syncToGitHub(jsonContent: string): Promise<void> {
-  const token = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
+  const token = process.env.MARKET_PULSE_GITHUB_TOKEN || process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
   if (!token) {
     console.warn("[GitHub] No token available — skipping GitHub sync");
     return;
