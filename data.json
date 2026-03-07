@@ -1,112 +1,101 @@
 {
-  "reportDate": "March 07, 2026",
-  "dataAsOf": "Mar 07, 2026, 02:00 AM ET",
-  "postsCount": 11,
-  "publicationsCount": 8,
+  "reportDate": "March 08, 2026",
+  "dataAsOf": "Mar 08, 2026, 10:00 AM ET",
+  "postsCount": 5,
+  "publicationsCount": 5,
   "subscriptionsCount": 34,
-  "quickSummary": "Dow suffered worst week since April as oil hit $90 on Iran escalation and NFP showed -92K jobs with unemployment at 4.4%. Fear & Greed dropped to 27 (Fear). Insider buying accelerated \u2014 TTD $148M, KKR Co-CEOs $13.5M combined, NOW CEO $3M. Coughlin Cap: BABA mispriced at RSI 22. Crack The Market: Nebius as purest AI compute play. VC Corner: SaaS valuations reset to ~5x revenue.",
+  "quickSummary": "Weekend edition: Boredom Baron's European Fear Gauge hit 82/100 (PANIC) \u2014 a 38-point weekly surge \u2014 as the Strait of Hormuz closure created the largest energy supply disruption since 2022. Coughlin Cap argues Coupang's -40% drawdown is overblown. Made In Japan examines AI disruption of Japanese software. Nate's blind eval finds GPT-5.4 fails common sense but excels at quant tasks. NFP -92K, oil $90, Fear & Greed at 27.",
   "keyThemes": [
     {
-      "title": "NFP Catastrophe: -92K Jobs",
-      "description": "US economy lost 92,000 jobs in February, unemployment rose to 4.4%. Worst week since April for the Dow. Mortgage rates hit 6%.",
-      "icon": "alert"
+      "title": "Hormuz Closure / PANIC",
+      "description": "Boredom Baron European Fear Gauge surged to 82/100 (PANIC) from 44. VSTOXX went from 18.3 to 90 in one week. Largest energy supply disruption since Ukraine invasion.",
+      "icon": "globe"
     },
     {
-      "title": "Alibaba Mispriced at RSI 22",
-      "description": "Coughlin Cap argues BABA selloff is geopolitical dislocation, not business deterioration. Hang Seng at 2-month lows, KOSPI triggered trading halt.",
-      "icon": "trending"
-    },
-    {
-      "title": "Nebius: Purest AI Compute Play",
-      "description": "Crack The Market's most comprehensive NBIS case: full-stack vertical integration, TCO advantage over hyperscalers, >3GW capacity expansion.",
-      "icon": "cpu"
-    },
-    {
-      "title": "KKR Insider Cluster Buy",
-      "description": "Both Co-CEOs (Bae, Nuttall) + director Barakett bought ~$13.5M combined. TTD CEO Green's $148M purchase remains the week's dominant signal.",
+      "title": "Dollar is King",
+      "description": "Gold declined despite a live shooting war. Capital wants 'dollars, and only dollars.' Safe-haven demand jumped 11x but flows to USD, not gold.",
       "icon": "dollar"
     },
     {
-      "title": "The Great SaaS Reset",
-      "description": "VC Corner: median public software now trades at ~5x revenue (down from 50-100x in 2021). Capital efficiency replaces growth-at-all-costs.",
-      "icon": "globe"
+      "title": "CPNG Breach Overblown",
+      "description": "Coughlin Cap: Revenue $8.8B (+14% CC), breach forensics show no financial data compromised. Stock -40% from highs, near lowest-ever multiples.",
+      "icon": "trending"
+    },
+    {
+      "title": "GPT-5.4 vs Claude vs Gemini",
+      "description": "Nate's blind eval: GPT-5.4 fails basic common sense but wins on quant modeling. Models converging on capability, diverging on philosophy.",
+      "icon": "cpu"
+    },
+    {
+      "title": "Stagflation Risk Rising",
+      "description": "NFP -92K jobs, unemployment 4.4%, oil at $90, mortgage rates at 6%. Prolonged Hormuz closure + weak labor market = stagflationary setup.",
+      "icon": "alert"
     }
   ],
   "fearGreedIndex": {
     "value": 27,
     "label": "Fear",
-    "previousClose": "Fear (34)",
-    "context": "Down 7 points. NFP -92K jobs, unemployment 4.4%, oil at $90, Dow worst week since April. 1 week ago: Fear (38). 1 month ago: Neutral (46). Approaching Extreme Fear territory."
+    "previousClose": "Fear (33)",
+    "context": "Down 6 points to 27, approaching Extreme Fear. Dropped 19 points in two weeks (46 to 27). Dow worst week since April. Oil $90. NFP -92K. 1 week ago: 38. 1 month ago: 46. 1 year ago: 17 (Extreme Fear)."
   },
   "stockHighlights": [
     {
-      "ticker": "BABA",
-      "context": "Coughlin Cap: 'Mispriced' \u2014 RSI ~22, capitulation territory amid Asia-wide selloff",
-      "sentiment": "Bullish (contrarian)"
-    },
-    {
-      "ticker": "NBIS",
-      "context": "Crack The Market: Pure-play AI Neocloud, full-stack vertical integration, >3GW expansion",
+      "ticker": "CPNG",
+      "context": "Q4 rev $8.8B (+14% CC), breach overblown per Coughlin Cap, stock -40% from highs",
       "sentiment": "Bullish"
     },
     {
-      "ticker": "SE",
-      "context": "Sleep Well: Q4'25 -16% to ~$88 on Shopee margin guidance (0.55% FY27 vs 0.7% FY25)",
-      "sentiment": "Cautious"
-    },
-    {
       "ticker": "TTD",
-      "context": "CEO Jeff Green $148M purchase (+373% position) continues to reverberate",
+      "context": "CEO Jeff Green $148M purchase (+373% position) \u2014 dominant insider signal of the week",
       "sentiment": "Bullish"
     },
     {
       "ticker": "KKR",
-      "context": "Both Co-CEOs + director buying ~$13.5M combined",
+      "context": "4-person cluster buy totaling $15.6M from both Co-CEOs + directors",
       "sentiment": "Bullish"
     },
     {
-      "ticker": "NOW",
-      "context": "CEO McDermott bought $3M at $104.60",
-      "sentiment": "Bullish"
+      "ticker": "MCB.TO",
+      "context": "McCoy Global -18% after Q4/2025 annual earnings, Wolf of Oakville reviewing thesis",
+      "sentiment": "Bearish"
     },
     {
-      "ticker": "FOUR",
-      "context": "CEO Isaacman total purchases ~$15.7M across multiple tranches",
-      "sentiment": "Bullish"
+      "ticker": "Oil",
+      "context": "$90/bbl, biggest weekly surge since 2022, Hormuz effectively closed",
+      "sentiment": "Bearish (macro)"
+    },
+    {
+      "ticker": "Japan SaaS",
+      "context": "Made In Japan: structural buffers but transition pain ahead from AI disruption",
+      "sentiment": "Cautious"
     }
   ],
   "bullishStocks": [
-    "BABA",
-    "NBIS",
+    "CPNG",
     "TTD",
     "KKR",
-    "NOW",
-    "FOUR",
     "AVGO"
   ],
   "bearishStocks": [
-    "SE",
-    "KOSPI",
-    "Samsung",
-    "Hynix",
+    "MCB.TO",
+    "Oil-exposed equities",
+    "European small-caps",
     "SaaS (broad)"
   ],
   "socialBuzz": {
     "high": [
-      "BABA \u2014 Mispriced thesis at RSI 22",
-      "NBIS \u2014 Purest AI compute deep dive",
-      "TTD \u2014 $148M CEO purchase reverberating",
-      "SE \u2014 Q4 -16% post-earnings debate"
+      "Oil/Energy \u2014 $90 oil, Hormuz closure dominating macro discussion",
+      "CPNG \u2014 Earnings + breach narrative debate",
+      "TTD \u2014 $148M CEO buy still reverberating"
     ],
     "moderate": [
-      "KKR \u2014 Co-CEO cluster buy $13.5M",
-      "NOW \u2014 CEO buying $3M at $104.60",
-      "FOUR \u2014 CEO Isaacman ~$15.7M total",
-      "AVGO \u2014 Post-earnings rally continuing"
+      "KKR \u2014 Cluster buy from leadership",
+      "GPT-5.4 \u2014 Model comparison discourse",
+      "AVGO \u2014 Post-MS TMT Conference"
     ],
     "low": [
-      "AAPL \u2014 Budget i17 launch at $799",
-      "SABR \u2014 Constellation Software 10% stake"
+      "MCB.TO \u2014 -18% post-earnings",
+      "Japan SaaS \u2014 AI disruption analysis"
     ]
   },
   "insiderBuys": [
@@ -147,6 +136,24 @@
       "price": 72.61
     },
     {
+      "ticker": "KKR",
+      "company": "KKR & Co",
+      "insider": "4 insiders (cluster)",
+      "title": "Dir / Co-CEO",
+      "totalValue": 15561586,
+      "date": "Feb 27-Mar 04",
+      "price": 0
+    },
+    {
+      "ticker": "FOUR",
+      "company": "Shift4 Payments",
+      "insider": "Jared Isaacman",
+      "title": "10%",
+      "totalValue": 15661208,
+      "date": "Feb 26-Mar 02",
+      "price": 0
+    },
+    {
       "ticker": "PAR",
       "company": "Par Technology",
       "insider": "Voss Capital LP",
@@ -154,15 +161,6 @@
       "totalValue": 14669703,
       "date": "Jan 14",
       "price": 27.88
-    },
-    {
-      "ticker": "FOUR",
-      "company": "Shift4 Payments",
-      "insider": "Jared Isaacman",
-      "title": "10%",
-      "totalValue": 13658260,
-      "date": "Feb 26",
-      "price": 46.11
     },
     {
       "ticker": "WGS",
@@ -205,36 +203,27 @@
       "company": "Hycroft Mining",
       "insider": "Eric Sprott",
       "title": "10%",
-      "totalValue": 4758000,
-      "date": "Mar 04",
-      "price": 47.58
+      "totalValue": 8843000,
+      "date": "Mar 04-05",
+      "price": 0
     },
     {
-      "ticker": "KKR",
-      "company": "KKR & Co",
-      "insider": "Timothy R. Barakett",
-      "title": "Dir",
-      "totalValue": 4723500,
-      "date": "Mar 04",
-      "price": 94.47
+      "ticker": "NMFC",
+      "company": "New Mountain Finance",
+      "insider": "Steven Klinsky",
+      "title": "Dir / 10%",
+      "totalValue": 7958082,
+      "date": "Mar 03-05",
+      "price": 0
     },
     {
-      "ticker": "KKR",
-      "company": "KKR & Co",
-      "insider": "Joseph Y. Bae",
-      "title": "Co-CEO",
-      "totalValue": 4428000,
+      "ticker": "THRY",
+      "company": "Thryv Holdings",
+      "insider": "Paulson & Co",
+      "title": "10%",
+      "totalValue": 6100453,
       "date": "Feb 27",
-      "price": 88.56
-    },
-    {
-      "ticker": "KKR",
-      "company": "KKR & Co",
-      "insider": "Scott C. Nuttall",
-      "title": "Co-CEO",
-      "totalValue": 4390500,
-      "date": "Feb 27",
-      "price": 87.81
+      "price": 2.5
     },
     {
       "ticker": "VNO",
@@ -264,15 +253,6 @@
       "price": 44.52
     },
     {
-      "ticker": "FOUR",
-      "company": "Shift4 Payments",
-      "insider": "Jared Isaacman",
-      "title": "10%",
-      "totalValue": 2002948,
-      "date": "Mar 02",
-      "price": 43.83
-    },
-    {
       "ticker": "ABTC",
       "company": "American Bitcoin",
       "insider": "Justin Mateen",
@@ -289,74 +269,83 @@
       "totalValue": 1824002,
       "date": "Mar 04",
       "price": 72.96
+    },
+    {
+      "ticker": "IDYA",
+      "company": "Ideaya Biosciences",
+      "insider": "Jeffrey Stein",
+      "title": "Dir",
+      "totalValue": 1647890,
+      "date": "Mar 02",
+      "price": 32.96
     }
   ],
-  "insiderBuysNote": "Top 20 open-market purchases from SEC Form 4 filings (Feb 27 \u2013 Mar 6, 2026).",
-  "insiderBuysSignals": "TTD CEO Jeff Green's $148M purchase remains the dominant signal. KKR cluster buy: both Co-CEOs + director totaling ~$13.5M. GeneDx (WGS) Corvex's Keith Meister added $13.5M. Shift4 CEO Isaacman total >$15.7M. New: Hycroft Mining (HYMC) Eric Sprott $4.8M, American Bitcoin (ABTC) Tinder co-founder Justin Mateen $1.85M (+248% position).",
+  "insiderBuysNote": "Top 20 open-market purchases from SEC Form 4 filings (Feb 27 \u2013 Mar 7, 2026).",
+  "insiderBuysSignals": "TTD CEO Jeff Green's $148M purchase (+373% position) remains the dominant signal. KKR saw a 4-person cluster buy totaling $15.6M from both Co-CEOs + directors. Eric Sprott doubled down on HYMC with two consecutive purchases ($8.8M). NMFC's Steven Klinsky made 3 separate purchases totaling ~$8M. Breadth of insider buying during a panic week is a historically bullish contrarian signal.",
   "macroOverview": {
-    "source": "42 Macro",
-    "author": "Darius Dale",
-    "title": "Worst week since April \u2014 NFP miss compounds geopolitical shock",
-    "date": "March 7, 2026",
+    "source": "42 Macro / Boredom Baron",
+    "author": "Darius Dale / Boredom Baron",
+    "title": "Stagflation risk rises as Hormuz closure meets labor market deterioration",
+    "date": "March 8, 2026",
     "themes": [
       {
-        "title": "Labor Market",
-        "description": "NFP -92K; unemployment 4.4% (worst since 2021). Devastating miss.",
-        "sentiment": "bearish"
-      },
-      {
         "title": "Energy",
-        "description": "Oil at $90; Hormuz Strait disruption fears intensifying.",
+        "description": "Oil at $90, biggest weekly surge since 2022. Hormuz effectively closed. Saudi Arabia hiking prices. U.S. SPR depleted.",
         "sentiment": "bearish"
       },
       {
-        "title": "Equities",
-        "description": "Dow worst week since April; S&P 6,740. AI earnings provide counterbalance.",
+        "title": "Labor Market",
+        "description": "NFP -92K jobs, unemployment 4.4%. Worst jobs report since 2021. Stagflation risk rising.",
         "sentiment": "bearish"
       },
       {
-        "title": "Fear & Greed",
-        "description": "27 (Fear) \u2014 approaching Extreme Fear territory.",
+        "title": "European Panic",
+        "description": "Boredom Baron Fear Gauge 82/100 (PANIC). VSTOXX 18.3 to 90 in one week. Private credit redemptions. IPO market frozen.",
+        "sentiment": "bearish"
+      },
+      {
+        "title": "Dollar / Safe Haven",
+        "description": "USD sole safe haven. Gold declining despite shooting war. Market says 'I want dollars, and only dollars.'",
+        "sentiment": "hawkish"
+      },
+      {
+        "title": "Asia",
+        "description": "Morgan Stanley downgraded entire Asian region. India secured 30-day Russian crude waiver but can't offset 2.6M bpd ME exposure.",
         "sentiment": "bearish"
       },
       {
         "title": "Insider Buying",
-        "description": "$350M+ in open-market purchases this week \u2014 historically bullish contrarian signal.",
-        "sentiment": "bullish"
-      },
-      {
-        "title": "Fed Policy",
-        "description": "Rate cuts pushed further out; energy-driven inflation risk.",
-        "sentiment": "hawkish"
-      },
-      {
-        "title": "Bonds",
-        "description": "Mortgage rates at 6%; yields rising across the curve.",
-        "sentiment": "bearish"
+        "description": "$350M+ in open-market purchases this week. TTD $148M, KKR $15.6M cluster. Historically bullish contrarian signal.",
+        "sentiment": "contrarian bullish"
       }
     ]
   },
   "postSummaries": [
     {
+      "category": "Geopolitical / Macro",
+      "posts": [
+        {
+          "publication": "Boredom Baron",
+          "title": "Weekly Intelligence Briefing (6 March 2026)",
+          "date": "Mar 6",
+          "summary": "European Fear Gauge surged to 82/100 (PANIC) from 44. VSTOXX 18.3 to 90 in one week. Hormuz effectively closed \u2014 largest energy supply disruption since Ukraine invasion. Dollar is king \u2014 gold declining despite war. Safe-haven demand jumped 11x. Geopolitical risk score: -8 (deepest negative). Panics are 'the best thing that ever happens to watchlists.'"
+        }
+      ]
+    },
+    {
       "category": "Investing / Stock Analysis",
       "posts": [
         {
           "publication": "Coughlin Capital",
-          "title": "Alibaba is Mispriced",
-          "date": "Mar 05",
-          "summary": "BABA at RSI ~22 in low $130s \u2014 full capitulation territory. Selloff driven by Asia-wide geopolitical dislocation (Hang Seng 2-month lows, KOSPI trading halt, billions in HK outflows), not Alibaba business deterioration."
+          "title": "Coupang (CPNG): Q4 2025 Earnings Review",
+          "date": "Mar 7",
+          "summary": "Revenue $8.8B (+14% CC). Core Korean Product Commerce growing 16% CC before December data breach. January was trough (~4% CC), February improving. Mandiant/Palo Alto forensics: no financial data compromised. Stock -40% from highs, near lowest-ever multiples. Author bullish: breach narrative overblown."
         },
         {
-          "publication": "Crack The Market",
-          "title": "Nebius: The Purest Way to Play AI Compute",
-          "date": "Mar 06",
-          "summary": "Most comprehensive NBIS analysis online. Pure-play AI Neocloud with full-stack vertical integration, TCO advantage over hyperscalers, >3GW capacity expansion without toxic debt. Compelling risk-reward with hyper-growth compressing multiples."
-        },
-        {
-          "publication": "Sleep Well Investments",
-          "title": "Sea Limited (SE) Q4'25 \u2014 Shopee in Focus",
-          "date": "Mar 06",
-          "summary": "Shares -16% to ~$88. Shopee margin guided 0.55% FY27 vs 0.7% FY25. Author bullish on decade-long thesis: ~400M buyers, ~20M sellers, ~$3.5B FCF. Margin sacrifice seen as temporary."
+          "publication": "Wolf of Oakville",
+          "title": "McCoy Global ($MCB.TO) FINS Review",
+          "date": "Mar 7",
+          "summary": "MCB dropped 18% after Q4/2025 annual earnings. Author's 'Seal of Approval' pick at $2.39 had appreciated 85% before this drop, now only up 12%. Had flagged as 'danger zone' in February but had reasons wrong. Paywalled deep dive. Canadian oilfield services microcap."
         }
       ]
     },
@@ -364,121 +353,18 @@
       "category": "Tech & AI",
       "posts": [
         {
-          "publication": "TMT Breakout",
-          "title": "TMTB Morning Wrap",
-          "date": "Mar 06",
-          "summary": "Daily morning market wrap covering tech sector. Follows MS TMT Conference coverage and Broadcom earnings reaction."
-        },
-        {
           "publication": "Nate's Substack",
-          "title": "Claude Code and Codex bet on different harnesses",
-          "date": "Mar 06",
-          "summary": "Stop comparing models, start comparing harnesses. Claude Code vs Codex represent different orchestration approaches. Includes 2 prompts to audit which harness your team is compounding."
+          "title": "GPT-5.4 beat human performance on desktop tasks and missed a question a child would get right",
+          "date": "Mar 7",
+          "summary": "Blind eval of GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1. GPT-5.4 failed trivial common-sense question but wins on quant modeling and file processing. 'Toggle' splits model into two products. 'Pipeline problem' failure mode. Models converging on capability, diverging on philosophy. OpenAI building agentic infrastructure."
         },
         {
-          "publication": "Nate's Substack",
-          "title": "Grab the prompt kit to audit your AI platform lock-in",
-          "date": "Mar 05",
-          "summary": "Practical toolkit for auditing AI platform lock-in. Switching costs compounding past the point of no return. Prompts to assess vendor dependency."
-        },
-        {
-          "publication": "Nate's Substack",
-          "title": "Claude won 4 of 8 blind writing tests",
-          "date": "Mar 04",
-          "summary": "Claude leads reasoning by 14.6 points, follows instructions 94% of the time. No single metric tells the full story \u2014 the real question is workflow fit."
-        },
-        {
-          "publication": "Tech Taiwan",
-          "title": "How a Taiwanese VC Broke Into the Commercial Space Industry",
-          "date": "Mar 06",
-          "summary": "Profile of Liang-rong Chen in commercial space. Apple budget i17 at $799 ($100 cheaper). Memory prices soaring; Chinese brands preparing 15-20% price increases."
+          "publication": "Made In Japan",
+          "title": "Japanese Software will be okay: Thoughts (and prayers)",
+          "date": "Mar 7",
+          "summary": "AI (Claude) impact on Japanese software: business model disruption (shorter dev cycles, more auditing) and lower switching costs (COBOL modernization). But Japan has structural buffers: tight labor market, cultural enterprise relationships, regulatory complexity. Selloff partly justified but Japanese software more resilient than global narrative suggests."
         }
       ]
-    },
-    {
-      "category": "VC / Startups",
-      "posts": [
-        {
-          "publication": "The VC Corner",
-          "title": "The Great SaaS Reset: From 30x Euphoria to AI-Driven Repricing",
-          "date": "Mar 06",
-          "summary": "Median public software at ~5x revenue (some near 4x), down from 50-100x in 2021. Capital efficiency and durable retention replace growth-at-all-costs. The whole SaaS industry is being repriced."
-        }
-      ]
-    },
-    {
-      "category": "Business / Operations",
-      "posts": [
-        {
-          "publication": "The Efficiency Playbook",
-          "title": "The Quiet Shift Behind Modern Coaching Businesses",
-          "date": "Mar 06",
-          "summary": "Expert-led businesses moving from people-based to system-based support. Real value in ideas and relationships; everything else should be systematized."
-        },
-        {
-          "publication": "The Efficiency Playbook",
-          "title": "War, Oil, and the Hidden Variable in the Outsourcing Market",
-          "date": "Mar 04",
-          "summary": "Iran conflict could reshape outsourcing demand. Cost shocks from rising oil ripple through corporate spending, historically driving outsourcing adoption."
-        }
-      ]
-    }
-  ],
-  "newPostsByDate": [
-    {
-      "date": "Mar 06",
-      "publication": "The VC Corner",
-      "title": "The Great SaaS Reset: From 30x Euphoria to AI-Driven Repricing"
-    },
-    {
-      "date": "Mar 06",
-      "publication": "TMT Breakout",
-      "title": "TMTB Morning Wrap"
-    },
-    {
-      "date": "Mar 06",
-      "publication": "Crack The Market",
-      "title": "Nebius: The Purest Way to Play AI Compute"
-    },
-    {
-      "date": "Mar 06",
-      "publication": "Sleep Well Investments",
-      "title": "Sea Limited (SE) Q4'25 \u2014 Shopee in Focus"
-    },
-    {
-      "date": "Mar 06",
-      "publication": "Nate's Substack",
-      "title": "Claude Code and Codex bet on different harnesses"
-    },
-    {
-      "date": "Mar 06",
-      "publication": "The Efficiency Playbook",
-      "title": "The Quiet Shift Behind Modern Coaching Businesses"
-    },
-    {
-      "date": "Mar 06",
-      "publication": "Tech Taiwan",
-      "title": "How a Taiwanese VC Broke Into the Commercial Space Industry"
-    },
-    {
-      "date": "Mar 05",
-      "publication": "Coughlin Capital",
-      "title": "Alibaba is Mispriced"
-    },
-    {
-      "date": "Mar 05",
-      "publication": "Nate's Substack",
-      "title": "Grab the prompt kit to audit your AI platform lock-in"
-    },
-    {
-      "date": "Mar 04",
-      "publication": "Nate's Substack",
-      "title": "Claude won 4 of 8 blind writing tests"
-    },
-    {
-      "date": "Mar 04",
-      "publication": "The Efficiency Playbook",
-      "title": "War, Oil, and the Hidden Variable in the Outsourcing Market"
     }
   ]
 }
