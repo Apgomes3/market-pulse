@@ -1,101 +1,103 @@
 {
-  "reportDate": "March 08, 2026",
-  "dataAsOf": "Mar 08, 2026, 10:00 AM ET",
-  "postsCount": 5,
-  "publicationsCount": 5,
+  "reportDate": "March 09, 2026",
+  "dataAsOf": "Mar 09, 2026, 10:00 AM ET",
+  "postsCount": 12,
+  "publicationsCount": 12,
   "subscriptionsCount": 34,
-  "quickSummary": "Weekend edition: Boredom Baron's European Fear Gauge hit 82/100 (PANIC) \u2014 a 38-point weekly surge \u2014 as the Strait of Hormuz closure created the largest energy supply disruption since 2022. Coughlin Cap argues Coupang's -40% drawdown is overblown. Made In Japan examines AI disruption of Japanese software. Nate's blind eval finds GPT-5.4 fails common sense but excels at quant tasks. NFP -92K, oil $90, Fear & Greed at 27.",
+  "quickSummary": "Weekend edition with heavy volume \u2014 12 new posts across 12 publications. The week's dominant narratives crystallized: software-vs-semis rotation produced a 6-sigma event (IGV outperformed SOX by 15%), oil posted its biggest weekly spike ever on Iran escalation, and NFP printed -92K. Insider buying accelerated into weakness \u2014 KKR cluster at $15.6M across 4 insiders. Deep dives on TWLO (18x fwd FCF, AI voice optionality), FIZZ (13.2x EV/EBIT, 40% ROE), and KITS.TO (downgraded on hidden BTC loss). Fear & Greed at 27 (Fear).",
   "keyThemes": [
     {
-      "title": "Hormuz Closure / PANIC",
-      "description": "Boredom Baron European Fear Gauge surged to 82/100 (PANIC) from 44. VSTOXX went from 18.3 to 90 in one week. Largest energy supply disruption since Ukraine invasion.",
-      "icon": "globe"
-    },
-    {
-      "title": "Dollar is King",
-      "description": "Gold declined despite a live shooting war. Capital wants 'dollars, and only dollars.' Safe-haven demand jumped 11x but flows to USD, not gold.",
-      "icon": "dollar"
-    },
-    {
-      "title": "CPNG Breach Overblown",
-      "description": "Coughlin Cap: Revenue $8.8B (+14% CC), breach forensics show no financial data compromised. Stock -40% from highs, near lowest-ever multiples.",
+      "title": "Software vs Semis: 6-Sigma Event",
+      "description": "IGV outperformed SOX by 15% in one week \u2014 biggest spread in 15 years. Previous record was 8%. TMTB had called the rotation but violence exceeded expectations.",
       "icon": "trending"
     },
     {
-      "title": "GPT-5.4 vs Claude vs Gemini",
-      "description": "Nate's blind eval: GPT-5.4 fails basic common sense but wins on quant modeling. Models converging on capability, diverging on philosophy.",
+      "title": "3 Middle East Scenarios",
+      "description": "Crack The Market: De-escalation (40%), Contained conflict (35%), Full escalation/Hormuz closure (25%). Recommends 15-20% cash, energy hedges.",
+      "icon": "globe"
+    },
+    {
+      "title": "AI Reshaping Work Structure",
+      "description": "Nate: AI raised per-person output 10x ($300K to $2M/yr) but coordination costs unchanged. 6th team member destroys value. 'Scout vs strike team' framework.",
       "icon": "cpu"
     },
     {
-      "title": "Stagflation Risk Rising",
-      "description": "NFP -92K jobs, unemployment 4.4%, oil at $90, mortgage rates at 6%. Prolonged Hormuz closure + weak labor market = stagflationary setup.",
-      "icon": "alert"
+      "title": "Prompt Engineering Is Dead",
+      "description": "VC Corner: Karpathy says replaced by 'context engineering.' Amodei says AGI closer than expected. Immerman: AI eats SaaS but expands total market.",
+      "icon": "zap"
+    },
+    {
+      "title": "TWLO: AI Voice Optionality",
+      "description": "Stock Talk: 18x fwd FCF, share count down 20%, AI voice agent optionality in $100B+ call center market. 50% FCF to buybacks = $3B+ by 2030.",
+      "icon": "dollar"
     }
   ],
   "fearGreedIndex": {
     "value": 27,
     "label": "Fear",
     "previousClose": "Fear (33)",
-    "context": "Down 6 points to 27, approaching Extreme Fear. Dropped 19 points in two weeks (46 to 27). Dow worst week since April. Oil $90. NFP -92K. 1 week ago: 38. 1 month ago: 46. 1 year ago: 17 (Extreme Fear)."
+    "context": "Unchanged at 27 (weekend). Down 19 points in two weeks (46 to 27), approaching Extreme Fear (25). Friday bounce +1.33% was relief rally, not reversal. 1 week ago: 38. 1 month ago: 46. 1 year ago: 17 (Extreme Fear)."
   },
   "stockHighlights": [
     {
-      "ticker": "CPNG",
-      "context": "Q4 rev $8.8B (+14% CC), breach overblown per Coughlin Cap, stock -40% from highs",
+      "ticker": "TWLO",
+      "context": "Stock Talk deep dive: 18x fwd FCF, AI voice agent optionality, share count -20%, 50% FCF to buybacks",
       "sentiment": "Bullish"
     },
     {
-      "ticker": "TTD",
-      "context": "CEO Jeff Green $148M purchase (+373% position) \u2014 dominant insider signal of the week",
+      "ticker": "FIZZ",
+      "context": "Security Analysis: 13.2x EV/EBIT, 40% ROE, 12% D/E \u2014 quality consumer staples compounder",
       "sentiment": "Bullish"
     },
     {
-      "ticker": "KKR",
-      "context": "4-person cluster buy totaling $15.6M from both Co-CEOs + directors",
+      "ticker": "IGV",
+      "context": "Software ETF outperformed SOX by 15% in one week \u2014 6-sigma event, biggest spread in 15 years",
       "sentiment": "Bullish"
     },
     {
-      "ticker": "MCB.TO",
-      "context": "McCoy Global -18% after Q4/2025 annual earnings, Wolf of Oakville reviewing thesis",
+      "ticker": "KITS.TO",
+      "context": "Wolf downgraded: hidden $5M BTC ETF investment at $114K now -41%, potential $900K+ hit = half Q1 profit",
       "sentiment": "Bearish"
     },
     {
-      "ticker": "Oil",
-      "context": "$90/bbl, biggest weekly surge since 2022, Hormuz effectively closed",
-      "sentiment": "Bearish (macro)"
+      "ticker": "SOX",
+      "context": "Semis rotation: SOX -7.21% for week, violent rotation into software",
+      "sentiment": "Bearish"
     },
     {
-      "ticker": "Japan SaaS",
-      "context": "Made In Japan: structural buffers but transition pain ahead from AI disruption",
-      "sentiment": "Cautious"
+      "ticker": "SE",
+      "context": "Multibagger doubling down after -15% earnings selloff, views it as 'a gift'",
+      "sentiment": "Contrarian Bullish"
     }
   ],
   "bullishStocks": [
-    "CPNG",
+    "TWLO",
+    "FIZZ",
     "TTD",
     "KKR",
-    "AVGO"
+    "European defense"
   ],
   "bearishStocks": [
-    "MCB.TO",
-    "Oil-exposed equities",
-    "European small-caps",
-    "SaaS (broad)"
+    "KITS.TO",
+    "SOX/semis",
+    "Oil-exposed consumer",
+    "SaaS (broad AI disruption)"
   ],
   "socialBuzz": {
     "high": [
-      "Oil/Energy \u2014 $90 oil, Hormuz closure dominating macro discussion",
-      "CPNG \u2014 Earnings + breach narrative debate",
+      "IGV/SOX \u2014 6-sigma spread, software vs semis rotation",
+      "Oil/XLE \u2014 biggest weekly spike ever, $90/bbl",
       "TTD \u2014 $148M CEO buy still reverberating"
     ],
     "moderate": [
-      "KKR \u2014 Cluster buy from leadership",
-      "GPT-5.4 \u2014 Model comparison discourse",
-      "AVGO \u2014 Post-MS TMT Conference"
+      "TWLO \u2014 AI voice optionality deep dive",
+      "KKR \u2014 cluster buy expanding to $15.6M",
+      "SE \u2014 contrarian buy signal"
     ],
     "low": [
-      "MCB.TO \u2014 -18% post-earnings",
-      "Japan SaaS \u2014 AI disruption analysis"
+      "KITS.TO \u2014 BTC collateral damage",
+      "FIZZ \u2014 quality compounder deep dive",
+      "NBIS \u2014 AI compute pure play"
     ]
   },
   "insiderBuys": [
@@ -136,22 +138,13 @@
       "price": 72.61
     },
     {
-      "ticker": "KKR",
-      "company": "KKR & Co",
-      "insider": "4 insiders (cluster)",
-      "title": "Dir / Co-CEO",
-      "totalValue": 15561586,
-      "date": "Feb 27-Mar 04",
-      "price": 0
-    },
-    {
-      "ticker": "FOUR",
-      "company": "Shift4 Payments",
-      "insider": "Jared Isaacman",
+      "ticker": "PRHI",
+      "company": "Presurance Holdings",
+      "insider": "Clarkston Companies",
       "title": "10%",
-      "totalValue": 15661208,
-      "date": "Feb 26-Mar 02",
-      "price": 0
+      "totalValue": 17065360,
+      "date": "Dec 23",
+      "price": 1.88
     },
     {
       "ticker": "PAR",
@@ -161,6 +154,15 @@
       "totalValue": 14669703,
       "date": "Jan 14",
       "price": 27.88
+    },
+    {
+      "ticker": "FOUR",
+      "company": "Shift4 Payments",
+      "insider": "Jared Isaacman",
+      "title": "10%",
+      "totalValue": 13658260,
+      "date": "Feb 26",
+      "price": 46.11
     },
     {
       "ticker": "WGS",
@@ -199,22 +201,13 @@
       "price": 1.16
     },
     {
-      "ticker": "HYMC",
-      "company": "Hycroft Mining",
-      "insider": "Eric Sprott",
+      "ticker": "RPGL",
+      "company": "Republic Power Group",
+      "insider": "Cetera Wealth",
       "title": "10%",
-      "totalValue": 8843000,
-      "date": "Mar 04-05",
-      "price": 0
-    },
-    {
-      "ticker": "NMFC",
-      "company": "New Mountain Finance",
-      "insider": "Steven Klinsky",
-      "title": "Dir / 10%",
-      "totalValue": 7958082,
-      "date": "Mar 03-05",
-      "price": 0
+      "totalValue": 9345281,
+      "date": "Feb 24",
+      "price": 7.2
     },
     {
       "ticker": "THRY",
@@ -226,6 +219,60 @@
       "price": 2.5
     },
     {
+      "ticker": "CAQ",
+      "company": "Cambridge Acquisition",
+      "insider": "Michael Tam Cam-Phung",
+      "title": "Dir / 10%",
+      "totalValue": 4955000,
+      "date": "Feb 09",
+      "price": 10.0
+    },
+    {
+      "ticker": "BCAX",
+      "company": "Bicara Therapeutics",
+      "insider": "Ra Capital",
+      "title": "Dir / 10%",
+      "totalValue": 4800000,
+      "date": "Feb 26",
+      "price": 16.0
+    },
+    {
+      "ticker": "HYMC",
+      "company": "Hycroft Mining",
+      "insider": "Eric Sprott",
+      "title": "10%",
+      "totalValue": 4758000,
+      "date": "Mar 04",
+      "price": 47.58
+    },
+    {
+      "ticker": "KKR",
+      "company": "KKR & Co",
+      "insider": "Timothy Barakett",
+      "title": "Dir",
+      "totalValue": 4723500,
+      "date": "Mar 04",
+      "price": 94.47
+    },
+    {
+      "ticker": "KKR",
+      "company": "KKR & Co",
+      "insider": "Joseph Bae",
+      "title": "Co-CEO",
+      "totalValue": 4428000,
+      "date": "Feb 27",
+      "price": 88.56
+    },
+    {
+      "ticker": "KKR",
+      "company": "KKR & Co",
+      "insider": "Scott Nuttall",
+      "title": "Co-CEO",
+      "totalValue": 4390500,
+      "date": "Feb 27",
+      "price": 87.81
+    },
+    {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "insider": "Daniel R. Tisch",
@@ -233,90 +280,45 @@
       "totalValue": 4171000,
       "date": "Feb 27",
       "price": 26.91
-    },
-    {
-      "ticker": "NOW",
-      "company": "ServiceNow",
-      "insider": "William R. McDermott",
-      "title": "CEO",
-      "totalValue": 3000058,
-      "date": "Feb 27",
-      "price": 104.6
-    },
-    {
-      "ticker": "CSGP",
-      "company": "CoStar Group",
-      "insider": "Andrew C. Florance",
-      "title": "CEO",
-      "totalValue": 2480654,
-      "date": "Feb 27",
-      "price": 44.52
-    },
-    {
-      "ticker": "ABTC",
-      "company": "American Bitcoin",
-      "insider": "Justin Mateen",
-      "title": "Dir",
-      "totalValue": 1854000,
-      "date": "Mar 03",
-      "price": 1.03
-    },
-    {
-      "ticker": "TPC",
-      "company": "Tutor Perini",
-      "insider": "Peter Arkley",
-      "title": "Dir",
-      "totalValue": 1824002,
-      "date": "Mar 04",
-      "price": 72.96
-    },
-    {
-      "ticker": "IDYA",
-      "company": "Ideaya Biosciences",
-      "insider": "Jeffrey Stein",
-      "title": "Dir",
-      "totalValue": 1647890,
-      "date": "Mar 02",
-      "price": 32.96
     }
   ],
-  "insiderBuysNote": "Top 20 open-market purchases from SEC Form 4 filings (Feb 27 \u2013 Mar 7, 2026).",
-  "insiderBuysSignals": "TTD CEO Jeff Green's $148M purchase (+373% position) remains the dominant signal. KKR saw a 4-person cluster buy totaling $15.6M from both Co-CEOs + directors. Eric Sprott doubled down on HYMC with two consecutive purchases ($8.8M). NMFC's Steven Klinsky made 3 separate purchases totaling ~$8M. Breadth of insider buying during a panic week is a historically bullish contrarian signal.",
+  "insiderBuysNote": "Top 20 open-market purchases from SEC Form 4 filings (Feb 24 \u2013 Mar 7, 2026).",
+  "insiderBuysSignals": "TTD CEO Jeff Green's $148M purchase (+373% position) remains the dominant signal. KKR cluster buy expanded to $15.6M across 4 insiders (both Co-CEOs + 2 directors). Sprott doubled down on HYMC ($8.8M total across 2 buys). NMFC's Klinsky made 3 purchases totaling ~$7.9M. SSP (E.W. Scripps) cluster buy from 2 insiders ($2.4M). Breadth of insider buying during a panic week is historically bullish.",
   "macroOverview": {
-    "source": "42 Macro / Boredom Baron",
-    "author": "Darius Dale / Boredom Baron",
-    "title": "Stagflation risk rises as Hormuz closure meets labor market deterioration",
-    "date": "March 8, 2026",
+    "source": "42 Macro / Market Data",
+    "author": "Darius Dale",
+    "title": "Stagflation risk intensifies as Hormuz closure meets labor market deterioration",
+    "date": "March 9, 2026",
     "themes": [
       {
-        "title": "Energy",
-        "description": "Oil at $90, biggest weekly surge since 2022. Hormuz effectively closed. Saudi Arabia hiking prices. U.S. SPR depleted.",
+        "title": "Software vs Semis Rotation",
+        "description": "6-sigma event: IGV outperformed SOX by 15% in one week. Biggest weekly spread in 15 years. Previous record was 8%. MS TMT Conference amplified the dislocation.",
+        "sentiment": "bullish software"
+      },
+      {
+        "title": "Energy Crisis",
+        "description": "Oil at $90, biggest weekly spike ever. Hormuz effectively closed. Largest energy supply disruption since Ukraine invasion.",
         "sentiment": "bearish"
       },
       {
         "title": "Labor Market",
-        "description": "NFP -92K jobs, unemployment 4.4%. Worst jobs report since 2021. Stagflation risk rising.",
-        "sentiment": "bearish"
-      },
-      {
-        "title": "European Panic",
-        "description": "Boredom Baron Fear Gauge 82/100 (PANIC). VSTOXX 18.3 to 90 in one week. Private credit redemptions. IPO market frozen.",
+        "description": "NFP -92K jobs, unemployment 4.4%. Worst jobs report since 2021. Combined with oil = stagflationary setup.",
         "sentiment": "bearish"
       },
       {
         "title": "Dollar / Safe Haven",
-        "description": "USD sole safe haven. Gold declining despite shooting war. Market says 'I want dollars, and only dollars.'",
+        "description": "USD sole safe haven. Gold declining despite shooting war. Capital wants 'dollars, and only dollars.'",
         "sentiment": "hawkish"
-      },
-      {
-        "title": "Asia",
-        "description": "Morgan Stanley downgraded entire Asian region. India secured 30-day Russian crude waiver but can't offset 2.6M bpd ME exposure.",
-        "sentiment": "bearish"
       },
       {
         "title": "Insider Buying",
         "description": "$350M+ in open-market purchases this week. TTD $148M, KKR $15.6M cluster. Historically bullish contrarian signal.",
         "sentiment": "contrarian bullish"
+      },
+      {
+        "title": "AI Disruption",
+        "description": "Prompt engineering dead (Karpathy). AGI closer than expected (Amodei). AI eating SaaS but expanding total market (Immerman). Per-person output 10x (Nate).",
+        "sentiment": "structural shift"
       }
     ]
   },
@@ -325,10 +327,22 @@
       "category": "Geopolitical / Macro",
       "posts": [
         {
+          "publication": "Crack The Market",
+          "title": "3 Scenarios for the Middle East Crisis and What They Mean for Your Portfolio",
+          "date": "Mar 7",
+          "summary": "De-escalation (40%), Contained conflict (35%), Full escalation/Hormuz closure (25%). Recommends 15-20% cash, energy hedges, avoid levered positions."
+        },
+        {
+          "publication": "The Price of Everything",
+          "title": "The Dead Zone",
+          "date": "Mar 7",
+          "summary": "Tim Price: Cronenberg parallels to current geopolitics. 2022 UK gilt crisis as case study for systemic risk. Gold and value investing remain correct positioning. Austrian-school macro."
+        },
+        {
           "publication": "Boredom Baron",
-          "title": "Weekly Intelligence Briefing (6 March 2026)",
-          "date": "Mar 6",
-          "summary": "European Fear Gauge surged to 82/100 (PANIC) from 44. VSTOXX 18.3 to 90 in one week. Hormuz effectively closed \u2014 largest energy supply disruption since Ukraine invasion. Dollar is king \u2014 gold declining despite war. Safe-haven demand jumped 11x. Geopolitical risk score: -8 (deepest negative). Panics are 'the best thing that ever happens to watchlists.'"
+          "title": "52% Total Return Potential: Fortress Europe's \u20ac70M New Revenue Machine",
+          "date": "Mar 8",
+          "summary": "Undisclosed European defense/industrial company with \u20ac70M new contracted revenue. 52% total return potential. NATO rearmament catalyst."
         }
       ]
     },
@@ -336,16 +350,28 @@
       "category": "Investing / Stock Analysis",
       "posts": [
         {
-          "publication": "Coughlin Capital",
-          "title": "Coupang (CPNG): Q4 2025 Earnings Review",
-          "date": "Mar 7",
-          "summary": "Revenue $8.8B (+14% CC). Core Korean Product Commerce growing 16% CC before December data breach. January was trough (~4% CC), February improving. Mandiant/Palo Alto forensics: no financial data compromised. Stock -40% from highs, near lowest-ever multiples. Author bullish: breach narrative overblown."
+          "publication": "Stock Talk Newsletter",
+          "title": "TWLO - Future Buyback Champion & AI Winner at 18x Fwd FCF?",
+          "date": "Mar 8",
+          "summary": "Bull case: 'Super-network' moat across 5,000 carriers. Share count -20%. AI voice agent optionality in $100B+ call center market. 50% FCF to buybacks = $3B+ by 2030. Customer count +24% to 402K."
+        },
+        {
+          "publication": "Security Analysis",
+          "title": "National Beverage Corp (FIZZ)",
+          "date": "Mar 8",
+          "summary": "LaCroix parent: EV/EBIT 13.2x, ROE 40.72%, Debt/Equity 12%, FCF Yield 5.5%, Market Cap $3.34B. Quality consumer staples compounder."
         },
         {
           "publication": "Wolf of Oakville",
-          "title": "McCoy Global ($MCB.TO) FINS Review",
-          "date": "Mar 7",
-          "summary": "MCB dropped 18% after Q4/2025 annual earnings. Author's 'Seal of Approval' pick at $2.39 had appreciated 85% before this drop, now only up 12%. Had flagged as 'danger zone' in February but had reasons wrong. Paywalled deep dive. Canadian oilfield services microcap."
+          "title": "KITS Eyecare ($KITS.TO) FINS Review \u2014 Downgraded to 3/5",
+          "date": "Mar 8",
+          "summary": "Revenue $200M+, 200bps margin improvement, debt extinguished. BUT: OCF -12%, marketing costs rising, hidden $5M BTC ETF investment at $114K now -41% = $900K+ hit (half Q1 profit)."
+        },
+        {
+          "publication": "Multibagger Ideas",
+          "title": "Portfolio Update #2",
+          "date": "Mar 6",
+          "summary": "Largest position -15% on earnings. Author doubling down \u2014 views selloff as 'a gift.' Deploying cash into existing holdings, cutting one position, adding new name."
         }
       ]
     },
@@ -353,16 +379,34 @@
       "category": "Tech & AI",
       "posts": [
         {
-          "publication": "Nate's Substack",
-          "title": "GPT-5.4 beat human performance on desktop tasks and missed a question a child would get right",
-          "date": "Mar 7",
-          "summary": "Blind eval of GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1. GPT-5.4 failed trivial common-sense question but wins on quant modeling and file processing. 'Toggle' splits model into two products. 'Pipeline problem' failure mode. Models converging on capability, diverging on philosophy. OpenAI building agentic infrastructure."
+          "publication": "TMT Breakout",
+          "title": "TMTB Weekly",
+          "date": "Mar 8",
+          "summary": "Software outperformed semis by 15% (6-sigma event) \u2014 biggest weekly spread in 15 years. IGV +7.85% vs SOX -7.21%. TMTB called the rotation but violence exceeded expectations."
         },
         {
-          "publication": "Made In Japan",
-          "title": "Japanese Software will be okay: Thoughts (and prayers)",
-          "date": "Mar 7",
-          "summary": "AI (Claude) impact on Japanese software: business model disruption (shorter dev cycles, more auditing) and lower switching costs (COBOL modernization). But Japan has structural buffers: tight labor market, cultural enterprise relationships, regulatory complexity. Selloff partly justified but Japanese software more resilient than global narrative suggests."
+          "publication": "Compound With AI",
+          "title": "Use Claude to Understand Any Business 10x Faster",
+          "date": "Mar 8",
+          "summary": "Practical guide: prompt frameworks for deconstructing business models from 10-Ks, building moat maps, identifying red flags, generating thesis summaries."
+        },
+        {
+          "publication": "Nate's Substack",
+          "title": "Executive Briefing: When Each Person Produces $2M a Year...",
+          "date": "Mar 8",
+          "summary": "AI raised per-person output 10x but coordination costs unchanged. n(n-1)/2 combinatorics: 6th team member destroys value. 'Scout vs strike team' framework. 'Steinberger Threshold.'"
+        },
+        {
+          "publication": "The VC Corner",
+          "title": "AGI Is Closer Than You Think, Prompt Engineering Is Dead...",
+          "date": "Mar 8",
+          "summary": "Karpathy: prompt engineering dead, replaced by 'context engineering.' Amodei: AGI sooner than expected. Immerman: AI eats SaaS but expands total market. New VC funds covered."
+        },
+        {
+          "publication": "The Founders Corner",
+          "title": "Why Some People Succeed, Anthropic's AI Jobs Report, Socratic Prompting",
+          "date": "Mar 8",
+          "summary": "Weekly roundup: success psychology, Anthropic's AI jobs report on workforce displacement, Socratic prompting for better AI outputs."
         }
       ]
     }
