@@ -1,9 +1,9 @@
 {
-  "date": "March 10, 2026",
+  "date": "March 11, 2026",
   "fearAndGreed": {
-    "score": 27,
+    "score": 28,
     "rating": "Fear",
-    "previousClose": 26,
+    "previousClose": 27,
     "oneWeekAgo": 33,
     "oneMonthAgo": 51
   },
@@ -16,169 +16,176 @@
       "date": "Mar 02"
     },
     {
-      "ticker": "WRB",
-      "company": "Berkley W R",
-      "insider": "Mitsui Sumitomo",
-      "value": "$18.7M",
-      "date": "Mar 02"
+      "ticker": "LYEL",
+      "company": "Lyell Immunopharma",
+      "insider": "Arch Venture (cluster)",
+      "value": "$25.0M",
+      "date": "Mar 06"
+    },
+    {
+      "ticker": "PAR",
+      "company": "Par Technology",
+      "insider": "Voss Capital LP",
+      "value": "$14.7M",
+      "date": "Jan 14"
     },
     {
       "ticker": "WGS",
-      "company": "Genedx",
-      "insider": "Keith Meister",
+      "company": "Genedx Holdings",
+      "insider": "Keith Meister (Dir)",
       "value": "$13.5M",
       "date": "Mar 03"
     },
     {
-      "ticker": "AUPH",
-      "company": "Aurinia",
-      "insider": "Kevin Tang",
-      "value": "$12.7M",
-      "date": "Feb 27"
-    },
-    {
-      "ticker": "LYEL",
-      "company": "Lyell",
-      "insider": "Arch Venture",
-      "value": "$12.5M",
-      "date": "Mar 06"
-    },
-    {
-      "ticker": "SABR",
-      "company": "Sabre",
-      "insider": "Constellation Soft",
-      "value": "$12.3M",
-      "date": "Feb 27"
-    },
-    {
-      "ticker": "KKR",
-      "company": "KKR & Co",
-      "insider": "Cluster (3 Insiders)",
-      "value": "$13.5M",
-      "date": "Mar 04"
+      "ticker": "PRCT",
+      "company": "Procept Biorobotics",
+      "insider": "Antal Desai (Dir)",
+      "value": "$10.5M",
+      "date": "Mar 05"
     },
     {
       "ticker": "HYMC",
       "company": "Hycroft Mining",
-      "insider": "Eric Sprott",
+      "insider": "Eric Sprott (2 buys)",
       "value": "$8.8M",
-      "date": "Mar 05"
+      "date": "Mar 04-05"
     },
     {
       "ticker": "TSLX",
-      "company": "Sixth Street",
-      "insider": "Alan Waxman",
+      "company": "Sixth Street Specialty",
+      "insider": "Alan Waxman (VP)",
       "value": "$5.5M",
       "date": "Mar 05"
     },
     {
       "ticker": "VSNT",
-      "company": "Versant",
-      "insider": "David Novak",
+      "company": "Versant Media",
+      "insider": "David Novak (Dir)",
       "value": "$5.3M",
       "date": "Mar 05"
     },
     {
-      "ticker": "HYMC",
-      "company": "Hycroft Mining",
-      "insider": "Eric Sprott",
-      "value": "$4.1M",
-      "date": "Mar 05"
+      "ticker": "KKR",
+      "company": "KKR & Co",
+      "insider": "Timothy Barakett (Dir)",
+      "value": "$4.7M",
+      "date": "Mar 04"
     },
     {
       "ticker": "NMFC",
-      "company": "New Mountain",
-      "insider": "Steven Klinsky",
+      "company": "New Mountain Finance",
+      "insider": "Steven Klinsky (Dir)",
       "value": "$3.5M",
       "date": "Mar 03"
     },
     {
       "ticker": "AMRZ",
-      "company": "Amrize",
-      "insider": "Jan Jenisch",
+      "company": "Amrize Ltd",
+      "insider": "Jan Jenisch (CEO)",
       "value": "$3.5M",
       "date": "Mar 06"
     },
     {
-      "ticker": "LAW",
-      "company": "CS Disco",
-      "insider": "Robert Goodman",
-      "value": "$3.3M",
-      "date": "Feb 27"
-    },
-    {
       "ticker": "FOUR",
-      "company": "Shift4",
-      "insider": "Jared Isaacman",
+      "company": "Shift4 Payments",
+      "insider": "Jared Isaacman (CEO)",
       "value": "$2.0M",
       "date": "Mar 02"
     },
     {
       "ticker": "ABTC",
       "company": "American Bitcoin",
-      "insider": "Justin Mateen",
+      "insider": "Justin Mateen (Dir)",
       "value": "$1.9M",
       "date": "Mar 03"
     },
     {
       "ticker": "TPC",
       "company": "Tutor Perini",
-      "insider": "Peter Arkley",
+      "insider": "Peter Arkley (Dir)",
       "value": "$1.8M",
       "date": "Mar 04"
+    },
+    {
+      "ticker": "BR",
+      "company": "Broadridge Financial",
+      "insider": "Timothy Gokey (CEO)",
+      "value": "$1.0M",
+      "date": "Mar 06"
+    },
+    {
+      "ticker": "CSX",
+      "company": "CSX Corp",
+      "insider": "Stephen Angel (CEO)",
+      "value": "$1.0M",
+      "date": "Mar 06"
+    },
+    {
+      "ticker": "FIS",
+      "company": "Fidelity Nat'l Info",
+      "insider": "Stephanie Ferris (CEO)",
+      "value": "$1.0M",
+      "date": "Mar 05"
+    },
+    {
+      "ticker": "VAC",
+      "company": "Marriott Vacations",
+      "insider": "Michael Flaskey",
+      "value": "$1.0M",
+      "date": "Mar 10"
     }
   ],
   "topSignals": [
     {
-      "signal": "AI Semis Reversal",
-      "detail": "SOX +4% led by Memory (+7%) and Optical (+6.6%) after overnight -3% dip."
+      "signal": "Contrarian China Thesis",
+      "detail": "Coughlin: $400B China-Iran figure is fiction (~$5B actual FDI). US-China relations best in a decade; Trump visiting Beijing Mar 31."
     },
     {
-      "signal": "Oil Volatility",
-      "detail": "30% intraday swing in Oil; crashed -4% after Trump's 'war is very complete' comments."
+      "signal": "HPE Earnings Beat",
+      "detail": "EPS $0.65 vs $0.58 est; networking +152% y/y. JNPR mix shift: networking now >50% of op profit. FY26 networking guide raised to 68-73%."
     },
     {
-      "signal": "Claude Consciousness",
-      "detail": "Claude 4.6 assigned itself 15-20% probability of consciousness; Anthropic found 'anxiety' patterns."
+      "signal": "ORCL Earnings Tonight",
+      "detail": "AI infrastructure demand story. Oracle cut 20K jobs to fund $156B OpenAI GPU deal."
     },
     {
-      "signal": "Oracle Layoffs",
-      "detail": "20,000+ jobs cut to fund $156B OpenAI GPU infrastructure deal."
+      "signal": "Memory Recovery",
+      "detail": "KOSPI +5.35%, Hynix +13%, Samsung +10% overnight. SOX +4% yesterday led by memory."
     },
     {
-      "signal": "YC W26 Batch",
-      "detail": "196 companies; 14% physical products including Moon hotels and cattle drones."
+      "signal": "LYEL $25M Cluster Buy",
+      "detail": "Arch Venture Partners IX + XIII each bought $12.5M in Lyell Immunopharma (T-cell therapy)."
     },
     {
-      "signal": "BABA Mispriced",
-      "detail": "Coughlin Cap: BABA at RSI 22 is a geopolitical dislocation, not business failure."
+      "signal": "Fear & Greed Stabilizing",
+      "detail": "28 (Fear) \u2014 up from 27, stabilizing just above Extreme Fear threshold (25). Oil -5-6% on Trump ceasefire comments."
     }
   ],
   "socialBuzz": [
     {
-      "ticker": "NVDA",
+      "ticker": "HPE",
       "signal": "High",
-      "context": "Jensen Huang MS TMT quotes; compute = revenue = GDP."
+      "context": "Earnings beat; networking mix shift structural; AI server backlog >$5B."
     },
     {
-      "ticker": "AVGO",
+      "ticker": "BABA",
       "signal": "High",
-      "context": "AI semi revenue $10.7B obliterated consensus."
+      "context": "Coughlin contrarian thesis; RSI ~22; geopolitical dislocation not business deterioration."
     },
     {
-      "ticker": "TTD",
+      "ticker": "ORCL",
       "signal": "High",
-      "context": "CEO $148M purchase remains dominant signal."
+      "context": "Earnings tonight; AI infrastructure demand story."
     },
     {
-      "ticker": "KKR",
-      "signal": "High",
-      "context": "Cluster buy expanded to $15.6M across 4 insiders."
-    },
-    {
-      "ticker": "SHOP",
+      "ticker": "LYEL",
       "signal": "Medium",
-      "context": "OAI checkout rollback; margin concerns."
+      "context": "$25M cluster buy from Arch Venture Partners getting fintwit attention."
+    },
+    {
+      "ticker": "KOSPI",
+      "signal": "Medium",
+      "context": "+5.35% overnight; Hynix +13%, Samsung +10% \u2014 memory recovery trade."
     }
   ]
 }
