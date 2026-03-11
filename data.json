@@ -1,11 +1,12 @@
 {
-  "date": "March 11, 2026",
+  "date": "March 12, 2026",
   "fearAndGreed": {
-    "score": 28,
+    "score": 30,
     "rating": "Fear",
-    "previousClose": 27,
-    "oneWeekAgo": 33,
-    "oneMonthAgo": 51
+    "previousClose": 28,
+    "oneWeekAgo": 27,
+    "oneMonthAgo": 51,
+    "note": "Estimated \u2014 CNN F&G Index temporarily inaccessible"
   },
   "insiderBuys": [
     {
@@ -37,6 +38,13 @@
       "date": "Mar 03"
     },
     {
+      "ticker": "TGLS",
+      "company": "Tecnoglass Inc.",
+      "insider": "Energy Holding Corp",
+      "value": "$13.1M",
+      "date": "Mar 09"
+    },
+    {
       "ticker": "PRCT",
       "company": "Procept Biorobotics",
       "insider": "Antal Desai (Dir)",
@@ -44,18 +52,18 @@
       "date": "Mar 05"
     },
     {
+      "ticker": "TSLX",
+      "company": "Sixth Street Specialty",
+      "insider": "Alan Waxman (VP, 2 buys)",
+      "value": "$10.0M",
+      "date": "Mar 05+09"
+    },
+    {
       "ticker": "HYMC",
       "company": "Hycroft Mining",
       "insider": "Eric Sprott (2 buys)",
       "value": "$8.8M",
       "date": "Mar 04-05"
-    },
-    {
-      "ticker": "TSLX",
-      "company": "Sixth Street Specialty",
-      "insider": "Alan Waxman (VP)",
-      "value": "$5.5M",
-      "date": "Mar 05"
     },
     {
       "ticker": "VSNT",
@@ -88,9 +96,9 @@
     {
       "ticker": "FOUR",
       "company": "Shift4 Payments",
-      "insider": "Jared Isaacman (CEO)",
-      "value": "$2.0M",
-      "date": "Mar 02"
+      "insider": "Jared Isaacman (3 buys)",
+      "value": "$3.0M",
+      "date": "Mar 02-10"
     },
     {
       "ticker": "ABTC",
@@ -126,66 +134,64 @@
       "insider": "Stephanie Ferris (CEO)",
       "value": "$1.0M",
       "date": "Mar 05"
-    },
-    {
-      "ticker": "VAC",
-      "company": "Marriott Vacations",
-      "insider": "Michael Flaskey",
-      "value": "$1.0M",
-      "date": "Mar 10"
     }
   ],
   "topSignals": [
     {
-      "signal": "Contrarian China Thesis",
-      "detail": "Coughlin: $400B China-Iran figure is fiction (~$5B actual FDI). US-China relations best in a decade; Trump visiting Beijing Mar 31."
+      "signal": "ORCL Q3 FY26 Massive Beat",
+      "detail": "Revenue $17.19B (+22% y/y), OCI +81% cc, RPO $553B (+325% y/y). FY27 guide raised to $90B. ORCL +10% post-earnings."
     },
     {
-      "signal": "HPE Earnings Beat",
-      "detail": "EPS $0.65 vs $0.58 est; networking +152% y/y. JNPR mix shift: networking now >50% of op profit. FY26 networking guide raised to 68-73%."
+      "signal": "Jagged Frontier Debunked",
+      "detail": "Nate: Cursor solved a research-grade math problem autonomously in 4 days. Task completion horizons doubling every 4-7 months."
     },
     {
-      "signal": "ORCL Earnings Tonight",
-      "detail": "AI infrastructure demand story. Oracle cut 20K jobs to fund $156B OpenAI GPU deal."
+      "signal": "Resources Shock Winners",
+      "detail": "Crack The Market Part 1: Energy flows may not resume when war ends. Markets mispricing normalization timeline."
     },
     {
-      "signal": "Memory Recovery",
-      "detail": "KOSPI +5.35%, Hynix +13%, Samsung +10% overnight. SOX +4% yesterday led by memory."
+      "signal": "SE Post-Earnings Dislocation",
+      "detail": "Sleep Well buying more SE at $88 after -16% drop. FCF grew from -$2B to +$3.5B in 3 years; CEO targets $1T company."
     },
     {
-      "signal": "LYEL $25M Cluster Buy",
-      "detail": "Arch Venture Partners IX + XIII each bought $12.5M in Lyell Immunopharma (T-cell therapy)."
+      "signal": "TGLS $13.1M Insider Buy",
+      "detail": "Energy Holding Corp bought $13.1M in Tecnoglass on Mar 9 \u2014 new entry, significant conviction signal."
     },
     {
-      "signal": "Fear & Greed Stabilizing",
-      "detail": "28 (Fear) \u2014 up from 27, stabilizing just above Extreme Fear threshold (25). Oil -5-6% on Trump ceasefire comments."
+      "signal": "Iran Ceasefire Talks Active",
+      "detail": "CIA back-channel confirmed. Oil +4% today on renewed tension but ceasefire probability still 40%. FOMC Mar 19."
     }
   ],
   "socialBuzz": [
     {
-      "ticker": "HPE",
-      "signal": "High",
-      "context": "Earnings beat; networking mix shift structural; AI server backlog >$5B."
-    },
-    {
-      "ticker": "BABA",
-      "signal": "High",
-      "context": "Coughlin contrarian thesis; RSI ~22; geopolitical dislocation not business deterioration."
-    },
-    {
       "ticker": "ORCL",
+      "signal": "Very High",
+      "context": "+10% post-earnings; RPO $553B (+325% y/y); OCI +81% cc \u2014 clearest AI infra proof point yet."
+    },
+    {
+      "ticker": "NVDA",
       "signal": "High",
-      "context": "Earnings tonight; AI infrastructure demand story."
+      "context": "+3% on $2B NBIS investment; AI infrastructure demand narrative intact."
     },
     {
-      "ticker": "LYEL",
-      "signal": "Medium",
-      "context": "$25M cluster buy from Arch Venture Partners getting fintwit attention."
+      "ticker": "NBIS",
+      "signal": "High",
+      "context": "+10% on NVDA's $2B investment; confirmed as key western AI compute play."
     },
     {
-      "ticker": "KOSPI",
+      "ticker": "SE",
       "signal": "Medium",
-      "context": "+5.35% overnight; Hynix +13%, Samsung +10% \u2014 memory recovery trade."
+      "context": "Sleep Well buying more at $88; -16% post-earnings seen as dislocation."
+    },
+    {
+      "ticker": "AVGO",
+      "signal": "Medium",
+      "context": "CTM Signal #9 highlights AI semi $10.7B obliterating consensus; strong week."
+    },
+    {
+      "ticker": "TGLS",
+      "signal": "Medium",
+      "context": "Energy Holding Corp $13.1M buy on Mar 9 drawing attention."
     }
   ]
 }
