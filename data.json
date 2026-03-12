@@ -1,197 +1,98 @@
 {
-  "date": "March 12, 2026",
+  "lastUpdated": "2026-03-13T11:00:00Z",
   "fearAndGreed": {
-    "score": 30,
-    "rating": "Fear",
-    "previousClose": 28,
-    "oneWeekAgo": 27,
-    "oneMonthAgo": 51,
-    "note": "Estimated \u2014 CNN F&G Index temporarily inaccessible"
+    "score": 25,
+    "rating": "Extreme Fear",
+    "trend": "Down from 30 yesterday"
   },
+  "topSignals": [
+    {
+      "title": "Intelligence as a Utility",
+      "detail": "Altman: GPT-5.4 reduced reasoning costs by 1,000x; startups focus on compute over hiring."
+    },
+    {
+      "title": "The Coordination Tax",
+      "detail": "Nate: 60-70% of knowledge work is overhead; agents eliminate the need for organizational structures."
+    },
+    {
+      "title": "Optics Trade Matures",
+      "detail": "Citrini: Crowd favorites (LITE, COHR) priced for perfection; shift to Memory Wall bottlenecks."
+    },
+    {
+      "title": "SaaS Contrarianism",
+      "detail": "Sleep Well: Buying VEEV, MELI, SE on sell-off; AI increases demand for platforms (NOW)."
+    }
+  ],
   "insiderBuys": [
     {
-      "ticker": "TTD",
-      "company": "The Trade Desk",
-      "insider": "Jeff Green (CEO)",
-      "value": "$148.1M",
-      "date": "Mar 02"
+      "ticker": "ALKT",
+      "company": "Alkami Technology",
+      "insider": "General Atlantic",
+      "value": "$50,564,148",
+      "date": "Mar 09"
+    },
+    {
+      "ticker": "TGLS",
+      "company": "Tecnoglass Inc",
+      "insider": "Energy Holding Corp",
+      "value": "$13,138,087",
+      "date": "Mar 09"
+    },
+    {
+      "ticker": "SONO",
+      "company": "Sonos Inc",
+      "insider": "Coliseum Capital",
+      "value": "$12,959,400",
+      "date": "Mar 09"
     },
     {
       "ticker": "LYEL",
       "company": "Lyell Immunopharma",
-      "insider": "Arch Venture (cluster)",
-      "value": "$25.0M",
+      "insider": "Arch Venture Fund",
+      "value": "$12,499,985",
       "date": "Mar 06"
-    },
-    {
-      "ticker": "PAR",
-      "company": "Par Technology",
-      "insider": "Voss Capital LP",
-      "value": "$14.7M",
-      "date": "Jan 14"
-    },
-    {
-      "ticker": "WGS",
-      "company": "Genedx Holdings",
-      "insider": "Keith Meister (Dir)",
-      "value": "$13.5M",
-      "date": "Mar 03"
-    },
-    {
-      "ticker": "TGLS",
-      "company": "Tecnoglass Inc.",
-      "insider": "Energy Holding Corp",
-      "value": "$13.1M",
-      "date": "Mar 09"
     },
     {
       "ticker": "PRCT",
       "company": "Procept Biorobotics",
-      "insider": "Antal Desai (Dir)",
-      "value": "$10.5M",
+      "insider": "Desai Antal Rohit",
+      "value": "$10,482,943",
       "date": "Mar 05"
+    },
+    {
+      "ticker": "KOS",
+      "company": "Kosmos Energy",
+      "insider": "Ogunlesi Adebayo",
+      "value": "$6,000,001",
+      "date": "Mar 10"
     },
     {
       "ticker": "TSLX",
       "company": "Sixth Street Specialty",
-      "insider": "Alan Waxman (VP, 2 buys)",
-      "value": "$10.0M",
-      "date": "Mar 05+09"
-    },
-    {
-      "ticker": "HYMC",
-      "company": "Hycroft Mining",
-      "insider": "Eric Sprott (2 buys)",
-      "value": "$8.8M",
-      "date": "Mar 04-05"
+      "insider": "Waxman Alan",
+      "value": "$5,530,000",
+      "date": "Mar 05"
     },
     {
       "ticker": "VSNT",
       "company": "Versant Media",
-      "insider": "David Novak (Dir)",
-      "value": "$5.3M",
+      "insider": "Novak David C",
+      "value": "$5,269,550",
       "date": "Mar 05"
     },
     {
-      "ticker": "KKR",
-      "company": "KKR & Co",
-      "insider": "Timothy Barakett (Dir)",
-      "value": "$4.7M",
-      "date": "Mar 04"
+      "ticker": "AMR",
+      "company": "Alpha Metallurgical",
+      "insider": "Courtis Kenneth",
+      "value": "$4,405,651",
+      "date": "Mar 09"
     },
     {
-      "ticker": "NMFC",
-      "company": "New Mountain Finance",
-      "insider": "Steven Klinsky (Dir)",
-      "value": "$3.5M",
-      "date": "Mar 03"
-    },
-    {
-      "ticker": "AMRZ",
-      "company": "Amrize Ltd",
-      "insider": "Jan Jenisch (CEO)",
-      "value": "$3.5M",
-      "date": "Mar 06"
-    },
-    {
-      "ticker": "FOUR",
-      "company": "Shift4 Payments",
-      "insider": "Jared Isaacman (3 buys)",
-      "value": "$3.0M",
-      "date": "Mar 02-10"
-    },
-    {
-      "ticker": "ABTC",
-      "company": "American Bitcoin",
-      "insider": "Justin Mateen (Dir)",
-      "value": "$1.9M",
-      "date": "Mar 03"
-    },
-    {
-      "ticker": "TPC",
-      "company": "Tutor Perini",
-      "insider": "Peter Arkley (Dir)",
-      "value": "$1.8M",
-      "date": "Mar 04"
-    },
-    {
-      "ticker": "BR",
-      "company": "Broadridge Financial",
-      "insider": "Timothy Gokey (CEO)",
-      "value": "$1.0M",
-      "date": "Mar 06"
-    },
-    {
-      "ticker": "CSX",
-      "company": "CSX Corp",
-      "insider": "Stephen Angel (CEO)",
-      "value": "$1.0M",
-      "date": "Mar 06"
-    },
-    {
-      "ticker": "FIS",
-      "company": "Fidelity Nat'l Info",
-      "insider": "Stephanie Ferris (CEO)",
-      "value": "$1.0M",
+      "ticker": "HYMC",
+      "company": "Hycroft Mining",
+      "insider": "Sprott Eric",
+      "value": "$4,085,000",
       "date": "Mar 05"
-    }
-  ],
-  "topSignals": [
-    {
-      "signal": "ORCL Q3 FY26 Massive Beat",
-      "detail": "Revenue $17.19B (+22% y/y), OCI +81% cc, RPO $553B (+325% y/y). FY27 guide raised to $90B. ORCL +10% post-earnings."
-    },
-    {
-      "signal": "Jagged Frontier Debunked",
-      "detail": "Nate: Cursor solved a research-grade math problem autonomously in 4 days. Task completion horizons doubling every 4-7 months."
-    },
-    {
-      "signal": "Resources Shock Winners",
-      "detail": "Crack The Market Part 1: Energy flows may not resume when war ends. Markets mispricing normalization timeline."
-    },
-    {
-      "signal": "SE Post-Earnings Dislocation",
-      "detail": "Sleep Well buying more SE at $88 after -16% drop. FCF grew from -$2B to +$3.5B in 3 years; CEO targets $1T company."
-    },
-    {
-      "signal": "TGLS $13.1M Insider Buy",
-      "detail": "Energy Holding Corp bought $13.1M in Tecnoglass on Mar 9 \u2014 new entry, significant conviction signal."
-    },
-    {
-      "signal": "Iran Ceasefire Talks Active",
-      "detail": "CIA back-channel confirmed. Oil +4% today on renewed tension but ceasefire probability still 40%. FOMC Mar 19."
-    }
-  ],
-  "socialBuzz": [
-    {
-      "ticker": "ORCL",
-      "signal": "Very High",
-      "context": "+10% post-earnings; RPO $553B (+325% y/y); OCI +81% cc \u2014 clearest AI infra proof point yet."
-    },
-    {
-      "ticker": "NVDA",
-      "signal": "High",
-      "context": "+3% on $2B NBIS investment; AI infrastructure demand narrative intact."
-    },
-    {
-      "ticker": "NBIS",
-      "signal": "High",
-      "context": "+10% on NVDA's $2B investment; confirmed as key western AI compute play."
-    },
-    {
-      "ticker": "SE",
-      "signal": "Medium",
-      "context": "Sleep Well buying more at $88; -16% post-earnings seen as dislocation."
-    },
-    {
-      "ticker": "AVGO",
-      "signal": "Medium",
-      "context": "CTM Signal #9 highlights AI semi $10.7B obliterating consensus; strong week."
-    },
-    {
-      "ticker": "TGLS",
-      "signal": "Medium",
-      "context": "Energy Holding Corp $13.1M buy on Mar 9 drawing attention."
     }
   ]
 }
