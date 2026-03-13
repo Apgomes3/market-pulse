@@ -1,98 +1,213 @@
 {
-  "lastUpdated": "2026-03-13T11:00:00Z",
-  "fearAndGreed": {
-    "score": 25,
-    "rating": "Extreme Fear",
-    "trend": "Down from 30 yesterday"
+  "lastUpdated": "March 14, 2026",
+  "fearGreedIndex": {
+    "score": 26,
+    "label": "Extreme Fear",
+    "change": "-1 from yesterday",
+    "note": "CNN F&G Index estimated; site inaccessible. Based on prior trajectory (27\u219228\u219230\u219225) and macro context (Brent nearing $100, tankers struck, futures -60bps)."
   },
-  "topSignals": [
+  "topInsiderBuys": [
     {
-      "title": "Intelligence as a Utility",
-      "detail": "Altman: GPT-5.4 reduced reasoning costs by 1,000x; startups focus on compute over hiring."
+      "ticker": "TTD",
+      "company": "The Trade Desk",
+      "insider": "Jeff Green (CEO)",
+      "value": "$148,101,266",
+      "date": "Mar 02"
     },
-    {
-      "title": "The Coordination Tax",
-      "detail": "Nate: 60-70% of knowledge work is overhead; agents eliminate the need for organizational structures."
-    },
-    {
-      "title": "Optics Trade Matures",
-      "detail": "Citrini: Crowd favorites (LITE, COHR) priced for perfection; shift to Memory Wall bottlenecks."
-    },
-    {
-      "title": "SaaS Contrarianism",
-      "detail": "Sleep Well: Buying VEEV, MELI, SE on sell-off; AI increases demand for platforms (NOW)."
-    }
-  ],
-  "insiderBuys": [
     {
       "ticker": "ALKT",
       "company": "Alkami Technology",
-      "insider": "General Atlantic",
+      "insider": "General Atlantic (2 entities)",
       "value": "$50,564,148",
       "date": "Mar 09"
     },
     {
+      "ticker": "AHCO",
+      "company": "AdaptHealth Corp",
+      "insider": "Richard Cashin (10%)",
+      "value": "$19,900,000",
+      "date": "Mar 10"
+    },
+    {
+      "ticker": "KKR",
+      "company": "KKR & Co",
+      "insider": "Cluster (4 insiders)",
+      "value": "$15,600,000",
+      "date": "Feb 27\u2013Mar 04"
+    },
+    {
       "ticker": "TGLS",
-      "company": "Tecnoglass Inc",
+      "company": "Tecnoglass",
       "insider": "Energy Holding Corp",
       "value": "$13,138,087",
       "date": "Mar 09"
     },
     {
       "ticker": "SONO",
-      "company": "Sonos Inc",
+      "company": "Sonos",
       "insider": "Coliseum Capital",
       "value": "$12,959,400",
-      "date": "Mar 09"
+      "date": "Mar 06"
     },
     {
       "ticker": "LYEL",
       "company": "Lyell Immunopharma",
-      "insider": "Arch Venture Fund",
+      "insider": "Arch Venture (2 funds)",
       "value": "$12,499,985",
-      "date": "Mar 06"
-    },
-    {
-      "ticker": "PRCT",
-      "company": "Procept Biorobotics",
-      "insider": "Desai Antal Rohit",
-      "value": "$10,482,943",
       "date": "Mar 05"
-    },
-    {
-      "ticker": "KOS",
-      "company": "Kosmos Energy",
-      "insider": "Ogunlesi Adebayo",
-      "value": "$6,000,001",
-      "date": "Mar 10"
-    },
-    {
-      "ticker": "TSLX",
-      "company": "Sixth Street Specialty",
-      "insider": "Waxman Alan",
-      "value": "$5,530,000",
-      "date": "Mar 05"
-    },
-    {
-      "ticker": "VSNT",
-      "company": "Versant Media",
-      "insider": "Novak David C",
-      "value": "$5,269,550",
-      "date": "Mar 05"
-    },
-    {
-      "ticker": "AMR",
-      "company": "Alpha Metallurgical",
-      "insider": "Courtis Kenneth",
-      "value": "$4,405,651",
-      "date": "Mar 09"
     },
     {
       "ticker": "HYMC",
       "company": "Hycroft Mining",
-      "insider": "Sprott Eric",
-      "value": "$4,085,000",
-      "date": "Mar 05"
+      "insider": "Eric Sprott",
+      "value": "$8,800,000",
+      "date": "Mar 04\u201306"
+    },
+    {
+      "ticker": "AMR",
+      "company": "Alpha Metallurgical",
+      "insider": "Kenneth Courtis (Dir)",
+      "value": "$7,100,000",
+      "date": "Mar 09\u201310"
+    },
+    {
+      "ticker": "AMT",
+      "company": "American Tower",
+      "insider": "Rajesh Kalathur (Dir)",
+      "value": "$495,000",
+      "date": "Mar 10"
     }
+  ],
+  "newPosts": [
+    {
+      "publication": "TMT Breakout",
+      "title": "TMTB Morning Wrap (ADBE Earnings; NNARR Miss)",
+      "date": "Mar 13, 2026",
+      "summary": "ADBE -8% pre-market on NNARR miss and CEO transition uncertainty. AI monetization story intact but execution risk elevated. Futures +40bps, oil -2%, BTC +3%.",
+      "tickers": [
+        "ADBE",
+        "TTAN"
+      ]
+    },
+    {
+      "publication": "TMT Breakout",
+      "title": "TMTB Morning Wrap (MELI JPMorgan Downgrade)",
+      "date": "Mar 14, 2026",
+      "summary": "JPMorgan downgrades MELI to Neutral, cuts PT to $2,100. Brent nearing $100 as 2 tankers struck in Iraqi waters. Futures -60bps. Asia broadly red.",
+      "tickers": [
+        "MELI",
+        "SE"
+      ]
+    },
+    {
+      "publication": "The Efficiency Playbook",
+      "title": "When War Starts Reaching Business Decisions",
+      "date": "Mar 14, 2026",
+      "summary": "Geopolitical conflict is now directly affecting SMB decision-making \u2014 slower project closings, frozen marketing budgets, deferred hiring. Flexibility is the new competitive advantage.",
+      "tickers": []
+    },
+    {
+      "publication": "Nate's Substack",
+      "title": "You Built an AI Memory System. Now Your Agent Needs Hands.",
+      "date": "Mar 14, 2026",
+      "summary": "Third in AI agent architecture series. Memory without execution is a filing cabinet. Introduces 'agent hands' \u2014 integrations that allow agents to act, not just retrieve.",
+      "tickers": []
+    },
+    {
+      "publication": "Nate's Substack",
+      "title": "Pull Up Your Calendar. 60% of It Is Coordination Tax.",
+      "date": "Mar 14, 2026",
+      "summary": "AI doesn't just automate tasks \u2014 it eliminates the coordination overhead that generates those tasks. 60-70% of knowledge work is coordination tax that agents will eliminate.",
+      "tickers": []
+    },
+    {
+      "publication": "Wolf of Oakville",
+      "title": "Progressive Planet ($PLAN.V) FINS Review",
+      "date": "Mar 14, 2026",
+      "summary": "Revisits Progressive Planet (TSX-V: PLAN), a Canadian materials company producing SCM from volcanic rock \u2014 a lower-carbon alternative to Portland cement.",
+      "tickers": [
+        "PLAN.V"
+      ]
+    },
+    {
+      "publication": "Sleep Well Investments",
+      "title": "SWI Manual (February 2026)",
+      "date": "Mar 14, 2026",
+      "summary": "February 2026 portfolio and process documentation. Covers position sizing, conviction management, and maintaining discipline during high-volatility macro environments.",
+      "tickers": [
+        "VEEV",
+        "MELI",
+        "SE"
+      ]
+    },
+    {
+      "publication": "Crack The Market",
+      "title": "The Winners of the Resources Shock (Part 2)",
+      "date": "Mar 14, 2026",
+      "summary": "Identifies structural winners of a sustained resources shock: uranium, copper, and North American energy infrastructure. Supply chain rewiring will take 12-18 months to unwind even in de-escalation.",
+      "tickers": [
+        "CCJ",
+        "UEC",
+        "FCX",
+        "SCCO",
+        "ET",
+        "MPLX"
+      ]
+    }
+  ],
+  "socialBuzz": [
+    {
+      "ticker": "ADBE",
+      "sentiment": "Bearish",
+      "driver": "-8% on NNARR miss + CEO transition"
+    },
+    {
+      "ticker": "MELI",
+      "sentiment": "Bearish",
+      "driver": "JPMorgan downgrade, Shopee competition"
+    },
+    {
+      "ticker": "XOM",
+      "sentiment": "Bullish",
+      "driver": "Brent nearing $100, tankers struck"
+    },
+    {
+      "ticker": "ALKT",
+      "sentiment": "Bullish",
+      "driver": "$50.6M General Atlantic cluster buy"
+    },
+    {
+      "ticker": "AVGO",
+      "sentiment": "Bullish",
+      "driver": "Q2 guide obliterated street; AI semi $10.7B"
+    },
+    {
+      "ticker": "ORCL",
+      "sentiment": "Bullish",
+      "driver": "RPO $553B, OCI +81%, FY27 guide $90B"
+    },
+    {
+      "ticker": "CCJ",
+      "sentiment": "Bullish",
+      "driver": "Resources shock Part 2; uranium structural winner"
+    }
+  ],
+  "macroOverview": {
+    "regime": "Stagflationary",
+    "fearGreedTrend": "27 \u2192 28 \u2192 30 \u2192 25 (Extreme Fear)",
+    "keyRisk": "Geopolitical premium in oil is now structural. Two tankers struck in Iraqi waters. Brent nearing $100.",
+    "scenarios": {
+      "deEscalation": "40%",
+      "contained": "35%",
+      "fullEscalation": "25%"
+    },
+    "watch": "Trump 'Iran about to surrender' comment \u2014 if confirmed, could trigger sharp oil reversal and risk-on snap."
+  },
+  "keyThemes": [
+    "AI Infrastructure is Real: ORCL RPO $553B (+325% y/y), OCI +81% \u2014 AI capex cycle not slowing",
+    "Coordination Tax Elimination: AI will eliminate 60-70% of knowledge work overhead, not just automate tasks",
+    "Geopolitical Premium is Structural: Two tankers struck, Brent nearing $100, Chinese refiners canceling cargoes",
+    "SaaS Contrarianism: Sleep Well and Citrini buying the SaaS sell-off \u2014 VEEV, MELI, SE at historically cheap multiples",
+    "Resources Shock Winners: Uranium, copper, and North American energy infrastructure are structural beneficiaries"
   ]
 }
