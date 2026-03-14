@@ -1,460 +1,201 @@
 {
-  "reportDate": "March 06, 2026",
-  "dataAsOf": "Mar 05, 2026, 5:30 PM ET",
-  "postsCount": 11,
-  "publicationsCount": 10,
-  "subscriptionsCount": 34,
-  "quickSummary": "Markets sold off sharply as geopolitical escalation intensified — the conflict has broadened beyond the Strait of Hormuz to include direct strikes on NATO-adjacent infrastructure. Fear & Greed dropped to 32 (Fear zone). Key themes: war premium in energy, rate cut expectations further pared, and defensive rotation into commodities and utilities.",
-  "keyThemes": [
-    {
-      "title": "WWIII Risk Premium",
-      "description": "Conflict escalation driving broad risk-off. Markets pricing in sustained geopolitical disruption.",
-      "icon": "globe"
-    },
-    {
-      "title": "Energy Supercycle",
-      "description": "Brent crude holding above $80. Saudi Aramco production cuts compounding supply shock.",
-      "icon": "zap"
-    },
-    {
-      "title": "Rate Cut Repricing",
-      "description": "Fed funds futures now pricing only 1 cut in 2026. Inflation expectations rising.",
-      "icon": "trending"
-    },
-    {
-      "title": "Defensive Rotation",
-      "description": "Utilities, gold, and defense stocks outperforming. Tech and growth under pressure.",
-      "icon": "shield"
-    },
-    {
-      "title": "Bitcoin Neutral",
-      "description": "Dr. Mo signal remains 'no position' since Nov 7, 2025. Crypto following risk-off sentiment.",
-      "icon": "dollar"
-    }
-  ],
+  "lastUpdated": "March 15, 2026",
   "fearGreedIndex": {
-    "value": 32,
-    "label": "Fear",
-    "previousClose": "Fear",
-    "context": "Fear & Greed dropped to 32 today as geopolitical escalation intensified. The market is pricing in a sustained war premium — Brent crude above $80, VIX elevated, and defensive rotation accelerating. The index has declined 10 points in two sessions, reflecting a rapid deterioration in investor sentiment."
+    "score": 18,
+    "label": "Extreme Fear",
+    "change": "-8 from last report (was 26)",
+    "note": "CNN F&G Index at 18 (Extreme Fear). 4th consecutive week in Fear/Extreme Fear. Oil above $100, Iran-Hormuz crisis, mortgage rates 6.11%. Crypto F&G at 15."
   },
-  "stockHighlights": [
+  "topInsiderBuys": [
     {
-      "ticker": "XOM",
-      "context": "Energy majors rallying on sustained crude above $80. Supply shock narrative strengthening.",
-      "publication": "42 Macro"
+      "ticker": "QSI",
+      "company": "Quantum-Si Inc",
+      "insider": "Cluster (2 directors)",
+      "value": "$564,250",
+      "date": "Mar 05"
     },
     {
-      "ticker": "GLD",
-      "context": "Gold breaking out as safe-haven demand surges. Defensive rotation accelerating.",
-      "publication": "42 Macro"
+      "ticker": "EXE",
+      "company": "Expand Energy Corp",
+      "insider": "Michael Wichterich (Interim CEO)",
+      "value": "$215,000",
+      "date": "Mar 06"
     },
     {
-      "ticker": "LMT",
-      "context": "Defense stocks outperforming on escalating conflict. NATO spending commitments rising.",
-      "publication": "42 Macro"
+      "ticker": "ADMA",
+      "company": "ADMA Biologics",
+      "insider": "Steve Elms (Dir)",
+      "value": "$217,420",
+      "date": "Mar 05"
     },
     {
-      "ticker": "AEHR",
-      "context": "Watchlist ticker holding up relatively well in risk-off environment.",
-      "publication": "Substack Analysis"
-    }
-  ],
-  "bullishStocks": [
-    "XOM",
-    "CVX",
-    "GLD",
-    "LMT",
-    "RTX",
-    "AEHR"
-  ],
-  "bearishStocks": [
-    "ARKK",
-    "TSLA",
-    "MSTR",
-    "NVDA"
-  ],
-  "socialBuzz": {
-    "high": ["NVDA", "TSLA", "GLD"],
-    "moderate": ["AEHR", "XOM", "LMT", "MSTR"],
-    "low": ["CRDO", "SEZL", "AMPX", "GILT", "PGY"]
-  },
-  "insiderBuys": [
-    {
-      "ticker": "$GENB",
-      "company": "Generation Bio",
-      "insider": "AFEYAN NOUBAR",
-      "title": "Director / 10% Owner",
-      "shares": 1562500,
-      "price": 16.0,
-      "totalValue": 25000000,
-      "date": "Mar 02"
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group",
+      "insider": "Cluster (5 directors)",
+      "value": "$122,074",
+      "date": "Mar 06"
     },
     {
-      "ticker": "$LRMR",
-      "company": "Larimar Therapeutics",
-      "insider": "Flynn James E",
-      "title": "Director / 10% Owner",
-      "shares": 5000000,
-      "price": 5.0,
-      "totalValue": 25000000,
-      "date": "Feb 27"
+      "ticker": "GPRE",
+      "company": "Green Plains Inc",
+      "insider": "Patrick Sweeney (Dir)",
+      "value": "$101,298",
+      "date": "Mar 06"
     },
     {
-      "ticker": "$ZURA",
-      "company": "Zura Bio",
-      "insider": "AI Biotechnology LLC",
-      "title": "10% Owner",
-      "shares": 2000000,
-      "price": 6.25,
-      "totalValue": 12500000,
-      "date": "Feb 26"
+      "ticker": "AIRS",
+      "company": "AirSculpt Technologies",
+      "insider": "Jorey Chernett (10%)",
+      "value": "$91,200",
+      "date": "Mar 06"
     },
     {
-      "ticker": "$FOUR",
-      "company": "Shift4 Payments",
-      "insider": "Isaacman Jared",
-      "title": "Insider",
-      "shares": 158600,
-      "price": 44.15,
-      "totalValue": 7002490,
-      "date": "Feb 27"
+      "ticker": "ALT",
+      "company": "Altimmune Inc",
+      "insider": "Cluster (CEO + CFO)",
+      "value": "$88,490",
+      "date": "Mar 06"
     },
     {
-      "ticker": "$FOUR",
-      "company": "Shift4 Payments",
-      "insider": "Isaacman Jared",
-      "title": "Insider",
-      "shares": 136500,
-      "price": 48.38,
-      "totalValue": 6603870,
-      "date": "Feb 26"
+      "ticker": "ABTC",
+      "company": "American Bitcoin Corp",
+      "insider": "Richard Busch (Dir)",
+      "value": "$78,200",
+      "date": "Mar 05"
     },
     {
-      "ticker": "$BCAX",
-      "company": "Bicara Therapeutics",
-      "insider": "RA Capital Mgmt",
-      "title": "Director / 10% Owner",
-      "shares": 300000,
-      "price": 16.0,
-      "totalValue": 4800000,
-      "date": "Feb 26"
-    },
-    {
-      "ticker": "$NOW",
-      "company": "ServiceNow",
-      "insider": "McDermott William R",
-      "title": "Chairman & CEO",
-      "shares": 28682,
-      "price": 104.6,
-      "totalValue": 3000000,
-      "date": "Feb 27"
-    },
-    {
-      "ticker": "$CSGP",
+      "ticker": "CSGP",
       "company": "CoStar Group",
-      "insider": "Florance Andrew C",
-      "title": "President & CEO",
-      "shares": 56150,
-      "price": 44.52,
-      "totalValue": 2499780,
-      "date": "Feb 27"
+      "insider": "Louise Sams (Dir)",
+      "value": "$48,360",
+      "date": "Mar 06"
     },
     {
-      "ticker": "$IDYA",
-      "company": "IDEAYA Biosciences",
-      "insider": "Stein Jeffrey",
-      "title": "Insider",
-      "shares": 50000,
-      "price": 32.96,
-      "totalValue": 1648000,
-      "date": "Mar 02"
-    },
-    {
-      "ticker": "$SOFI",
-      "company": "SoFi Technologies",
-      "insider": "Noto Anthony",
-      "title": "CEO",
-      "shares": 55932,
-      "price": 17.88,
-      "totalValue": 1000064,
-      "date": "Mar 02"
-    },
-    {
-      "ticker": "$ACVA",
-      "company": "ACV Auctions",
-      "insider": "Waterman Michael",
-      "title": "Chief Sales Officer",
-      "shares": 214592,
-      "price": 4.66,
-      "totalValue": 1000000,
-      "date": "Feb 26"
-    },
-    {
-      "ticker": "$BCHT",
-      "company": "Bioxcel Therapeutics",
-      "insider": "MacPherson Richard",
-      "title": "President & CEO",
-      "shares": 312500,
-      "price": 2.4,
-      "totalValue": 750000,
-      "date": "Feb 27"
-    },
-    {
-      "ticker": "$PVLA",
-      "company": "Pavlovian",
-      "insider": "Jenkins George M",
-      "title": "Director",
-      "shares": 4000,
-      "price": 125.0,
-      "totalValue": 500000,
-      "date": "Feb 27"
-    },
-    {
-      "ticker": "$TFIN",
-      "company": "Triumph Financial",
-      "insider": "Graft Aaron P",
-      "title": "President & CEO",
-      "shares": 8950,
-      "price": 55.87,
-      "totalValue": 500000,
-      "date": "Feb 27"
-    },
-    {
-      "ticker": "$TNC",
-      "company": "Tennant Company",
-      "insider": "Glerum James T Jr.",
-      "title": "Insider",
-      "shares": 8163,
-      "price": 61.25,
-      "totalValue": 499984,
-      "date": "Mar 02"
-    },
-    {
-      "ticker": "$CTEV",
-      "company": "Cactus",
-      "insider": "Kim Michael",
-      "title": "EVP, Chief Digital Officer",
-      "shares": 30000,
-      "price": 14.3,
-      "totalValue": 429000,
-      "date": "Feb 27"
-    },
-    {
-      "ticker": "$HRI",
-      "company": "Herc Holdings",
-      "insider": "Olin John A",
-      "title": "Director",
-      "shares": 3000,
-      "price": 142.47,
-      "totalValue": 427410,
-      "date": "Feb 27"
-    },
-    {
-      "ticker": "$TNC",
-      "company": "Tennant Company",
-      "insider": "Mulligan Donal L",
-      "title": "Insider",
-      "shares": 5000,
-      "price": 63.86,
-      "totalValue": 319300,
-      "date": "Feb 26"
-    },
-    {
-      "ticker": "$PVLA",
-      "company": "Pavlovian",
-      "insider": "Heron Elaine J",
-      "title": "Director",
-      "shares": 2000,
-      "price": 125.0,
-      "totalValue": 250000,
-      "date": "Feb 27"
-    },
-    {
-      "ticker": "$EHTH",
-      "company": "eHealth",
-      "insider": "Duke Derrick A",
-      "title": "CEO",
-      "shares": 187969,
-      "price": 1.38,
-      "totalValue": 259397,
-      "date": "Feb 27"
+      "ticker": "ENTX",
+      "company": "Entera Bio Ltd",
+      "insider": "Sean Ellis (Dir)",
+      "value": "$12,300",
+      "date": "Mar 05"
     }
   ],
-  "insiderBuysNote": "Showing top 20 of 49 total insider purchases ≥ $25,000. Data sourced directly from SEC EDGAR Form 4 filings.",
-  "insiderBuysSignals": "CEO Jared Isaacman of Shift4 ($FOUR) bought ~$13.6M across two days — notable given the stock's 60% decline from highs. ServiceNow CEO William McDermott bought $3M at $104.60. CoStar CEO Andrew Florance bought $2.5M. SoFi CEO Anthony Noto bought $1M.",
+  "newPosts": [
+    {
+      "publication": "Boredom Baron",
+      "title": "Weekly Intelligence Briefing (13 March 2026)",
+      "date": "Mar 14, 2026",
+      "summary": "Fear Gauge at 83/100 (PANIC). Oil closed above $100 for first time since 2022. IEA calling this 'largest disruption in history to oil supplies.' Iran running selective blockade — still shipping 11.7M barrels to China. Safe-Haven Demand collapsed from 40 to 18. Russia earning extra $150M/day.",
+      "tickers": []
+    },
+    {
+      "publication": "Coughlin Capital",
+      "title": "The Most Asymmetric Bet in China AI (VNET Group)",
+      "date": "Mar 14, 2026",
+      "summary": "Deep dive on VNET Group — China's largest carrier-neutral DC operator. ByteDance signed 500MW deal. Wholesale IDC growing ~96% y/y. China DC market projected to triple to RMB 1.1T by 2030. US chip restrictions a tailwind — domestic AI chips consume ~70% more electricity.",
+      "tickers": ["VNET", "BABA", "BIDU", "TCEHY"]
+    },
+    {
+      "publication": "Crack The Market",
+      "title": "The $7tn Oil & Gas Primer",
+      "date": "Mar 13, 2026",
+      "summary": "Massive deep dive into the $7T global oil & gas industry. Core thesis: Peak Oil Supply Growth > Peak Oil Demand. $1T upstream capex slashed 2015-2021. Industry consuming reserves 3x faster than discovering. AI + Grid Supercycle structurally relies on hydrocarbons.",
+      "tickers": ["GEV"]
+    },
+    {
+      "publication": "Multibagger Ideas",
+      "title": "ISSC Thesis: Up 35% in 30 Days",
+      "date": "Mar 13, 2026",
+      "summary": "Innovative Aerosystems (ISSC) — from $20.77 to $28.10 (+35%) in 30 days. Revenue doubled 2023-2025, EBITDA tripled, profit quadrupled. Gross margins 54.5%. Defense tailwinds (F-16 programs).",
+      "tickers": ["ISSC"]
+    },
+    {
+      "publication": "Nate's Substack",
+      "title": "The Jagged Frontier Was a Measurement Error",
+      "date": "Mar 15, 2026",
+      "summary": "Cursor's coding harness solved a research-grade spectral graph theory problem after 4 days — improved on human solution. The skill that survives is evaluating whether work is correct, not doing the work. METR data: task completion horizons doubling every 4-7 months.",
+      "tickers": []
+    },
+    {
+      "publication": "The Price of Everything",
+      "title": "Gubernatio delenda est",
+      "date": "Mar 14, 2026",
+      "summary": "Tim Price draws parallels between current commodity boom and 1970s stagflation. Recipe for historic real asset rally: multiple foreign wars, insufficient energy/materials capex, currency devaluation, unsustainable government debt. Silver broke through 45-year cup-and-handle formation.",
+      "tickers": []
+    },
+    {
+      "publication": "The Founders Corner",
+      "title": "AI GTM Playbook Reveals How New Startups Scale Fast",
+      "date": "Mar 15, 2026",
+      "summary": "AI-driven GTM strategies replacing classic SaaS sales playbook. Clay and ElevenLabs using signal-based outbound, PLG handoffs, AI SDRs. Lovable hits $400M ARR. Anthropic sues Trump admin. Nscale reaches $14.6B valuation.",
+      "tickers": []
+    },
+    {
+      "publication": "The VC Corner",
+      "title": "80+ Ways to Fund Your Startup Without Giving Up a Single Share",
+      "date": "Mar 15, 2026",
+      "summary": "Database of 80+ non-dilutive funding sources across 9 categories. RBF market hit $5.8B in 2024 growing ~70%/yr. US venture debt $27.8B. Cloud credits worth $800K+. Stacking strategy: $1.05M+ at 0% dilution.",
+      "tickers": []
+    },
+    {
+      "publication": "China Digital Retail Report",
+      "title": "In China, a Crooked Horse Brings Your Booze in 15 minutes",
+      "date": "Mar 11, 2026",
+      "summary": "Meituan's 'Waima' instant alcohol delivery — 2,200+ warehouses, 15-min delivery. Nighttime orders 68%. Alcohol delivery market projected >RMB 100B by 2027 (6% penetration). Walmart China RMB 170.6B revenue in 2025.",
+      "tickers": ["MPNGY", "WMT", "BABA"]
+    }
+  ],
+  "socialBuzz": [
+    {
+      "ticker": "OWL",
+      "sentiment": "Bullish",
+      "driver": "Top social buzz stock of the week (Benzinga)"
+    },
+    {
+      "ticker": "HIMS",
+      "sentiment": "Bullish",
+      "driver": "Retail investor darling, top 5 most discussed"
+    },
+    {
+      "ticker": "TSLA",
+      "sentiment": "Mixed",
+      "driver": "Perennial social media favorite, volatile sentiment"
+    },
+    {
+      "ticker": "BRK.A",
+      "sentiment": "Bullish",
+      "driver": "CEO Greg Abel bought $15M+ — his entire annual pay"
+    },
+    {
+      "ticker": "VNET",
+      "sentiment": "Bullish",
+      "driver": "Coughlin Cap: Most asymmetric bet in China AI"
+    },
+    {
+      "ticker": "CALM",
+      "sentiment": "Bearish",
+      "driver": "Reddit: Egg boom fading, betting on what comes next"
+    },
+    {
+      "ticker": "GEV",
+      "sentiment": "Bullish",
+      "driver": "Crack The Market: $7T oil & gas primer highlight"
+    }
+  ],
   "macroOverview": {
-    "source": "42 Macro",
-    "author": "Darius Dale",
-    "title": "Is this the start of WWIII?",
-    "date": "March 04, 2026",
-    "videoUrl": "https://www.youtube.com/watch?v=...",
-    "themes": [
-      {
-        "title": "Geopolitical Escalation",
-        "description": "Conflict has broadened beyond the Strait of Hormuz. Direct strikes on NATO-adjacent infrastructure raising WWIII risk premium across all asset classes.",
-        "sentiment": "bearish"
-      },
-      {
-        "title": "Energy War Premium",
-        "description": "Brent crude holding above $80/bbl. Saudi Aramco production cuts compounding the supply shock. Energy is the clearest long in this environment.",
-        "sentiment": "bullish"
-      },
-      {
-        "title": "Fed Boxed In",
-        "description": "Inflation expectations rising while growth slows — a stagflationary setup. Fed cannot cut without risking credibility. Rate cut expectations now at 1 for all of 2026.",
-        "sentiment": "hawkish"
-      },
-      {
-        "title": "Defensive Rotation",
-        "description": "Gold breaking out. Defense stocks outperforming. Utilities catching a bid. Risk-off rotation accelerating across portfolios.",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Bitcoin No Position",
-        "description": "Dr. Mo signal remains 'no position' since Nov 7, 2025. Crypto following broad risk-off — not acting as a safe haven in this environment.",
-        "sentiment": "neutral"
-      }
-    ]
+    "regime": "Stagflationary",
+    "fearGreedTrend": "27 → 25 → 20 → 18 (Extreme Fear)",
+    "keyRisk": "Oil above $100 for first time since 2022. IEA: 'largest disruption in history to oil supplies.' Global liquidity down 4% on 3-month SAAR (42 Macro).",
+    "scenarios": {
+      "deEscalation": "35%",
+      "contained": "35%",
+      "fullEscalation": "30%"
+    },
+    "watch": "Iran selective blockade — still shipping to China through Hormuz. Russia earning extra $150M/day. Global energy markets fracturing into competing spheres of influence."
   },
-  "postSummaries": [
-    {
-      "category": "Investing/Stocks",
-      "posts": [
-        {
-          "publication": "Coughlin Capital",
-          "title": "Shift4 (FOUR): Pain and Opportunity",
-          "url": "https://coughlincap.com/p/shift4-four-pain-and-opportunity",
-          "date": "Mar 02",
-          "summary": "A deep-dive Q4 earnings review of Shift4 ($FOUR), which is down ~60% from its highs but now trades at an attractive 13% FCF yield. Despite light 2026 guidance and temporary margin dilution from the Global Blue acquisition, the author remains bullish."
-        },
-        {
-          "publication": "Crack The Market",
-          "title": "The Nuclear Renaissance",
-          "url": "https://crackthemarket.substack.com/p/the-nuclear-renaissance",
-          "date": "Mar 01",
-          "summary": "A massive deep-dive arguing that AI, electrification, and geopolitics are forcing a global return to nuclear energy. The US is targeting 400GW of nuclear power by 2050."
-        },
-        {
-          "publication": "TMT Breakout",
-          "title": "TMTB EOD Wrap; MDB First Takes",
-          "url": "https://www.tmtbreakout.com/p/tmtb-eod-wrap-mdb-first-takes",
-          "date": "Mar 02",
-          "summary": "MongoDB ($MDB) crashed 25% after-hours on a significant guidance miss. Optical stocks like Coherent ($COHR) and Lumentum ($LITE) surged on a $2B investment from Nvidia."
-        }
-      ]
-    },
-    {
-      "category": "Tech & AI",
-      "posts": [
-        {
-          "publication": "Nate's Substack",
-          "title": "AI Memory Bottlenecks",
-          "url": "https://natessubstack.com",
-          "date": "Mar 03",
-          "summary": "Analysis of how AI memory constraints are limiting productivity gains at the frontier. Identifies the bottleneck as a key investment thesis for memory chip manufacturers."
-        }
-      ]
-    }
-  ],
-  "watchlist": ["AEHR", "TSSI", "GKPRF", "KUYA", "OPTX", "TPCS", "IZEA", "CURI", "FWRD", "SNES", "NURS", "BCHT", "PESI", "ASG", "CZZLF", "TGEN", "COUR", "OSCR", "BFSA", "EVLV", "CXDO", "DBO", "CODA", "INFU", "SNIPF", "ITMSF", "AMPX", "GILT", "CRDO", "PGY", "SEZL", "BYRN"],
-  "substackPublications": [
-    {"name": "AmsterdamStocks", "url": "amsterdamstocks.substack.com"},
-    {"name": "Asymmetric Returns", "url": "asymmetricreturns.substack.com"},
-    {"name": "Boardroom Alpha", "url": "boardroomalpha.substack.com"},
-    {"name": "Cannacord Genuity", "url": "canaccordgenuity.substack.com"},
-    {"name": "Coughlin Capital", "url": "coughlincap.com"},
-    {"name": "Crack The Market", "url": "crackthemarket.substack.com"},
-    {"name": "Doomberg", "url": "doomberg.substack.com"},
-    {"name": "Einhorn Strategies", "url": "einhornstrategies.substack.com"},
-    {"name": "Emerging Value", "url": "emergingvalue.substack.com"},
-    {"name": "Fundamental Shifts", "url": "fundamentalshifts.substack.com"},
-    {"name": "Grizzly Research", "url": "grizzlyresearch.substack.com"},
-    {"name": "Growth Investor Weekly", "url": "growthinvestorweekly.substack.com"},
-    {"name": "Hidden Champions", "url": "hiddenchampions.substack.com"},
-    {"name": "Invariant", "url": "invariant.substack.com"},
-    {"name": "Macro Ops", "url": "macro-ops.com"},
-    {"name": "Multibagger Ideas", "url": "multibaggerideas.substack.com"},
-    {"name": "Nate's Substack", "url": "natessubstack.com"},
-    {"name": "Neckar's Industrials", "url": "neckars.substack.com"},
-    {"name": "Overlooked Alpha", "url": "overlookedalpha.substack.com"},
-    {"name": "Permanent Portfolio", "url": "permanentportfolio.substack.com"},
-    {"name": "Pirate Wires", "url": "piratewires.com"},
-    {"name": "Quant Signals", "url": "quantsignals.substack.com"},
-    {"name": "Rational Walk", "url": "rationalwalk.com"},
-    {"name": "Scuttleblurb", "url": "scuttleblurb.com"},
-    {"name": "Sleep Well Investments", "url": "sleepwellinvestments.com"},
-    {"name": "Small Cap Discoveries", "url": "smallcapdiscoveries.substack.com"},
-    {"name": "Speedwell Research", "url": "speedwellresearch.substack.com"},
-    {"name": "Stock Market Nerd", "url": "stockmarketnerd.substack.com"},
-    {"name": "The Diff", "url": "diff.substack.com"},
-    {"name": "The Generalist", "url": "thegeneralist.substack.com"},
-    {"name": "TMT Breakout", "url": "tmtbreakout.com"},
-    {"name": "Value Situations", "url": "valuesituations.substack.com"},
-    {"name": "Wolf of Oakville", "url": "wolfofoakville.com"},
-    {"name": "Yet Another Value Blog", "url": "yetanothervalueblog.com"}
-  ],
-  "tickerIntel": {
-    "AEHR": {
-      "substackMentions": [
-        {
-          "publication": "Substack Analysis",
-          "title": "AEHR holding up in risk-off",
-          "summary": "AEHR Test Systems showing relative strength amid broad market selloff. Semiconductor test equipment demand remains robust.",
-          "sentiment": "bullish",
-          "date": "Mar 04"
-        }
-      ],
-      "seekingAlpha": [
-        {
-          "title": "AEHR: Semiconductor Test Equipment Demand Resilient",
-          "rating": "Buy",
-          "date": "Mar 03"
-        }
-      ],
-      "socialBuzz": {
-        "twitter": "moderate",
-        "reddit": "low"
-      },
-      "corporateFilings": [],
-      "insiderBuys": []
-    },
-    "TSSI": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "GKPRF": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "KUYA": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "OPTX": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "TPCS": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "IZEA": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "CURI": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "FWRD": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "SNES": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "NURS": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "BCHT": {
-      "substackMentions": [],
-      "seekingAlpha": [],
-      "socialBuzz": {"twitter": "low", "reddit": "low"},
-      "corporateFilings": [],
-      "insiderBuys": [{"insider": "MacPherson Richard", "title": "President & CEO", "shares": 312500, "price": 2.4, "totalValue": 750000, "date": "Feb 27"}]
-    },
-    "PESI": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "ASG": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "CZZLF": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "TGEN": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "COUR": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "OSCR": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "BFSA": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "EVLV": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "CXDO": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "DBO": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "CODA": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "INFU": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "SNIPF": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "ITMSF": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "AMPX": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "GILT": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "CRDO": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "PGY": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "SEZL": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []},
-    "BYRN": {"substackMentions": [], "seekingAlpha": [], "socialBuzz": {"twitter": "low", "reddit": "low"}, "corporateFilings": [], "insiderBuys": []}
-  }
+  "keyThemes": [
+    "Oil Above $100: Brent crossed $100 for first time since 2022. IEA calls it 'largest disruption in history.' Iran selective blockade still ships to China.",
+    "Global Liquidity Breaking Down: 42 Macro's Darius Dale — liquidity down 4% SAAR. All counter-cyclical indicators (USD, vol, energy) flashing bearish for liquidity.",
+    "China AI Infrastructure Boom: VNET Group as asymmetric play. ByteDance 500MW deal. China DC market to triple to RMB 1.1T by 2030.",
+    "1970s Stagflation Parallels: Tim Price draws direct parallels — multiple wars, insufficient capex, currency devaluation, unsustainable debt. Silver 45-year breakout.",
+    "AI Execution Cost Collapse: Cursor solved research-grade math problem in 4 days. The skill that survives is evaluation, not execution. Task horizons doubling every 4-7 months."
+  ]
 }
