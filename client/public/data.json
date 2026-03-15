@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "March 15, 2026",
+  "lastUpdated": "March 16, 2026",
   "fearGreedIndex": {
-    "score": 18,
+    "score": 21,
     "label": "Extreme Fear",
-    "change": "-8 from last report (was 26)",
-    "note": "CNN F&G Index at 18 (Extreme Fear). 4th consecutive week in Fear/Extreme Fear. Oil above $100, Iran-Hormuz crisis, mortgage rates 6.11%. Crypto F&G at 15."
+    "change": "+3 from last report (was 18)",
+    "note": "CNN F&G Index at 21 (Extreme Fear). 5th consecutive week in Fear/Extreme Fear. S&P 500 futures liquidity collapsed to $5.1M. Crypto F&G at 15-16."
   },
   "topInsiderBuys": [
     {
@@ -43,159 +43,105 @@
       "date": "Mar 06"
     },
     {
-      "ticker": "AIRS",
-      "company": "AirSculpt Technologies",
-      "insider": "Jorey Chernett (10%)",
-      "value": "$91,200",
-      "date": "Mar 06"
-    },
-    {
       "ticker": "ALT",
       "company": "Altimmune Inc",
       "insider": "Cluster (CEO + CFO)",
       "value": "$88,490",
       "date": "Mar 06"
-    },
-    {
-      "ticker": "ABTC",
-      "company": "American Bitcoin Corp",
-      "insider": "Richard Busch (Dir)",
-      "value": "$78,200",
-      "date": "Mar 05"
-    },
-    {
-      "ticker": "CSGP",
-      "company": "CoStar Group",
-      "insider": "Louise Sams (Dir)",
-      "value": "$48,360",
-      "date": "Mar 06"
-    },
-    {
-      "ticker": "ENTX",
-      "company": "Entera Bio Ltd",
-      "insider": "Sean Ellis (Dir)",
-      "value": "$12,300",
-      "date": "Mar 05"
     }
   ],
   "newPosts": [
     {
-      "publication": "Boredom Baron",
-      "title": "Weekly Intelligence Briefing (13 March 2026)",
-      "date": "Mar 14, 2026",
-      "summary": "Fear Gauge at 83/100 (PANIC). Oil closed above $100 for first time since 2022. IEA calling this 'largest disruption in history to oil supplies.' Iran running selective blockade — still shipping 11.7M barrels to China. Safe-Haven Demand collapsed from 40 to 18. Russia earning extra $150M/day.",
-      "tickers": []
+      "publication": "Treasure Hunting",
+      "title": "Ready for Stagflation? Positioning for the Oil Shock \u2014 Weekly Treasure Hunt #05",
+      "date": "Mar 15, 2026",
+      "summary": "IEA declared this the largest supply disruption in history. Gulf countries cut 10M bpd. 84% of ME polyethylene depends on Hormuz. Asian petro producers declared force majeure. Latin America (Vaca Muerta, Colombia) as structural beneficiary. Brent futures >$75 through 2027.",
+      "tickers": [
+        "MAU.PA",
+        "EC",
+        "PXT.TO",
+        "VIST"
+      ]
     },
     {
-      "publication": "Coughlin Capital",
-      "title": "The Most Asymmetric Bet in China AI (VNET Group)",
-      "date": "Mar 14, 2026",
-      "summary": "Deep dive on VNET Group — China's largest carrier-neutral DC operator. ByteDance signed 500MW deal. Wholesale IDC growing ~96% y/y. China DC market projected to triple to RMB 1.1T by 2030. US chip restrictions a tailwind — domestic AI chips consume ~70% more electricity.",
-      "tickers": ["VNET", "BABA", "BIDU", "TCEHY"]
-    },
-    {
-      "publication": "Crack The Market",
-      "title": "The $7tn Oil & Gas Primer",
-      "date": "Mar 13, 2026",
-      "summary": "Massive deep dive into the $7T global oil & gas industry. Core thesis: Peak Oil Supply Growth > Peak Oil Demand. $1T upstream capex slashed 2015-2021. Industry consuming reserves 3x faster than discovering. AI + Grid Supercycle structurally relies on hydrocarbons.",
-      "tickers": ["GEV"]
-    },
-    {
-      "publication": "Multibagger Ideas",
-      "title": "ISSC Thesis: Up 35% in 30 Days",
-      "date": "Mar 13, 2026",
-      "summary": "Innovative Aerosystems (ISSC) — from $20.77 to $28.10 (+35%) in 30 days. Revenue doubled 2023-2025, EBITDA tripled, profit quadrupled. Gross margins 54.5%. Defense tailwinds (F-16 programs).",
-      "tickers": ["ISSC"]
+      "publication": "Compound With AI",
+      "title": "Annual Reports 2.0",
+      "date": "Mar 15, 2026",
+      "summary": "Big Tech (MSFT, GOOG, META, AMZN) simultaneously extended server useful lives as AI capex explodes \u2014 lower depreciation makes earnings look cheaper than they are. AI workflow for reading narrative drift and accounting evolution across multiple years.",
+      "tickers": [
+        "MSFT",
+        "GOOG",
+        "META",
+        "AMZN"
+      ]
     },
     {
       "publication": "Nate's Substack",
-      "title": "The Jagged Frontier Was a Measurement Error",
+      "title": "Executive Briefing: One solo founder just sold for $80M in 6 months",
       "date": "Mar 15, 2026",
-      "summary": "Cursor's coding harness solved a research-grade spectral graph theory problem after 4 days — improved on human solution. The skill that survives is evaluating whether work is correct, not doing the work. METR data: task completion horizons doubling every 4-7 months.",
-      "tickers": []
+      "summary": "Solo founder explosion reveals how organizations suppress talent. Maor Shlomo sold Base44 to Wix for $80M in 6 months. Ben Broca $1M ARR in 1 month. 70-80% odds on a one-person billion-dollar company by 2026. 'Speed of control' replaces span of control.",
+      "tickers": [
+        "WIX"
+      ]
     },
     {
-      "publication": "The Price of Everything",
-      "title": "Gubernatio delenda est",
-      "date": "Mar 14, 2026",
-      "summary": "Tim Price draws parallels between current commodity boom and 1970s stagflation. Recipe for historic real asset rally: multiple foreign wars, insufficient energy/materials capex, currency devaluation, unsustainable government debt. Silver broke through 45-year cup-and-handle formation.",
-      "tickers": []
-    },
-    {
-      "publication": "The Founders Corner",
-      "title": "AI GTM Playbook Reveals How New Startups Scale Fast",
+      "publication": "Security Analysis",
+      "title": "Teledyne Technologies (TDY)",
       "date": "Mar 15, 2026",
-      "summary": "AI-driven GTM strategies replacing classic SaaS sales playbook. Clay and ElevenLabs using signal-based outbound, PLG handoffs, AI SDRs. Lovable hits $400M ARR. Anthropic sues Trump admin. Nscale reaches $14.6B valuation.",
-      "tickers": []
-    },
-    {
-      "publication": "The VC Corner",
-      "title": "80+ Ways to Fund Your Startup Without Giving Up a Single Share",
-      "date": "Mar 15, 2026",
-      "summary": "Database of 80+ non-dilutive funding sources across 9 categories. RBF market hit $5.8B in 2024 growing ~70%/yr. US venture debt $27.8B. Cloud credits worth $800K+. Stacking strategy: $1.05M+ at 0% dilution.",
-      "tickers": []
-    },
-    {
-      "publication": "China Digital Retail Report",
-      "title": "In China, a Crooked Horse Brings Your Booze in 15 minutes",
-      "date": "Mar 11, 2026",
-      "summary": "Meituan's 'Waima' instant alcohol delivery — 2,200+ warehouses, 15-min delivery. Nighttime orders 68%. Alcohol delivery market projected >RMB 100B by 2027 (6% penetration). Walmart China RMB 170.6B revenue in 2025.",
-      "tickers": ["MPNGY", "WMT", "BABA"]
+      "summary": "Deep dive on TDY, a defense/industrial compounder. EV/EBIT = 26.1x, ROE = 8.92%, FCF Yield = 3.4%. Serial acquirer model with transformative FLIR acquisition. Defense exposure provides tailwind in current geopolitical environment.",
+      "tickers": [
+        "TDY"
+      ]
     }
   ],
   "socialBuzz": [
     {
-      "ticker": "OWL",
+      "ticker": "OXY",
       "sentiment": "Bullish",
-      "driver": "Top social buzz stock of the week (Benzinga)"
+      "driver": "Reddit/WSB 'full port' trade gaining traction on oil rally"
     },
     {
-      "ticker": "HIMS",
+      "ticker": "NVDA",
       "sentiment": "Bullish",
-      "driver": "Retail investor darling, top 5 most discussed"
+      "driver": "Investing.com 'stock to buy' ahead of earnings"
     },
     {
-      "ticker": "TSLA",
-      "sentiment": "Mixed",
-      "driver": "Perennial social media favorite, volatile sentiment"
-    },
-    {
-      "ticker": "BRK.A",
+      "ticker": "TDY",
       "sentiment": "Bullish",
-      "driver": "CEO Greg Abel bought $15M+ — his entire annual pay"
+      "driver": "Security Analysis deep dive + MarketBeat growth watch"
     },
     {
-      "ticker": "VNET",
+      "ticker": "XOM",
       "sentiment": "Bullish",
-      "driver": "Coughlin Cap: Most asymmetric bet in China AI"
+      "driver": "Blue-chip oil pick amid $100+ Brent"
     },
     {
-      "ticker": "CALM",
+      "ticker": "BROS",
+      "sentiment": "Bullish",
+      "driver": "Motley Fool: growth stock down 40% to buy"
+    },
+    {
+      "ticker": "LULU",
       "sentiment": "Bearish",
-      "driver": "Reddit: Egg boom fading, betting on what comes next"
-    },
-    {
-      "ticker": "GEV",
-      "sentiment": "Bullish",
-      "driver": "Crack The Market: $7T oil & gas primer highlight"
+      "driver": "Investing.com 'stock to sell' \u2014 consumer discretionary weakness"
     }
   ],
   "macroOverview": {
     "regime": "Stagflationary",
-    "fearGreedTrend": "27 → 25 → 20 → 18 (Extreme Fear)",
-    "keyRisk": "Oil above $100 for first time since 2022. IEA: 'largest disruption in history to oil supplies.' Global liquidity down 4% on 3-month SAAR (42 Macro).",
+    "fearGreedTrend": "27 \u2192 25 \u2192 20 \u2192 18 \u2192 21 (Extreme Fear)",
+    "keyRisk": "IEA: 'largest supply disruption in history.' S&P 500 futures liquidity collapsed to $5.1M. Global liquidity down 4% SAAR (42 Macro).",
     "scenarios": {
-      "deEscalation": "35%",
+      "deEscalation": "30%",
       "contained": "35%",
-      "fullEscalation": "30%"
+      "fullEscalation": "35%"
     },
-    "watch": "Iran selective blockade — still shipping to China through Hormuz. Russia earning extra $150M/day. Global energy markets fracturing into competing spheres of influence."
+    "watch": "Brent futures >$75 through 2027. Big Tech accounting opacity (server life extensions). Solo founder explosion indicting organizational overhead. Defense compounders in demand."
   },
   "keyThemes": [
-    "Oil Above $100: Brent crossed $100 for first time since 2022. IEA calls it 'largest disruption in history.' Iran selective blockade still ships to China.",
-    "Global Liquidity Breaking Down: 42 Macro's Darius Dale — liquidity down 4% SAAR. All counter-cyclical indicators (USD, vol, energy) flashing bearish for liquidity.",
-    "China AI Infrastructure Boom: VNET Group as asymmetric play. ByteDance 500MW deal. China DC market to triple to RMB 1.1T by 2030.",
-    "1970s Stagflation Parallels: Tim Price draws direct parallels — multiple wars, insufficient capex, currency devaluation, unsustainable debt. Silver 45-year breakout.",
-    "AI Execution Cost Collapse: Cursor solved research-grade math problem in 4 days. The skill that survives is evaluation, not execution. Task horizons doubling every 4-7 months."
+    "Stagflation Positioning: IEA calls oil shock largest in history. Commodities and small caps as 1970s playbook. Latin America as structural beneficiary.",
+    "Big Tech Accounting Opacity: Simultaneous server life extensions across MSFT, GOOG, META, AMZN inflate earnings as AI capex explodes.",
+    "Solo Founder Explosion: Indictment of organizational overhead. AI uncaps suppressed capability. One-person billion-dollar company odds rising.",
+    "Liquidity Collapse: S&P 500 futures liquidity at $5.1M. Global liquidity down 4% SAAR. Crypto Fear & Greed at pandemic-crash levels.",
+    "Defense Compounders: Growing interest in defense-adjacent industrials (TDY) with serial acquirer DNA."
   ]
 }
