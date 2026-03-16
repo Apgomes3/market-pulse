@@ -143,5 +143,80 @@
     "Solo Founder Explosion: Indictment of organizational overhead. AI uncaps suppressed capability. One-person billion-dollar company odds rising.",
     "Liquidity Collapse: S&P 500 futures liquidity at $5.1M. Global liquidity down 4% SAAR. Crypto Fear & Greed at pandemic-crash levels.",
     "Defense Compounders: Growing interest in defense-adjacent industrials (TDY) with serial acquirer DNA."
-  ]
+  ],
+  "mar17_update": {
+    "date": "2026-03-17",
+    "summary": "Market enters the week in Extreme Fear (20.0). S&P 500 futures liquidity collapsed to $5.1M. Crack The Market highlights mispricing in refined energy products (jet fuel, naphtha) vs crude. Boredom Baron launches 'Supply Chain Alpha' series on European small caps. Multibagger Ideas concludes ten-bagger study: FCF yield is the #1 predictor. Nate's Substack warns of AI agent data deletion risks.",
+    "fear_greed": {
+      "score": 20,
+      "label": "Extreme Fear",
+      "change": -1
+    },
+    "insider_buys": [
+      {
+        "ticker": "QSI",
+        "value": "$564K",
+        "type": "Cluster"
+      },
+      {
+        "ticker": "EXE",
+        "value": "$215K",
+        "type": "CEO"
+      },
+      {
+        "ticker": "ADMA",
+        "value": "$217K",
+        "type": "Director"
+      },
+      {
+        "ticker": "BWFG",
+        "value": "$122K",
+        "type": "Cluster"
+      }
+    ],
+    "social_buzz": [
+      {
+        "ticker": "OXY",
+        "sentiment": "Bullish",
+        "mentions": "High"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "Mixed",
+        "mentions": "Extreme"
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "Cautious",
+        "mentions": "Rising"
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "Bearish",
+        "mentions": "High"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "Inside the Energy Trading Desk",
+        "url": "https://crackthemarket.substack.com/p/inside-the-energy-trading-desk-why",
+        "pub": "Crack The Market"
+      },
+      {
+        "title": "Supply Chain Alpha: Europe's Boring Small Caps",
+        "url": "https://boredombaron.substack.com/p/when-the-supply-chain-breaks-europes",
+        "pub": "Boredom Baron"
+      },
+      {
+        "title": "The Blueprint for 1,000%+ Returns (Part 3)",
+        "url": "https://multibaggerideas.substack.com/p/the-blueprint-for-1000-returns-part-2a1",
+        "pub": "Multibagger Ideas"
+      },
+      {
+        "title": "AI coding agent deleted 2.5 years of data",
+        "url": "https://natesnewsletter.substack.com/p/your-ai-agent-just-mass-deleted-a",
+        "pub": "Nate's Substack"
+      }
+    ]
+  }
 }
