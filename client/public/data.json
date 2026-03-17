@@ -1,148 +1,222 @@
 {
-  "lastUpdated": "March 16, 2026",
+  "lastUpdated": "2026-03-18T19:20:00+08:00",
   "fearGreedIndex": {
-    "score": 21,
+    "score": 20,
     "label": "Extreme Fear",
-    "change": "+3 from last report (was 18)",
-    "note": "CNN F&G Index at 21 (Extreme Fear). 5th consecutive week in Fear/Extreme Fear. S&P 500 futures liquidity collapsed to $5.1M. Crypto F&G at 15-16."
+    "change": 0,
+    "note": "All 7 CNN sub-indicators in Fear/Extreme Fear. 6th consecutive week. Bitcoin at $74K.",
+    "asOf": "2026-03-18"
   },
   "topInsiderBuys": [
     {
-      "ticker": "QSI",
-      "company": "Quantum-Si Inc",
-      "insider": "Cluster (2 directors)",
-      "value": "$564,250",
-      "date": "Mar 05"
-    },
-    {
-      "ticker": "EXE",
-      "company": "Expand Energy Corp",
-      "insider": "Michael Wichterich (Interim CEO)",
-      "value": "$215,000",
-      "date": "Mar 06"
-    },
-    {
-      "ticker": "ADMA",
-      "company": "ADMA Biologics",
-      "insider": "Steve Elms (Dir)",
-      "value": "$217,420",
-      "date": "Mar 05"
+      "ticker": "FOUR",
+      "company": "Shift4 Payments",
+      "insider": "Jared Isaacman",
+      "title": "10% Owner",
+      "value": "+$2.0M",
+      "date": "2026-03-10"
     },
     {
       "ticker": "BWFG",
-      "company": "Bankwell Financial Group",
-      "insider": "Cluster (5 directors)",
-      "value": "$122,074",
-      "date": "Mar 06"
+      "company": "Bankwell Financial",
+      "insider": "Lawrence Seidman",
+      "title": "Director",
+      "value": "+$471K",
+      "date": "2026-03-10"
     },
     {
-      "ticker": "GPRE",
-      "company": "Green Plains Inc",
-      "insider": "Patrick Sweeney (Dir)",
-      "value": "$101,298",
-      "date": "Mar 06"
+      "ticker": "SOLV",
+      "company": "Solventum Corp",
+      "insider": "Amy McBride Wendell",
+      "title": "Director",
+      "value": "+$100K",
+      "date": "2026-03-10"
     },
     {
-      "ticker": "ALT",
-      "company": "Altimmune Inc",
-      "insider": "Cluster (CEO + CFO)",
-      "value": "$88,490",
-      "date": "Mar 06"
+      "ticker": "GRNT",
+      "company": "Granite Ridge Resources",
+      "insider": "Tyler Farquharson",
+      "title": "Pres, CEO",
+      "value": "+$65K",
+      "date": "2026-03-10"
+    },
+    {
+      "ticker": "ENTX",
+      "company": "Entera Bio",
+      "insider": "Geno Germano",
+      "title": "Director",
+      "value": "+$26K",
+      "date": "2026-03-09"
     }
   ],
   "newPosts": [
     {
-      "publication": "Treasure Hunting",
-      "title": "Ready for Stagflation? Positioning for the Oil Shock \u2014 Weekly Treasure Hunt #05",
-      "date": "Mar 15, 2026",
-      "summary": "IEA declared this the largest supply disruption in history. Gulf countries cut 10M bpd. 84% of ME polyethylene depends on Hormuz. Asian petro producers declared force majeure. Latin America (Vaca Muerta, Colombia) as structural beneficiary. Brent futures >$75 through 2027.",
+      "id": "ctm-oil-gas-primer",
+      "date": "2026-03-13",
+      "addedDate": "2026-03-18",
+      "title": "The $7tn Oil & Gas Primer",
+      "url": "https://crackthemarket.substack.com/p/the-7tn-oil-and-gas-primer",
+      "source": "Crack The Market",
+      "category": "Investing",
+      "summary": "The most comprehensive deep dive into the $7tn global oil & gas industry, released at the exact moment the Middle East conflict has rewired global supply chains. Covers upstream, midstream, and downstream dynamics, sovereignty considerations, and the actuarial blockade thesis.",
+      "keyTakeaway": "Energy sovereignty is the defining investment theme of 2026. The $7tn oil & gas sector is being repriced in real time.",
       "tickers": [
-        "MAU.PA",
-        "EC",
-        "PXT.TO",
-        "VIST"
+        "XOM",
+        "CVX",
+        "OXY",
+        "BP",
+        "SHEL"
       ]
     },
     {
-      "publication": "Compound With AI",
-      "title": "Annual Reports 2.0",
-      "date": "Mar 15, 2026",
-      "summary": "Big Tech (MSFT, GOOG, META, AMZN) simultaneously extended server useful lives as AI capex explodes \u2014 lower depreciation makes earnings look cheaper than they are. AI workflow for reading narrative drift and accounting evolution across multiple years.",
+      "id": "wolf-kits-fins",
+      "date": "2026-03-08",
+      "addedDate": "2026-03-18",
+      "title": "KITS Eyecare (KITS.TO) FINS Review",
+      "url": "https://www.wolfofoakville.com/p/kits-eyecare-kitsto-fins-review-a5a",
+      "source": "Wolf of Oakville",
+      "category": "Investing",
+      "summary": "Q4 & 2025 annual filings review, downgraded from 3.5 to 3 stars. Wolf originally picked KITS at $2.58 in Jan 2023 and exited for a 500% gain. Downgrade driven by Tesla-like valuation multiples and a post-earnings sell-off of 15%+ in two days.",
+      "keyTakeaway": "KITS is a high-quality business with a stretched valuation. Post-earnings sell-off may create a better entry point.",
       "tickers": [
-        "MSFT",
-        "GOOG",
-        "META",
-        "AMZN"
+        "KITS.TO"
       ]
     },
     {
-      "publication": "Nate's Substack",
-      "title": "Executive Briefing: One solo founder just sold for $80M in 6 months",
-      "date": "Mar 15, 2026",
-      "summary": "Solo founder explosion reveals how organizations suppress talent. Maor Shlomo sold Base44 to Wix for $80M in 6 months. Ben Broca $1M ARR in 1 month. 70-80% odds on a one-person billion-dollar company by 2026. 'Speed of control' replaces span of control.",
+      "id": "vc-corner-agi",
+      "date": "2026-03-08",
+      "addedDate": "2026-03-18",
+      "title": "AGI Is Closer Than You Think",
+      "url": "https://www.thevccorner.com/p/agi-is-closer-than-you-think-prompt",
+      "source": "The VC Corner",
+      "category": "Tech & AI",
+      "summary": "Dario Amodei says human-level AI may arrive sooner than expected. Prompt engineering is dead; context engineering is the new skill. AI will eat application software but proprietary data and deep workflow knowledge remain durable moats. Anthropic data: 14% drop in entry-level hiring since ChatGPT launch.",
+      "keyTakeaway": "The AGI timeline is compressing. Context engineering replaces prompt engineering. SaaS incumbents with proprietary data will survive.",
+      "tickers": []
+    },
+    {
+      "id": "tmtb-weekly",
+      "date": "2026-03-08",
+      "addedDate": "2026-03-18",
+      "title": "TMTB Weekly",
+      "url": "https://www.tmtbreakout.com/p/tmtb-weekly-4a3",
+      "source": "TMT Breakout",
+      "category": "Tech & AI",
+      "summary": "Software outperformed semis by 15% in a single week \u2014 a 6-sigma event, nearly double the previous record of 8%. The prior week had flagged topping signs in leading semi charts and bottoming software charts, with the MS TMT Conference week historically amplifying such dislocations.",
+      "keyTakeaway": "The software/semi rotation is the most significant sector-level signal in years.",
       "tickers": [
-        "WIX"
+        "IGV",
+        "SMH",
+        "NVDA",
+        "MSFT"
       ]
     },
     {
-      "publication": "Security Analysis",
-      "title": "Teledyne Technologies (TDY)",
-      "date": "Mar 15, 2026",
-      "summary": "Deep dive on TDY, a defense/industrial compounder. EV/EBIT = 26.1x, ROE = 8.92%, FCF Yield = 3.4%. Serial acquirer model with transformative FLIR acquisition. Defense exposure provides tailwind in current geopolitical environment.",
+      "id": "tmtb-morning-mar18",
+      "date": "2026-03-18",
+      "addedDate": "2026-03-18",
+      "title": "TMTB Morning Wrap (March 18)",
+      "url": "https://www.tmtbreakout.com/p/tmtb-morning-wrap-98a",
+      "source": "TMT Breakout",
+      "category": "Tech & AI",
+      "summary": "Today's morning wrap covers continued Iran/oil developments as the dominant macro backdrop, with Altman and Broadcom (AVGO) as key tech-specific catalysts. References Citrini's optical piece as a key read for the day.",
+      "keyTakeaway": "Oil/Iran remains the primary macro driver for tech positioning. AVGO and optical names are the key tech-specific focus.",
       "tickers": [
-        "TDY"
+        "AVGO"
       ]
+    },
+    {
+      "id": "tim-price-dead-zone",
+      "date": "2026-03-07",
+      "addedDate": "2026-03-18",
+      "title": "The Dead Zone",
+      "url": "https://timprice.substack.com/p/the-dead-zone",
+      "source": "Tim Price",
+      "category": "Macro",
+      "summary": "Tim Price draws a parallel between Cronenberg's 1983 film The Dead Zone and the current geopolitical moment. A literary meditation on political risk, the limits of institutional restraint, and the dangers of concentrated executive power in an era of escalating conflict.",
+      "keyTakeaway": "Political risk is underpriced. The current environment mirrors conditions that historically precede catastrophic policy errors.",
+      "tickers": []
     }
   ],
   "socialBuzz": [
     {
       "ticker": "OXY",
       "sentiment": "Bullish",
-      "driver": "Reddit/WSB 'full port' trade gaining traction on oil rally"
-    },
-    {
-      "ticker": "NVDA",
-      "sentiment": "Bullish",
-      "driver": "Investing.com 'stock to buy' ahead of earnings"
-    },
-    {
-      "ticker": "TDY",
-      "sentiment": "Bullish",
-      "driver": "Security Analysis deep dive + MarketBeat growth watch"
+      "driver": "Reddit/WSB oil rally trade intensifying post-Iran escalation"
     },
     {
       "ticker": "XOM",
       "sentiment": "Bullish",
-      "driver": "Blue-chip oil pick amid $100+ Brent"
+      "driver": "Preferred blue-chip oil play; $100+ Brent thesis"
     },
     {
-      "ticker": "BROS",
-      "sentiment": "Bullish",
-      "driver": "Motley Fool: growth stock down 40% to buy"
+      "ticker": "NVDA",
+      "sentiment": "Mixed",
+      "driver": "Earnings this week; AI capex narrative vs. macro headwinds"
     },
     {
-      "ticker": "LULU",
+      "ticker": "TSLA",
       "sentiment": "Bearish",
-      "driver": "Investing.com 'stock to sell' \u2014 consumer discretionary weakness"
+      "driver": "Brand sentiment deteriorating; continued selling pressure"
+    },
+    {
+      "ticker": "FOUR",
+      "sentiment": "Bullish",
+      "driver": "Isaacman $2M insider buy attracting attention post-SpaceX"
+    },
+    {
+      "ticker": "AVGO",
+      "sentiment": "Neutral",
+      "driver": "TMT Breakout morning wrap focus; optical names in spotlight"
     }
   ],
   "macroOverview": {
-    "regime": "Stagflationary",
-    "fearGreedTrend": "27 \u2192 25 \u2192 20 \u2192 18 \u2192 21 (Extreme Fear)",
-    "keyRisk": "IEA: 'largest supply disruption in history.' S&P 500 futures liquidity collapsed to $5.1M. Global liquidity down 4% SAAR (42 Macro).",
-    "scenarios": {
-      "deEscalation": "30%",
-      "contained": "35%",
-      "fullEscalation": "35%"
-    },
-    "watch": "Brent futures >$75 through 2027. Big Tech accounting opacity (server life extensions). Solo founder explosion indicting organizational overhead. Defense compounders in demand."
+    "fearGreed": "~20 (Extreme Fear)",
+    "liquidity": "S&P 500 futures liquidity at $5.1M \u2014 near lowest since April 2025",
+    "macro42": "No new video since March 13. Global liquidity down 4% on 3-month SAAR. All four counter-cyclical indicators bearish.",
+    "keyRisks": [
+      "Iran-Israel conflict escalation",
+      "Oil price spike",
+      "Software/semi rotation",
+      "AGI timeline compression"
+    ],
+    "keyEarnings": [
+      "NVDA (this week)",
+      "DLTR (Monday)"
+    ]
   },
   "keyThemes": [
-    "Stagflation Positioning: IEA calls oil shock largest in history. Commodities and small caps as 1970s playbook. Latin America as structural beneficiary.",
-    "Big Tech Accounting Opacity: Simultaneous server life extensions across MSFT, GOOG, META, AMZN inflate earnings as AI capex explodes.",
-    "Solo Founder Explosion: Indictment of organizational overhead. AI uncaps suppressed capability. One-person billion-dollar company odds rising.",
-    "Liquidity Collapse: S&P 500 futures liquidity at $5.1M. Global liquidity down 4% SAAR. Crypto Fear & Greed at pandemic-crash levels.",
-    "Defense Compounders: Growing interest in defense-adjacent industrials (TDY) with serial acquirer DNA."
+    {
+      "theme": "Energy Sovereignty",
+      "posts": [
+        "Crack The Market $7tn Primer",
+        "TMT Breakout Weekly"
+      ],
+      "signal": "Bullish energy equities; oil sovereignty repricing"
+    },
+    {
+      "theme": "AI / Software Disruption",
+      "posts": [
+        "The VC Corner (AGI)",
+        "TMT Breakout Weekly"
+      ],
+      "signal": "Software over semis; AGI timeline compressing"
+    },
+    {
+      "theme": "Geopolitical Risk",
+      "posts": [
+        "Tim Price (Dead Zone)",
+        "TMT Breakout Morning Wrap"
+      ],
+      "signal": "Political risk underpriced; Iran conflict structural"
+    },
+    {
+      "theme": "Small Cap Value",
+      "posts": [
+        "Wolf of Oakville (KITS)"
+      ],
+      "signal": "Valuation discipline; post-earnings entry opportunities"
+    }
   ],
   "mar17_update": {
     "date": "2026-03-17",
@@ -218,5 +292,6 @@
         "pub": "Nate's Substack"
       }
     ]
-  }
+  },
+  "runDate": "March 18, 2026"
 }
