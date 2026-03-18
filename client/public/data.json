@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-18T19:20:00+08:00",
+  "lastUpdated": "2026-03-19T19:00:00+08:00",
   "fearGreedIndex": {
     "score": 20,
     "label": "Extreme Fear",
     "change": 0,
-    "note": "All 7 CNN sub-indicators in Fear/Extreme Fear. 6th consecutive week. Bitcoin at $74K.",
-    "asOf": "2026-03-18"
+    "note": "All 7 CNN sub-indicators in Fear/Extreme Fear. Lowest level since Nov 2025.",
+    "asOf": "2026-03-19"
   },
   "topInsiderBuys": [
     {
@@ -17,205 +17,147 @@
       "date": "2026-03-10"
     },
     {
-      "ticker": "BWFG",
-      "company": "Bankwell Financial",
-      "insider": "Lawrence Seidman",
-      "title": "Director",
-      "value": "+$471K",
-      "date": "2026-03-10"
-    },
-    {
-      "ticker": "SOLV",
-      "company": "Solventum Corp",
-      "insider": "Amy McBride Wendell",
-      "title": "Director",
-      "value": "+$100K",
-      "date": "2026-03-10"
-    },
-    {
-      "ticker": "GRNT",
-      "company": "Granite Ridge Resources",
-      "insider": "Tyler Farquharson",
-      "title": "Pres, CEO",
-      "value": "+$65K",
-      "date": "2026-03-10"
-    },
-    {
-      "ticker": "ENTX",
-      "company": "Entera Bio",
-      "insider": "Geno Germano",
-      "title": "Director",
-      "value": "+$26K",
-      "date": "2026-03-09"
+      "ticker": "DT",
+      "company": "Dynatrace",
+      "insider": "Stephen McMahon",
+      "title": "EVP",
+      "value": "+$107K",
+      "date": "2026-03-03"
     }
   ],
   "newPosts": [
     {
-      "id": "ctm-oil-gas-primer",
-      "date": "2026-03-13",
-      "addedDate": "2026-03-18",
-      "title": "The $7tn Oil & Gas Primer",
-      "url": "https://crackthemarket.substack.com/p/the-7tn-oil-and-gas-primer",
+      "id": "ctm-lng-tollbooth",
+      "date": "2026-03-18",
+      "addedDate": "2026-03-19",
+      "title": "Cheniere Energy (LNG): Asymmetrical LNG Tollbooth",
+      "url": "https://crackthemarket.substack.com/p/cheniere-energy-lng-asymmetrical",
       "source": "Crack The Market",
       "category": "Investing",
-      "summary": "The most comprehensive deep dive into the $7tn global oil & gas industry, released at the exact moment the Middle East conflict has rewired global supply chains. Covers upstream, midstream, and downstream dynamics, sovereignty considerations, and the actuarial blockade thesis.",
-      "keyTakeaway": "Energy sovereignty is the defining investment theme of 2026. The $7tn oil & gas sector is being repriced in real time.",
+      "summary": "Cheniere Energy is the dominant US LNG export platform, controlling ~50% of capacity. Business model is a \"tollbooth\" with long-dated take-or-pay contracts providing bond-like cash flows. Asymmetrical profile: downside floor from contracts, upside from global gas dislocations.",
+      "keyTakeaway": "Energy sovereignty is the defining investment theme of 2026. Cheniere is the critical bridge between US shale and global demand.",
       "tickers": [
-        "XOM",
-        "CVX",
-        "OXY",
-        "BP",
-        "SHEL"
+        "LNG"
       ]
     },
     {
-      "id": "wolf-kits-fins",
-      "date": "2026-03-08",
-      "addedDate": "2026-03-18",
-      "title": "KITS Eyecare (KITS.TO) FINS Review",
-      "url": "https://www.wolfofoakville.com/p/kits-eyecare-kitsto-fins-review-a5a",
-      "source": "Wolf of Oakville",
-      "category": "Investing",
-      "summary": "Q4 & 2025 annual filings review, downgraded from 3.5 to 3 stars. Wolf originally picked KITS at $2.58 in Jan 2023 and exited for a 500% gain. Downgrade driven by Tesla-like valuation multiples and a post-earnings sell-off of 15%+ in two days.",
-      "keyTakeaway": "KITS is a high-quality business with a stretched valuation. Post-earnings sell-off may create a better entry point.",
-      "tickers": [
-        "KITS.TO"
-      ]
-    },
-    {
-      "id": "vc-corner-agi",
-      "date": "2026-03-08",
-      "addedDate": "2026-03-18",
-      "title": "AGI Is Closer Than You Think",
-      "url": "https://www.thevccorner.com/p/agi-is-closer-than-you-think-prompt",
-      "source": "The VC Corner",
-      "category": "Tech & AI",
-      "summary": "Dario Amodei says human-level AI may arrive sooner than expected. Prompt engineering is dead; context engineering is the new skill. AI will eat application software but proprietary data and deep workflow knowledge remain durable moats. Anthropic data: 14% drop in entry-level hiring since ChatGPT launch.",
-      "keyTakeaway": "The AGI timeline is compressing. Context engineering replaces prompt engineering. SaaS incumbents with proprietary data will survive.",
-      "tickers": []
-    },
-    {
-      "id": "tmtb-weekly",
-      "date": "2026-03-08",
-      "addedDate": "2026-03-18",
-      "title": "TMTB Weekly",
-      "url": "https://www.tmtbreakout.com/p/tmtb-weekly-4a3",
-      "source": "TMT Breakout",
-      "category": "Tech & AI",
-      "summary": "Software outperformed semis by 15% in a single week \u2014 a 6-sigma event, nearly double the previous record of 8%. The prior week had flagged topping signs in leading semi charts and bottoming software charts, with the MS TMT Conference week historically amplifying such dislocations.",
-      "keyTakeaway": "The software/semi rotation is the most significant sector-level signal in years.",
-      "tickers": [
-        "IGV",
-        "SMH",
-        "NVDA",
-        "MSFT"
-      ]
-    },
-    {
-      "id": "tmtb-morning-mar18",
+      "id": "pippa-atomic-forge",
       "date": "2026-03-18",
-      "addedDate": "2026-03-18",
-      "title": "TMTB Morning Wrap (March 18)",
-      "url": "https://www.tmtbreakout.com/p/tmtb-morning-wrap-98a",
-      "source": "TMT Breakout",
+      "addedDate": "2026-03-19",
+      "title": "Pittsburgh PA - Atomic Forge",
+      "url": "https://drpippa.substack.com/p/pittsburgh-pa-atomic-forge-pennsylvania",
+      "source": "Dr. Pippa",
       "category": "Tech & AI",
-      "summary": "Today's morning wrap covers continued Iran/oil developments as the dominant macro backdrop, with Altman and Broadcom (AVGO) as key tech-specific catalysts. References Citrini's optical piece as a key read for the day.",
-      "keyTakeaway": "Oil/Iran remains the primary macro driver for tech positioning. AVGO and optical names are the key tech-specific focus.",
-      "tickers": [
-        "AVGO"
-      ]
+      "summary": "Pennsylvania's transformation from steel to AI-powered materials science. AI tools like Google's GNoME have discovered 2.2M new stable inorganic crystals, condensing 800 years of research. Focus on carbon-metal composites and graphene for batteries and space exploration.",
+      "keyTakeaway": "The \"Genesis Mission\" aims to make the US an AI-powered research superpower through Hard Tech and materials discovery.",
+      "tickers": []
     },
     {
-      "id": "tim-price-dead-zone",
-      "date": "2026-03-07",
-      "addedDate": "2026-03-18",
-      "title": "The Dead Zone",
-      "url": "https://timprice.substack.com/p/the-dead-zone",
-      "source": "Tim Price",
-      "category": "Macro",
-      "summary": "Tim Price draws a parallel between Cronenberg's 1983 film The Dead Zone and the current geopolitical moment. A literary meditation on political risk, the limits of institutional restraint, and the dangers of concentrated executive power in an era of escalating conflict.",
-      "keyTakeaway": "Political risk is underpriced. The current environment mirrors conditions that historically precede catastrophic policy errors.",
+      "id": "vc-corner-q1-fundraising",
+      "date": "2026-03-17",
+      "addedDate": "2026-03-19",
+      "title": "$80 Billion in 3 Months: Inside Q1 2026\u2019s Record-Breaking Fundraising",
+      "url": "https://www.thevccorner.com/p/80-billion-in-3-months-inside-q1-2026s-record-breaking-fundraising",
+      "source": "The VC Corner",
+      "category": "Venture Capital",
+      "summary": "Record-breaking $80B raised in Q1 2026. AI remains the primary driver, but there is a shift toward \"Hard Tech\" and \"Sovereign Tech\" as geopolitical tensions rise.",
+      "keyTakeaway": "The Great SaaS Reset is underway, with valuations being repriced away from 30x revenue euphoria.",
       "tickers": []
+    },
+    {
+      "id": "nate-ai-anchoring-bias",
+      "date": "2026-03-18",
+      "addedDate": "2026-03-19",
+      "title": "AI Anchoring Bias in Agents",
+      "url": "https://natesnewsletter.substack.com/p/a-single-sentence-from-a-family-member",
+      "source": "Nate's Substack",
+      "category": "Tech & AI",
+      "summary": "Evaluation of OpenAI's ChatGPT Health reveals structural failure modes in AI agents. 'Anchoring Bias' shifted triage recommendations 12x based on a single dismissive sentence. Mapping these failures to enterprise agents in claims and compliance.",
+      "keyTakeaway": "Need for factorial evaluation methodology and four-layer eval architecture to find agent blind spots.",
+      "tickers": []
+    },
+    {
+      "id": "tmtb-eod-mar18",
+      "date": "2026-03-18",
+      "addedDate": "2026-03-19",
+      "title": "TMTB EOD Wrap: Micron (MU) Bogeys",
+      "url": "https://www.tmtbreakout.com/p/tmtb-eod-wrap-micron-mu-bogeys-and",
+      "source": "TMT Breakout",
+      "category": "Tech & AI",
+      "summary": "Tech recap and Micron earnings preview. Iran/oil developments remain the dominant macro backdrop. Rotation signals: Software vs. Semis spread remains extreme.",
+      "keyTakeaway": "Micron earnings and the software/semi rotation are the key tech-specific focus.",
+      "tickers": [
+        "MU",
+        "NVDA"
+      ]
     }
   ],
   "socialBuzz": [
     {
-      "ticker": "OXY",
-      "sentiment": "Bullish",
-      "driver": "Reddit/WSB oil rally trade intensifying post-Iran escalation"
+      "ticker": "FSLY",
+      "sentiment": "Cautious",
+      "driver": "52-week high (+157% YTD); retail sentiment cautious on insider sales"
     },
     {
-      "ticker": "XOM",
+      "ticker": "PERF",
       "sentiment": "Bullish",
-      "driver": "Preferred blue-chip oil play; $100+ Brent thesis"
+      "driver": "Surged 32% on buyout offer rumors"
+    },
+    {
+      "ticker": "OXY",
+      "sentiment": "Bullish",
+      "driver": "Oil shock thesis post-Iran escalation"
     },
     {
       "ticker": "NVDA",
       "sentiment": "Mixed",
-      "driver": "Earnings this week; AI capex narrative vs. macro headwinds"
-    },
-    {
-      "ticker": "TSLA",
-      "sentiment": "Bearish",
-      "driver": "Brand sentiment deteriorating; continued selling pressure"
-    },
-    {
-      "ticker": "FOUR",
-      "sentiment": "Bullish",
-      "driver": "Isaacman $2M insider buy attracting attention post-SpaceX"
-    },
-    {
-      "ticker": "AVGO",
-      "sentiment": "Neutral",
-      "driver": "TMT Breakout morning wrap focus; optical names in spotlight"
+      "driver": "High buzz ahead of earnings; AI capex vs. macro headwinds"
     }
   ],
   "macroOverview": {
-    "fearGreed": "~20 (Extreme Fear)",
-    "liquidity": "S&P 500 futures liquidity at $5.1M \u2014 near lowest since April 2025",
-    "macro42": "No new video since March 13. Global liquidity down 4% on 3-month SAAR. All four counter-cyclical indicators bearish.",
+    "fearGreed": "20 (Extreme Fear) \u2014 flat from prior day",
+    "liquidity": "Global liquidity down 4% on 3-month SAAR (42 Macro)",
+    "macro42": "Is Global Liquidity Breaking Down? Deterioration depends on POTUS and Treasury actions.",
     "keyRisks": [
       "Iran-Israel conflict escalation",
       "Oil price spike",
-      "Software/semi rotation",
-      "AGI timeline compression"
+      "The Great SaaS Reset",
+      "AI Agent failure modes"
     ],
     "keyEarnings": [
-      "NVDA (this week)",
-      "DLTR (Monday)"
+      "MU (Micron)",
+      "NVDA (this week)"
     ]
   },
   "keyThemes": [
     {
       "theme": "Energy Sovereignty",
       "posts": [
-        "Crack The Market $7tn Primer",
-        "TMT Breakout Weekly"
+        "Cheniere Energy (LNG) Tollbooth"
       ],
-      "signal": "Bullish energy equities; oil sovereignty repricing"
+      "signal": "Bullish energy equities; US shale as sovereign bridge"
     },
     {
-      "theme": "AI / Software Disruption",
+      "theme": "The Great SaaS Reset",
       "posts": [
-        "The VC Corner (AGI)",
-        "TMT Breakout Weekly"
+        "VC Corner Q1 Fundraising",
+        "SaaS Valuation 2026"
       ],
-      "signal": "Software over semis; AGI timeline compressing"
+      "signal": "Valuation repricing; AI-proof durability prioritized"
     },
     {
-      "theme": "Geopolitical Risk",
+      "theme": "AI in Hard Tech",
       "posts": [
-        "Tim Price (Dead Zone)",
-        "TMT Breakout Morning Wrap"
+        "Dr. Pippa Atomic Forge"
       ],
-      "signal": "Political risk underpriced; Iran conflict structural"
+      "signal": "Accelerated materials discovery; Pennsylvania Hard Tech resurrection"
     },
     {
-      "theme": "Small Cap Value",
+      "theme": "Agentic AI Failures",
       "posts": [
-        "Wolf of Oakville (KITS)"
+        "Nate AI Anchoring Bias"
       ],
-      "signal": "Valuation discipline; post-earnings entry opportunities"
+      "signal": "Need for rigorous evaluation; structural failure modes in production"
     }
   ],
   "mar17_update": {
@@ -293,5 +235,5 @@
       }
     ]
   },
-  "runDate": "March 18, 2026"
+  "runDate": "March 19, 2026"
 }
