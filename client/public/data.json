@@ -236,149 +236,18 @@
     ]
   },
   "runDate": "March 19, 2026",
-  "daily_runs": [
+  "daily_summaries": [
     {
-      "date": "2026-03-20",
-      "posts": [
-        {
-          "title": "The Human Bottleneck in AI",
-          "source": "Efficiency Playbook",
-          "url": "https://efficiencyplaybook.substack.com/p/the-human-bottleneck-in-ai",
-          "date": "2026-03-18",
-          "category": "AI / Operations",
-          "summary": "AI adoption is widespread but productivity remains flat. More than half of CEOs report no significant financial benefit from AI. The gap is human, not technical \u2014 organizations deploy tools without redesigning workflows or building trust.",
-          "tickers": []
-        },
-        {
-          "title": "Building a Startup with Claude Code: Setup",
-          "source": "Founders Fuel",
-          "url": "https://www.thefoundersfuel.com/p/building-a-startup-with-claude-code",
-          "date": "2026-03-19",
-          "category": "AI / Startups",
-          "summary": "Practical guide to building a full startup using Claude Code with a 4-agent tmux architecture: Researcher, Designer, Coder, and Reviewer. Author nearly built a full startup in 4 days. Researcher agent has highest ROI.",
-          "tickers": []
-        },
-        {
-          "title": "Most AI companies are renting their position",
-          "source": "Nate's Substack",
-          "url": "https://natesnewsletter.substack.com/p/perplexity-shipped-its-best-product",
-          "date": "2026-03-19",
-          "category": "AI / Strategy",
-          "summary": "Perplexity Computer routes across 19 frontier models but its core reasoning runs on Anthropic's model. The structural asymmetry: Anthropic doesn't need 19 models because it owns its one. This is the position of almost every AI company that isn't a foundation model owner.",
-          "tickers": [
-            "GOOG",
-            "META"
-          ]
-        },
-        {
-          "title": "Overwhelmed CEOs Don't Need More Hours. They Need This.",
-          "source": "The Founders Corner",
-          "url": "https://www.the-founders-corner.com/p/overwhelmed-ceos-dont-need-more-hours",
-          "date": "2026-03-19",
-          "category": "Leadership / Startups",
-          "summary": "Applies the Eisenhower Matrix to CEO time management. Most leaders spend disproportionate time in the urgent-but-not-important quadrant, mistaking activity for progress.",
-          "tickers": []
-        },
-        {
-          "title": "The Law That Explains Why Your Team Gets Worse as It Gets Bigger",
-          "source": "The Founders Corner",
-          "url": "https://www.the-founders-corner.com/p/the-law-that-explains-why-your-team-gets-worse-as-it-gets-bigger",
-          "date": "2026-03-18",
-          "category": "Leadership / Startups",
-          "summary": "Explores the Ringelmann Effect \u2014 individual effort decreases as team size increases. Implications for founders scaling teams and maintaining execution quality.",
-          "tickers": []
-        },
-        {
-          "title": "Daily Tech/Investing Podcast Recaps",
-          "source": "TMT Breakout",
-          "url": "https://www.tmtbreakout.com/p/tmtb-daily-techinvesting-podcast",
-          "date": "2026-03-19",
-          "category": "Tech / Investing",
-          "summary": "TMTB launched podcasts.tmtbreakout.com (beta) \u2014 daily curation of top 3 tech investing podcasts with key investment takeaways, published at 2pm EST.",
-          "tickers": []
-        },
-        {
-          "title": "Morning Wrap: Micron (MU) Takeaways",
-          "source": "TMT Breakout",
-          "url": "https://www.tmtbreakout.com/p/morning-wrap-micron-mu-takeaways",
-          "date": "2026-03-19",
-          "category": "Tech / Markets",
-          "summary": "Futures -65bps after Iran war escalation. Micron beat expectations but debate on peak margins (80%+ gross). Samsung/SK Hynix -5%. Asia broadly red: NKY -3.38%, KOSPI -2.73%.",
-          "tickers": [
-            "MU",
-            "AVGO"
-          ]
-        },
-        {
-          "title": "Buy Alert: 2nd Purchase of AI-proof, Anti-fragile Business",
-          "source": "Sleep Well Investments",
-          "url": "https://www.sleepwellinvestments.com/p/buy-alert-2nd-purchase-of-an-ai-proof",
-          "date": "2026-03-17",
-          "category": "Investing / Value",
-          "summary": "Added to undisclosed AI-proof business scoring 15/20 on sleep-well checklist. All four moats. FCF compounded at 41% since competitor entered. Available at <15x FCF, <3x Sales, net cash.",
-          "tickers": []
-        },
-        {
-          "title": "Why JD.com needs to do a better job with Joybuy - Part 1: The Ochama legacy",
-          "source": "China Digital Retail Report",
-          "url": "https://chinadigitalretailreport.substack.com/p/why-jdcom-needs-to-do-a-better-job",
-          "date": "2026-03-16",
-          "category": "China / E-commerce",
-          "summary": "JD.com invested $1.4B in cross-border e-commerce since 2015, losing $1B on JD Central alone. Joybuy has been through 6+ incarnations. Core failure: copying Chinese practices without localization.",
-          "tickers": [
-            "JD"
-          ]
-        }
+      "date": "2026-03-21",
+      "fear_greed": 18.0,
+      "new_posts_count": 9,
+      "top_insider_buy": "VANI +$1.68M",
+      "key_themes": [
+        "Qatar LNG Shock",
+        "AI Persistent Memory",
+        "SaaS Reset"
       ],
-      "market_intel": {
-        "fear_greed": {
-          "value": 17,
-          "label": "Extreme Fear",
-          "trend": "Down from 20; 7th consecutive week in Extreme Fear"
-        },
-        "top_insider_buys": [
-          {
-            "ticker": "REEMF",
-            "name": "Rare Element Resources",
-            "insider": "James N Blue (10%)",
-            "value": "$24.0M"
-          },
-          {
-            "ticker": "LOAR",
-            "name": "Loar Holdings",
-            "insider": "Dirkson R Charles",
-            "value": "$2.97M"
-          },
-          {
-            "ticker": "BWFG",
-            "name": "Bankwell Financial",
-            "insider": "Lawrence B Seidman (Dir)",
-            "value": "$469K"
-          }
-        ],
-        "top_insider_sales": [
-          {
-            "ticker": "RELY",
-            "name": "Remitly Global",
-            "insider": "Naspers Ltd (ceasing 10%)",
-            "value": "-$191.8M"
-          },
-          {
-            "ticker": "AFL",
-            "name": "Aflac Inc",
-            "insider": "Japan Post Holdings + COB",
-            "value": "-$3.7M"
-          }
-        ],
-        "macro_42": "Global liquidity -4% on 3-month SAAR; central bank balance sheets contracting",
-        "social_buzz": "Iran war escalation drove 750-point Dow selloff; Powell acknowledged unusual uncertainty"
-      },
-      "stats": {
-        "publications_monitored": 34,
-        "new_posts": 9,
-        "scrape_success_rate": "32/34"
-      }
+      "summary_file": "substack_summary_mar21.md"
     }
-  ],
-  "last_updated": "2026-03-20T08:00:00Z"
+  ]
 }
