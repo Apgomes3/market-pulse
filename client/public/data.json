@@ -238,6 +238,108 @@
   "runDate": "March 19, 2026",
   "daily_summaries": [
     {
+      "date": "2026-03-22",
+      "fear_greed_index": 14.6,
+      "fear_greed_label": "Extreme Fear",
+      "new_posts_count": 5,
+      "posts": [
+        {
+          "publication": "Coughlin Cap",
+          "title": "[Update] Alibaba",
+          "url": "https://coughlincap.com/p/update-alibaba",
+          "tickers": [
+            "BABA"
+          ],
+          "category": "Equity Deep Dive",
+          "summary": "BABA down ~35% from highs but Coughlin argues reaction is wrong. Cloud revenue +36% YoY (RMB 43.3B), AI products triple-digit growth for 10th consecutive quarter. Quick commerce +56%. Qwen crossed 300M MAUs. 88VIP at 59M members."
+        },
+        {
+          "publication": "Nate's Substack",
+          "title": "55% of Employers Regret AI-Driven Layoffs",
+          "url": "https://natesnewsletter.substack.com/p/55-of-employers-regret-ai-driven",
+          "tickers": [],
+          "category": "AI / Workforce",
+          "summary": "Critical 'task-versus-job gap' in AI deployment. Agents excel at discrete tasks but fail at institutional context. 55% of employers who replaced workers with AI now regret it. Harvard study of 62M workers shows market pricing in 'contextual stewardship' as key human skill."
+        },
+        {
+          "publication": "The Price of Everything",
+          "title": "Suez II",
+          "url": "https://timprice.substack.com/p/suez-ii",
+          "tickers": [],
+          "category": "Geopolitics / Macro",
+          "summary": "Direct parallel between 1956 Suez Crisis and current US-Israeli action against Iran. Suez marked end of British/French imperial power. Current conflict is 'groupthink' per Mearsheimer. Frames this as how 'unsustainable monetary systems finally die.'"
+        },
+        {
+          "publication": "The VC Corner",
+          "title": "How to Build a Real Operating Plan: Inside a Fully Linked Startup FP&A Model",
+          "url": "https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan",
+          "tickers": [],
+          "category": "Startup / Finance",
+          "summary": "Comprehensive 60-month FP&A model with full 3-statement linkage. Supports SaaS, transactional, services profiles with Base/Bull/Bear scenarios. Core thesis: most templates collapse when you toggle a growth lever."
+        },
+        {
+          "publication": "TMT Breakout",
+          "title": "TMTB Morning Wrap",
+          "url": "https://www.tmtbreakout.com/p/tmtb-morning-wrap-52f",
+          "tickers": [
+            "SMCI",
+            "DELL",
+            "HPE",
+            "ARM",
+            "NVDA"
+          ],
+          "category": "Tech / Markets",
+          "summary": "SMCI scandal: 3 associates charged with diverting $2.5B in Nvidia servers to China. SMCI -26.4%, DELL +4.9%, HPE +4.0%. HSBC upgraded ARM to Buy ($205 PT) on AI server CPU shift. Market pricing zero Fed cuts this year."
+        }
+      ],
+      "market_intel": {
+        "fear_greed": 14.6,
+        "fear_greed_trend": "New cycle low; -50.9 pts since January. Lowest since November 2025.",
+        "vix": 27,
+        "fed_cuts_priced": "3bps (~0 cuts)",
+        "top_insider_buys": [
+          {
+            "ticker": "VANI",
+            "insider": "Gregg Williams",
+            "amount": "+$1.68M"
+          },
+          {
+            "ticker": "MBX",
+            "insider": "P. Kent Hawryluk",
+            "amount": "+$525K"
+          },
+          {
+            "ticker": "BWFG",
+            "insider": "Lawrence Seidman",
+            "amount": "+$470K"
+          },
+          {
+            "ticker": "CTEV",
+            "insider": "Michael Kim",
+            "amount": "+$248K"
+          },
+          {
+            "ticker": "SENS",
+            "insider": "Goodnow + Roeder (cluster)",
+            "amount": "+$200K"
+          }
+        ],
+        "top_insider_sales": [
+          {
+            "ticker": "UTHR",
+            "insider": "Martine Rothblatt",
+            "amount": "-$5.1M"
+          },
+          {
+            "ticker": "GCT",
+            "insider": "Lei Wu",
+            "amount": "-$3.8M"
+          }
+        ],
+        "macro_note": "Iran conflict ongoing; ground troop deployments being considered. Strait of Hormuz remains key risk. SMCI fraud scandal dominates tech."
+      }
+    },
+    {
       "date": "2026-03-21",
       "fear_greed": 18.0,
       "new_posts_count": 9,
@@ -249,5 +351,6 @@
       ],
       "summary_file": "substack_summary_mar21.md"
     }
-  ]
+  ],
+  "last_updated": "2026-03-22T10:00:00Z"
 }
