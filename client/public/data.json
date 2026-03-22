@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T19:00:00+08:00",
+  "lastUpdated": "2026-03-23T10:00:00Z",
   "fearGreedIndex": {
     "score": 20,
     "label": "Extreme Fear",
@@ -352,5 +352,123 @@
       "summary_file": "substack_summary_mar21.md"
     }
   ],
-  "last_updated": "2026-03-22T10:00:00Z"
+  "last_updated": "2026-03-22T10:00:00Z",
+  "dailySummaries": [
+    {
+      "date": "2026-03-23",
+      "fearGreed": {
+        "value": 15,
+        "label": "Extreme Fear",
+        "change": "-5 from last week",
+        "note": "8th consecutive week in Extreme Fear; VIX/VXV ratio at 0.98"
+      },
+      "insiderBuys": [
+        {
+          "ticker": "VANI",
+          "company": "Vivani Medical",
+          "insider": "Gregg Williams (Dir, 10%)",
+          "value": "+$1,683,335"
+        },
+        {
+          "ticker": "MBX",
+          "company": "MBX Biosciences",
+          "insider": "P. Kent Hawryluk (CEO)",
+          "value": "+$525,663"
+        },
+        {
+          "ticker": "BWFG",
+          "company": "Bankwell Financial",
+          "insider": "Lawrence Seidman (Dir)",
+          "value": "+$469,599"
+        },
+        {
+          "ticker": "CTEV",
+          "company": "Claritev Corp",
+          "insider": "Michael Kim (EVP, CDO)",
+          "value": "+$247,500"
+        },
+        {
+          "ticker": "SENS",
+          "company": "Senseonics",
+          "insider": "Timothy Goodnow (CEO)",
+          "value": "+$99,733"
+        }
+      ],
+      "insiderSales": [
+        {
+          "ticker": "UTHR",
+          "company": "United Therapeutics",
+          "insider": "Martine Rothblatt (CEO)",
+          "value": "-$5,109,148"
+        },
+        {
+          "ticker": "GCT",
+          "company": "GigaCloud Technology",
+          "insider": "Lei Wu (CEO, 10%)",
+          "value": "-$3,823,762"
+        }
+      ],
+      "newPosts": [
+        {
+          "publication": "Crack The Market",
+          "title": "The Worst Energy Crisis In History",
+          "url": "https://crackthemarket.substack.com/p/the-worst-energy-crisis-in-history",
+          "category": "Energy / Geopolitics",
+          "tickers": [],
+          "summary": "Strait of Hormuz disruption takes 20M bbl/day offline \u2014 15% of global liquid supply. Qatar's Ras Laffan LNG capacity destroyed for 3-5 years. SPR is a stock solution, not a flow solution. Demand destruction is the only rebalancing mechanism left."
+        },
+        {
+          "publication": "Compound With AI",
+          "title": "How to Become an AI-Native Investor",
+          "url": "https://news.aiinvestinghq.com/p/how-to-become-an-ai-native-investor",
+          "category": "AI / Investing Process",
+          "tickers": [],
+          "summary": "3-level framework: Level 1 source-grounded Q&A (NotebookLM), Level 2 Deep Research (Gemini), Level 3 reusable systems (Claude Skills). AI-native investing requires treating AI like language acquisition."
+        },
+        {
+          "publication": "Stock Talk Newsletter",
+          "title": "The Art of Execution, Cizzle and Mount Logan",
+          "url": "https://stocktalknewsletter.substack.com/p/the-art-of-execution-cizzle-and-mount",
+          "category": "Investment Process / Microcaps",
+          "tickers": [
+            "CIZZLF",
+            "MLCI",
+            "LEN",
+            "PYPL"
+          ],
+          "summary": "Investor archetypes from 'The Art of Execution': Rabbits, Assassins, Hunters, Raiders, Connoisseurs. Greg Padilla held LEN 14 years through 3x 50%+ drawdowns to a 10-bagger. Key insight: if you wouldn't buy it today, sell."
+        },
+        {
+          "publication": "Security Analysis",
+          "title": "AutoZone (AZO)",
+          "url": "https://www.securityanalysis.org/p/autozone-azo",
+          "category": "Equity Deep Dive",
+          "tickers": [
+            "AZO"
+          ],
+          "summary": "EV/EBIT 18.7x, ROE 34.33%, FCF Yield 2.6%, Market Cap $54.6B. Classic compounder with negative book value from aggressive buybacks. Full analysis paywalled."
+        },
+        {
+          "publication": "The VC Corner",
+          "title": "Rate Cuts, 80+ Ways to Fund Without Diluting, AI Is Breaking Valuation Models",
+          "url": "https://www.thevccorner.com/p/rate-cuts-80-ways-to-fund-without",
+          "category": "Venture / Macro / AI",
+          "tickers": [
+            "NVDA"
+          ],
+          "summary": "Polymarket shows zero rate cuts in 2026. Chamath argues AI breaks traditional long-term valuation models. Nvidia's compounding curve resets scale expectations. New funds: Gradient, Boreal Ventures, Redbud VC."
+        },
+        {
+          "publication": "The Founders Corner",
+          "title": "Why Founders Can't Delegate Storytelling, Stop Blaming the Model, The End of App-Based Interfaces",
+          "url": "https://www.the-founders-corner.com/p/why-founders-cant-delegate-storytelling",
+          "category": "Startup / AI",
+          "tickers": [],
+          "summary": "Founders must own storytelling end-to-end. When AI outputs disappoint, fix the architecture not the model. Nothing CEO predicts the end of app-based interfaces."
+        }
+      ],
+      "marketContext": "Oil prices rising after Trump ultimatum to Iran. VIX/VXV ratio at 0.98 approaching inversion. Markets pricing zero Fed rate cuts for 2026. Crypto Fear & Greed at 10 \u2014 BTC below $69K. S&P 500 in Extreme Fear for 38 consecutive days.",
+      "macro42": "No new video this weekend. Last update: global liquidity down 4.2% on 3-month SAAR; Fed RRP drain slowing."
+    }
+  ]
 }
