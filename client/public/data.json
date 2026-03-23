@@ -470,5 +470,15 @@
       "marketContext": "Oil prices rising after Trump ultimatum to Iran. VIX/VXV ratio at 0.98 approaching inversion. Markets pricing zero Fed rate cuts for 2026. Crypto Fear & Greed at 10 \u2014 BTC below $69K. S&P 500 in Extreme Fear for 38 consecutive days.",
       "macro42": "No new video this weekend. Last update: global liquidity down 4.2% on 3-month SAAR; Fed RRP drain slowing."
     }
+  ],
+  "history": [
+    {
+      "date": "2026-03-24",
+      "summary": "Fear & Greed at 14.6 (Extreme Fear). 11 new posts identified. Key themes: Escalation inevitability, AI agent persistence, and 150-bagger frameworks.",
+      "posts_count": 11,
+      "fear_greed": 14.6,
+      "top_insider_buy": "CRTO (+$89K)",
+      "status": "Completed"
+    }
   ]
 }
