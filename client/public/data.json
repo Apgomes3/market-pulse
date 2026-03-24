@@ -1,484 +1,60 @@
 {
-  "lastUpdated": "2026-03-23T10:00:00Z",
-  "fearGreedIndex": {
-    "score": 20,
-    "label": "Extreme Fear",
-    "change": 0,
-    "note": "All 7 CNN sub-indicators in Fear/Extreme Fear. Lowest level since Nov 2025.",
-    "asOf": "2026-03-19"
+  "date": "2026-03-25",
+  "market_sentiment": {
+    "fear_greed_index": 15,
+    "status": "Extreme Fear",
+    "trend": "Stable at cycle lows"
   },
-  "topInsiderBuys": [
+  "insider_activity": [
     {
-      "ticker": "FOUR",
-      "company": "Shift4 Payments",
-      "insider": "Jared Isaacman",
-      "title": "10% Owner",
-      "value": "+$2.0M",
-      "date": "2026-03-10"
+      "ticker": "JAN",
+      "action": "Cluster Buy",
+      "value": ".5M+"
     },
     {
-      "ticker": "DT",
-      "company": "Dynatrace",
-      "insider": "Stephen McMahon",
-      "title": "EVP",
-      "value": "+$107K",
-      "date": "2026-03-03"
+      "ticker": "SLGL",
+      "action": "10% Owner Buy",
+      "value": ".85M"
+    },
+    {
+      "ticker": "BETR",
+      "action": "CEO Buy",
+      "value": ".5M+"
     }
   ],
-  "newPosts": [
+  "new_posts": [
     {
-      "id": "ctm-lng-tollbooth",
-      "date": "2026-03-18",
-      "addedDate": "2026-03-19",
-      "title": "Cheniere Energy (LNG): Asymmetrical LNG Tollbooth",
-      "url": "https://crackthemarket.substack.com/p/cheniere-energy-lng-asymmetrical",
-      "source": "Crack The Market",
-      "category": "Investing",
-      "summary": "Cheniere Energy is the dominant US LNG export platform, controlling ~50% of capacity. Business model is a \"tollbooth\" with long-dated take-or-pay contracts providing bond-like cash flows. Asymmetrical profile: downside floor from contracts, upside from global gas dislocations.",
-      "keyTakeaway": "Energy sovereignty is the defining investment theme of 2026. Cheniere is the critical bridge between US shale and global demand.",
-      "tickers": [
-        "LNG"
-      ]
+      "pub": "TMT Breakout",
+      "title": "EOD Wrap: SaaSpocalypse v.13; Memory vs. HPE/DELL",
+      "url": "https://www.tmtbreakout.com/p/eod-wrap-saaspocalypse-v13-memory",
+      "category": "Investing/Stocks",
+      "summary": "Institutional commentary on the SaaS valuation reset and ARM's 5B revenue potential."
     },
     {
-      "id": "pippa-atomic-forge",
-      "date": "2026-03-18",
-      "addedDate": "2026-03-19",
-      "title": "Pittsburgh PA - Atomic Forge",
-      "url": "https://drpippa.substack.com/p/pittsburgh-pa-atomic-forge-pennsylvania",
-      "source": "Dr. Pippa",
-      "category": "Tech & AI",
-      "summary": "Pennsylvania's transformation from steel to AI-powered materials science. AI tools like Google's GNoME have discovered 2.2M new stable inorganic crystals, condensing 800 years of research. Focus on carbon-metal composites and graphene for batteries and space exploration.",
-      "keyTakeaway": "The \"Genesis Mission\" aims to make the US an AI-powered research superpower through Hard Tech and materials discovery.",
-      "tickers": []
+      "pub": "TMT Breakout",
+      "title": "TMTB Morning Wrap (Mar 25)",
+      "url": "https://www.tmtbreakout.com/p/tmtb-morning-wrap-mar25",
+      "category": "Investing/Stocks",
+      "summary": "Daily briefing on semiconductor supply chain and software earnings sentiment."
     },
     {
-      "id": "vc-corner-q1-fundraising",
-      "date": "2026-03-17",
-      "addedDate": "2026-03-19",
-      "title": "$80 Billion in 3 Months: Inside Q1 2026\u2019s Record-Breaking Fundraising",
-      "url": "https://www.thevccorner.com/p/80-billion-in-3-months-inside-q1-2026s-record-breaking-fundraising",
-      "source": "The VC Corner",
-      "category": "Venture Capital",
-      "summary": "Record-breaking $80B raised in Q1 2026. AI remains the primary driver, but there is a shift toward \"Hard Tech\" and \"Sovereign Tech\" as geopolitical tensions rise.",
-      "keyTakeaway": "The Great SaaS Reset is underway, with valuations being repriced away from 30x revenue euphoria.",
-      "tickers": []
+      "pub": "The VC Corner",
+      "title": "YC W26 Demo Day: Everything You Need to Know",
+      "url": "https://www.thevccorner.com/p/yc-w26-demo-day-2026-complete-breakdown",
+      "category": "VC/Startups",
+      "summary": "Breakdown of the strongest YC batch in history, focusing on Physical AI and B2B infrastructure."
     },
     {
-      "id": "nate-ai-anchoring-bias",
-      "date": "2026-03-18",
-      "addedDate": "2026-03-19",
-      "title": "AI Anchoring Bias in Agents",
-      "url": "https://natesnewsletter.substack.com/p/a-single-sentence-from-a-family-member",
-      "source": "Nate's Substack",
-      "category": "Tech & AI",
-      "summary": "Evaluation of OpenAI's ChatGPT Health reveals structural failure modes in AI agents. 'Anchoring Bias' shifted triage recommendations 12x based on a single dismissive sentence. Mapping these failures to enterprise agents in claims and compliance.",
-      "keyTakeaway": "Need for factorial evaluation methodology and four-layer eval architecture to find agent blind spots.",
-      "tickers": []
-    },
-    {
-      "id": "tmtb-eod-mar18",
-      "date": "2026-03-18",
-      "addedDate": "2026-03-19",
-      "title": "TMTB EOD Wrap: Micron (MU) Bogeys",
-      "url": "https://www.tmtbreakout.com/p/tmtb-eod-wrap-micron-mu-bogeys-and",
-      "source": "TMT Breakout",
-      "category": "Tech & AI",
-      "summary": "Tech recap and Micron earnings preview. Iran/oil developments remain the dominant macro backdrop. Rotation signals: Software vs. Semis spread remains extreme.",
-      "keyTakeaway": "Micron earnings and the software/semi rotation are the key tech-specific focus.",
-      "tickers": [
-        "MU",
-        "NVDA"
-      ]
+      "pub": "Nate's Substack",
+      "title": "5 AI Agents, 5 Contradictory Bets",
+      "url": "https://natesnewsletter.substack.com/p/5-ai-agents-5-contradictory-bets",
+      "category": "Tech/AI",
+      "summary": "Analysis of persistent AI memory systems and autonomous enterprise employees."
     }
   ],
-  "socialBuzz": [
-    {
-      "ticker": "FSLY",
-      "sentiment": "Cautious",
-      "driver": "52-week high (+157% YTD); retail sentiment cautious on insider sales"
-    },
-    {
-      "ticker": "PERF",
-      "sentiment": "Bullish",
-      "driver": "Surged 32% on buyout offer rumors"
-    },
-    {
-      "ticker": "OXY",
-      "sentiment": "Bullish",
-      "driver": "Oil shock thesis post-Iran escalation"
-    },
-    {
-      "ticker": "NVDA",
-      "sentiment": "Mixed",
-      "driver": "High buzz ahead of earnings; AI capex vs. macro headwinds"
-    }
-  ],
-  "macroOverview": {
-    "fearGreed": "20 (Extreme Fear) \u2014 flat from prior day",
-    "liquidity": "Global liquidity down 4% on 3-month SAAR (42 Macro)",
-    "macro42": "Is Global Liquidity Breaking Down? Deterioration depends on POTUS and Treasury actions.",
-    "keyRisks": [
-      "Iran-Israel conflict escalation",
-      "Oil price spike",
-      "The Great SaaS Reset",
-      "AI Agent failure modes"
-    ],
-    "keyEarnings": [
-      "MU (Micron)",
-      "NVDA (this week)"
-    ]
-  },
-  "keyThemes": [
-    {
-      "theme": "Energy Sovereignty",
-      "posts": [
-        "Cheniere Energy (LNG) Tollbooth"
-      ],
-      "signal": "Bullish energy equities; US shale as sovereign bridge"
-    },
-    {
-      "theme": "The Great SaaS Reset",
-      "posts": [
-        "VC Corner Q1 Fundraising",
-        "SaaS Valuation 2026"
-      ],
-      "signal": "Valuation repricing; AI-proof durability prioritized"
-    },
-    {
-      "theme": "AI in Hard Tech",
-      "posts": [
-        "Dr. Pippa Atomic Forge"
-      ],
-      "signal": "Accelerated materials discovery; Pennsylvania Hard Tech resurrection"
-    },
-    {
-      "theme": "Agentic AI Failures",
-      "posts": [
-        "Nate AI Anchoring Bias"
-      ],
-      "signal": "Need for rigorous evaluation; structural failure modes in production"
-    }
-  ],
-  "mar17_update": {
-    "date": "2026-03-17",
-    "summary": "Market enters the week in Extreme Fear (20.0). S&P 500 futures liquidity collapsed to $5.1M. Crack The Market highlights mispricing in refined energy products (jet fuel, naphtha) vs crude. Boredom Baron launches 'Supply Chain Alpha' series on European small caps. Multibagger Ideas concludes ten-bagger study: FCF yield is the #1 predictor. Nate's Substack warns of AI agent data deletion risks.",
-    "fear_greed": {
-      "score": 20,
-      "label": "Extreme Fear",
-      "change": -1
-    },
-    "insider_buys": [
-      {
-        "ticker": "QSI",
-        "value": "$564K",
-        "type": "Cluster"
-      },
-      {
-        "ticker": "EXE",
-        "value": "$215K",
-        "type": "CEO"
-      },
-      {
-        "ticker": "ADMA",
-        "value": "$217K",
-        "type": "Director"
-      },
-      {
-        "ticker": "BWFG",
-        "value": "$122K",
-        "type": "Cluster"
-      }
-    ],
-    "social_buzz": [
-      {
-        "ticker": "OXY",
-        "sentiment": "Bullish",
-        "mentions": "High"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "Mixed",
-        "mentions": "Extreme"
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "Cautious",
-        "mentions": "Rising"
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "Bearish",
-        "mentions": "High"
-      }
-    ],
-    "top_posts": [
-      {
-        "title": "Inside the Energy Trading Desk",
-        "url": "https://crackthemarket.substack.com/p/inside-the-energy-trading-desk-why",
-        "pub": "Crack The Market"
-      },
-      {
-        "title": "Supply Chain Alpha: Europe's Boring Small Caps",
-        "url": "https://boredombaron.substack.com/p/when-the-supply-chain-breaks-europes",
-        "pub": "Boredom Baron"
-      },
-      {
-        "title": "The Blueprint for 1,000%+ Returns (Part 3)",
-        "url": "https://multibaggerideas.substack.com/p/the-blueprint-for-1000-returns-part-2a1",
-        "pub": "Multibagger Ideas"
-      },
-      {
-        "title": "AI coding agent deleted 2.5 years of data",
-        "url": "https://natesnewsletter.substack.com/p/your-ai-agent-just-mass-deleted-a",
-        "pub": "Nate's Substack"
-      }
-    ]
-  },
-  "runDate": "March 19, 2026",
-  "daily_summaries": [
-    {
-      "date": "2026-03-22",
-      "fear_greed_index": 14.6,
-      "fear_greed_label": "Extreme Fear",
-      "new_posts_count": 5,
-      "posts": [
-        {
-          "publication": "Coughlin Cap",
-          "title": "[Update] Alibaba",
-          "url": "https://coughlincap.com/p/update-alibaba",
-          "tickers": [
-            "BABA"
-          ],
-          "category": "Equity Deep Dive",
-          "summary": "BABA down ~35% from highs but Coughlin argues reaction is wrong. Cloud revenue +36% YoY (RMB 43.3B), AI products triple-digit growth for 10th consecutive quarter. Quick commerce +56%. Qwen crossed 300M MAUs. 88VIP at 59M members."
-        },
-        {
-          "publication": "Nate's Substack",
-          "title": "55% of Employers Regret AI-Driven Layoffs",
-          "url": "https://natesnewsletter.substack.com/p/55-of-employers-regret-ai-driven",
-          "tickers": [],
-          "category": "AI / Workforce",
-          "summary": "Critical 'task-versus-job gap' in AI deployment. Agents excel at discrete tasks but fail at institutional context. 55% of employers who replaced workers with AI now regret it. Harvard study of 62M workers shows market pricing in 'contextual stewardship' as key human skill."
-        },
-        {
-          "publication": "The Price of Everything",
-          "title": "Suez II",
-          "url": "https://timprice.substack.com/p/suez-ii",
-          "tickers": [],
-          "category": "Geopolitics / Macro",
-          "summary": "Direct parallel between 1956 Suez Crisis and current US-Israeli action against Iran. Suez marked end of British/French imperial power. Current conflict is 'groupthink' per Mearsheimer. Frames this as how 'unsustainable monetary systems finally die.'"
-        },
-        {
-          "publication": "The VC Corner",
-          "title": "How to Build a Real Operating Plan: Inside a Fully Linked Startup FP&A Model",
-          "url": "https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan",
-          "tickers": [],
-          "category": "Startup / Finance",
-          "summary": "Comprehensive 60-month FP&A model with full 3-statement linkage. Supports SaaS, transactional, services profiles with Base/Bull/Bear scenarios. Core thesis: most templates collapse when you toggle a growth lever."
-        },
-        {
-          "publication": "TMT Breakout",
-          "title": "TMTB Morning Wrap",
-          "url": "https://www.tmtbreakout.com/p/tmtb-morning-wrap-52f",
-          "tickers": [
-            "SMCI",
-            "DELL",
-            "HPE",
-            "ARM",
-            "NVDA"
-          ],
-          "category": "Tech / Markets",
-          "summary": "SMCI scandal: 3 associates charged with diverting $2.5B in Nvidia servers to China. SMCI -26.4%, DELL +4.9%, HPE +4.0%. HSBC upgraded ARM to Buy ($205 PT) on AI server CPU shift. Market pricing zero Fed cuts this year."
-        }
-      ],
-      "market_intel": {
-        "fear_greed": 14.6,
-        "fear_greed_trend": "New cycle low; -50.9 pts since January. Lowest since November 2025.",
-        "vix": 27,
-        "fed_cuts_priced": "3bps (~0 cuts)",
-        "top_insider_buys": [
-          {
-            "ticker": "VANI",
-            "insider": "Gregg Williams",
-            "amount": "+$1.68M"
-          },
-          {
-            "ticker": "MBX",
-            "insider": "P. Kent Hawryluk",
-            "amount": "+$525K"
-          },
-          {
-            "ticker": "BWFG",
-            "insider": "Lawrence Seidman",
-            "amount": "+$470K"
-          },
-          {
-            "ticker": "CTEV",
-            "insider": "Michael Kim",
-            "amount": "+$248K"
-          },
-          {
-            "ticker": "SENS",
-            "insider": "Goodnow + Roeder (cluster)",
-            "amount": "+$200K"
-          }
-        ],
-        "top_insider_sales": [
-          {
-            "ticker": "UTHR",
-            "insider": "Martine Rothblatt",
-            "amount": "-$5.1M"
-          },
-          {
-            "ticker": "GCT",
-            "insider": "Lei Wu",
-            "amount": "-$3.8M"
-          }
-        ],
-        "macro_note": "Iran conflict ongoing; ground troop deployments being considered. Strait of Hormuz remains key risk. SMCI fraud scandal dominates tech."
-      }
-    },
-    {
-      "date": "2026-03-21",
-      "fear_greed": 18.0,
-      "new_posts_count": 9,
-      "top_insider_buy": "VANI +$1.68M",
-      "key_themes": [
-        "Qatar LNG Shock",
-        "AI Persistent Memory",
-        "SaaS Reset"
-      ],
-      "summary_file": "substack_summary_mar21.md"
-    }
-  ],
-  "last_updated": "2026-03-22T10:00:00Z",
-  "dailySummaries": [
-    {
-      "date": "2026-03-23",
-      "fearGreed": {
-        "value": 15,
-        "label": "Extreme Fear",
-        "change": "-5 from last week",
-        "note": "8th consecutive week in Extreme Fear; VIX/VXV ratio at 0.98"
-      },
-      "insiderBuys": [
-        {
-          "ticker": "VANI",
-          "company": "Vivani Medical",
-          "insider": "Gregg Williams (Dir, 10%)",
-          "value": "+$1,683,335"
-        },
-        {
-          "ticker": "MBX",
-          "company": "MBX Biosciences",
-          "insider": "P. Kent Hawryluk (CEO)",
-          "value": "+$525,663"
-        },
-        {
-          "ticker": "BWFG",
-          "company": "Bankwell Financial",
-          "insider": "Lawrence Seidman (Dir)",
-          "value": "+$469,599"
-        },
-        {
-          "ticker": "CTEV",
-          "company": "Claritev Corp",
-          "insider": "Michael Kim (EVP, CDO)",
-          "value": "+$247,500"
-        },
-        {
-          "ticker": "SENS",
-          "company": "Senseonics",
-          "insider": "Timothy Goodnow (CEO)",
-          "value": "+$99,733"
-        }
-      ],
-      "insiderSales": [
-        {
-          "ticker": "UTHR",
-          "company": "United Therapeutics",
-          "insider": "Martine Rothblatt (CEO)",
-          "value": "-$5,109,148"
-        },
-        {
-          "ticker": "GCT",
-          "company": "GigaCloud Technology",
-          "insider": "Lei Wu (CEO, 10%)",
-          "value": "-$3,823,762"
-        }
-      ],
-      "newPosts": [
-        {
-          "publication": "Crack The Market",
-          "title": "The Worst Energy Crisis In History",
-          "url": "https://crackthemarket.substack.com/p/the-worst-energy-crisis-in-history",
-          "category": "Energy / Geopolitics",
-          "tickers": [],
-          "summary": "Strait of Hormuz disruption takes 20M bbl/day offline \u2014 15% of global liquid supply. Qatar's Ras Laffan LNG capacity destroyed for 3-5 years. SPR is a stock solution, not a flow solution. Demand destruction is the only rebalancing mechanism left."
-        },
-        {
-          "publication": "Compound With AI",
-          "title": "How to Become an AI-Native Investor",
-          "url": "https://news.aiinvestinghq.com/p/how-to-become-an-ai-native-investor",
-          "category": "AI / Investing Process",
-          "tickers": [],
-          "summary": "3-level framework: Level 1 source-grounded Q&A (NotebookLM), Level 2 Deep Research (Gemini), Level 3 reusable systems (Claude Skills). AI-native investing requires treating AI like language acquisition."
-        },
-        {
-          "publication": "Stock Talk Newsletter",
-          "title": "The Art of Execution, Cizzle and Mount Logan",
-          "url": "https://stocktalknewsletter.substack.com/p/the-art-of-execution-cizzle-and-mount",
-          "category": "Investment Process / Microcaps",
-          "tickers": [
-            "CIZZLF",
-            "MLCI",
-            "LEN",
-            "PYPL"
-          ],
-          "summary": "Investor archetypes from 'The Art of Execution': Rabbits, Assassins, Hunters, Raiders, Connoisseurs. Greg Padilla held LEN 14 years through 3x 50%+ drawdowns to a 10-bagger. Key insight: if you wouldn't buy it today, sell."
-        },
-        {
-          "publication": "Security Analysis",
-          "title": "AutoZone (AZO)",
-          "url": "https://www.securityanalysis.org/p/autozone-azo",
-          "category": "Equity Deep Dive",
-          "tickers": [
-            "AZO"
-          ],
-          "summary": "EV/EBIT 18.7x, ROE 34.33%, FCF Yield 2.6%, Market Cap $54.6B. Classic compounder with negative book value from aggressive buybacks. Full analysis paywalled."
-        },
-        {
-          "publication": "The VC Corner",
-          "title": "Rate Cuts, 80+ Ways to Fund Without Diluting, AI Is Breaking Valuation Models",
-          "url": "https://www.thevccorner.com/p/rate-cuts-80-ways-to-fund-without",
-          "category": "Venture / Macro / AI",
-          "tickers": [
-            "NVDA"
-          ],
-          "summary": "Polymarket shows zero rate cuts in 2026. Chamath argues AI breaks traditional long-term valuation models. Nvidia's compounding curve resets scale expectations. New funds: Gradient, Boreal Ventures, Redbud VC."
-        },
-        {
-          "publication": "The Founders Corner",
-          "title": "Why Founders Can't Delegate Storytelling, Stop Blaming the Model, The End of App-Based Interfaces",
-          "url": "https://www.the-founders-corner.com/p/why-founders-cant-delegate-storytelling",
-          "category": "Startup / AI",
-          "tickers": [],
-          "summary": "Founders must own storytelling end-to-end. When AI outputs disappoint, fix the architecture not the model. Nothing CEO predicts the end of app-based interfaces."
-        }
-      ],
-      "marketContext": "Oil prices rising after Trump ultimatum to Iran. VIX/VXV ratio at 0.98 approaching inversion. Markets pricing zero Fed rate cuts for 2026. Crypto Fear & Greed at 10 \u2014 BTC below $69K. S&P 500 in Extreme Fear for 38 consecutive days.",
-      "macro42": "No new video this weekend. Last update: global liquidity down 4.2% on 3-month SAAR; Fed RRP drain slowing."
-    }
-  ],
-  "history": [
-    {
-      "date": "2026-03-24",
-      "summary": "Fear & Greed at 14.6 (Extreme Fear). 11 new posts identified. Key themes: Escalation inevitability, AI agent persistence, and 150-bagger frameworks.",
-      "posts_count": 11,
-      "fear_greed": 14.6,
-      "top_insider_buy": "CRTO (+$89K)",
-      "status": "Completed"
-    }
+  "macro_themes": [
+    "SaaSpocalypse Valuation Reset",
+    "Physical AI & Robotics",
+    "Liquidity Bridge Formation"
   ]
 }
