@@ -1,111 +1,171 @@
 {
-  "date": "2026-03-26",
-  "market_sentiment": {
-    "fear_greed_index": 16.9,
-    "status": "Extreme Fear",
-    "trend": "Slight easing from 14.9 but remains at cycle lows (9th consecutive week)"
-  },
-  "market_performance": {
-    "dow": "+0.7%",
-    "nasdaq": "+0.8%",
-    "qqq": "+0.66%",
-    "brent_crude": "$100+",
-    "oil_change": "-2%"
-  },
-  "insider_activity": [
+  "date": "2026-03-27",
+  "fear_greed_index": 19.3,
+  "fear_greed_sentiment": "Extreme Fear, up slightly from 18.8 prior",
+  "insider_buys": [
     {
-      "ticker": "IAC/MGM",
-      "action": "10% Owner Buy",
-      "value": "$74.4M",
-      "note": "IAC Inc. massive conviction buy across Mar 23-24 at ~$37/share"
+      "ticker": "IAC",
+      "insider": "IAC Inc.",
+      "role": "10% Owner",
+      "date": "Mar 23-24",
+      "value": 37200000.0,
+      "notes": "Two-day accumulation"
     },
     {
-      "ticker": "BX",
-      "action": "10% Owner Buy",
-      "value": "$75M",
-      "note": "Blackstone Holdings at $26.15 on Mar 20"
+      "ticker": "MGM",
+      "insider": "IAC Inc.",
+      "role": "10% Owner",
+      "date": "Mar 23-24",
+      "value": 37200000.0,
+      "notes": "Cross-ownership w/ IAC"
     },
     {
-      "ticker": "JAN",
-      "action": "Cluster Buy (5 insiders)",
-      "value": "$3.73M",
-      "note": "CEO, COO, 3 Directors all bought at $20.00"
+      "ticker": "BORR",
+      "insider": "Troim Tor Olav",
+      "role": "Director",
+      "date": "Mar 24",
+      "value": 2600000.0,
+      "notes": "Offshore driller"
+    },
+    {
+      "ticker": "SLGL",
+      "insider": "Opaleye Mgmt",
+      "role": "10% Owner",
+      "date": "Mar 24",
+      "value": 2860000.0,
+      "notes": "Continued accumulation"
+    },
+    {
+      "ticker": "SRZN",
+      "insider": "TCG Crossover",
+      "role": "10% Owner",
+      "date": "Mar 24",
+      "value": 2630000.0,
+      "notes": ""
+    },
+    {
+      "ticker": "BORR",
+      "insider": "Currie Jeffrey",
+      "role": "Director",
+      "date": "Mar 24",
+      "value": 1330000.0,
+      "notes": "Second BORR director buy"
+    },
+    {
+      "ticker": "NFJ",
+      "insider": "Saba Capital",
+      "role": "10% Owner",
+      "date": "Mar 23-25",
+      "value": 1560000.0,
+      "notes": "Multi-day accumulation"
+    },
+    {
+      "ticker": "TPST",
+      "insider": "Angel Matthew",
+      "role": "CEO",
+      "date": "Mar 24",
+      "value": 500000.0,
+      "notes": "CEO buying at $2.16"
+    },
+    {
+      "ticker": "TOI",
+      "insider": "Chernett Jorey",
+      "role": "10% Owner",
+      "date": "Mar 24",
+      "value": 389000.0,
+      "notes": ""
     },
     {
       "ticker": "BETR",
-      "action": "CEO + 10% Owner Buy",
-      "value": "$3.3M",
-      "note": "CEO Vishal Garg + Framework Ventures across Mar 19-24"
+      "insider": "Garg Vishal",
+      "role": "CEO",
+      "date": "Mar 24",
+      "value": 306000.0,
+      "notes": ""
     },
     {
-      "ticker": "NSP",
-      "action": "Chairman/CEO Buy",
-      "value": "$4.3M",
-      "note": "Sarvadi bought across Mar 18-19"
+      "ticker": "AFCG",
+      "insider": "Tannenbaum Leonard",
+      "role": "Director",
+      "date": "Mar 24",
+      "value": 116000.0,
+      "notes": ""
     }
   ],
-  "new_posts": [
+  "posts": [
     {
-      "pub": "TMT Breakout",
-      "title": "TMTB EOD Wrap: A Day of Activation (ARM AMD and Intel)",
-      "url": "https://www.tmtbreakout.com/p/tmtb-eod-wrap-a-day-of-activation",
-      "category": "Investing/Stocks",
-      "tickers": ["ARM", "AMD", "INTC", "MU", "SNDK", "NET", "FSLY", "AKAM"],
-      "summary": "Major CPU activation day. ARM +16% on $25B/$9 EPS target. AMD/INTC +7% on price hikes. Memory -4%."
+      "author": "Boredom Baron",
+      "title": "The Wellness Economy's Best-Kept Secret: A 75-Year-Old Finnish Compounder With 24% ROE",
+      "url": "https://boredombaron.substack.com/p/the-wellness-economys-best-kept-secret",
+      "date": "Mar 26, 2026",
+      "tickers": [
+        "MAS (Masco Corp",
+        "referenced as competitor/acquirer)",
+        "Kohler",
+        "unnamed Finnish pure-play"
+      ],
+      "summary": "A deep industry primer on the global sauna equipment market ($900M, growing to $1.56B by 2033 at 6.3% CAGR), situated within the broader $6.8T wellness economy. The free section educates on three demand drivers: rising home sauna penetration outside the Nordics, a commercial hospitality boom (Marriott 260+ luxury properties), and infrared sauna growth at 7.5% CAGR. The competitive landscape is consolidating \u2014 Kohler acquired KLAFS (Germany) and Masco (MAS) acquired Sauna360 for ~\u20ac130M. The author teases a Finnish pure-play publicly traded company commanding 20%+ global market share with 24% ROE, 40-50% gross margins, and factories in seven countries. The specific ticker and full financial analysis are behind the paywall.",
+      "category": "Investing/Stocks (Deep Dive)"
     },
     {
-      "pub": "Citrini Research",
-      "title": "Agentic Utilities",
-      "url": "https://www.citriniresearch.com/p/agentic-utilities",
-      "category": "Investing/Stocks",
-      "tickers": ["AKAM", "FSLY", "CRCL", "NET"],
-      "summary": "New 'Agentic Utilities' thesis: Infrastructure, Ecosystem (B2A), and Governance layers for the agentic internet."
-    },
-    {
-      "pub": "Wolf of Oakville",
-      "title": "Vitalhub Corp ($VHI.TO) FINS Review",
-      "url": "https://www.wolfofoakville.com/p/vitalhub-corp-vhito-fins-review",
-      "category": "Investing/Stocks",
-      "tickers": ["VHI.TO"],
-      "summary": "Deep-dive on VHI.TO after 54% decline. Q4 2025 financials examined for potential bottom."
-    },
-    {
-      "pub": "The Efficiency Playbook",
-      "title": "The Margin Machine",
-      "url": "https://efficiencyplaybook.substack.com/p/the-margin-machine",
-      "category": "Tech/AI",
+      "author": "Pippa's Pen & Podcast",
+      "title": "Hormuz Replaced by Stars in a Box, Atoms and Light",
+      "url": "https://drpippa.substack.com/p/hormuz-replaced-by-stars-in-a-box",
+      "date": "~3 hrs ago (Mar 27, 2026)",
       "tickers": [],
-      "summary": "AI outsourcing shifting from labor to intelligence arbitrage. 83% of execs leveraging AI in outsourced services."
+      "summary": "Dr. Pippa Malmgren explores the geopolitical implications of the US bypassing traditional energy chokepoints \u2014 specifically Kharg Island and the Strait of Hormuz \u2014 through advanced energy technologies. The thesis centers on how nuclear fusion (\"a star in a box\"), advanced nuclear, and photonic energy systems are rendering the traditional \"blockade of molecules\" strategy obsolete. This has profound implications for energy geopolitics, the petrodollar system, and nations whose leverage depends on controlling hydrocarbon transit routes. The piece frames this as a structural shift from a molecule-based to an atom-and-light-based energy paradigm.",
+      "category": "Macro/Geopolitics"
     },
     {
-      "pub": "Multibagger Ideas",
-      "title": "How I Make $249,279 a Year on Substack",
-      "url": "https://multibaggerideas.substack.com/p/how-i-make-249279-a-year-on-substack",
-      "category": "General/Other",
-      "tickers": [],
-      "summary": "Meta-post on building four finance newsletters generating $249K/year ARR."
+      "author": "Cassandra Unchained (Michael Burry)",
+      "title": "The Toxic Twins Recurrence: Fannie Mae & Freddie Mac",
+      "url": "https://michaeljburry.substack.com/p/the-toxic-twins-recurrence-fannie",
+      "date": "Mar 26, 2026",
+      "tickers": [
+        "FNMA",
+        "FMCC"
+      ],
+      "summary": "Michael Burry reveals he has been buying both Fannie Mae and Freddie Mac common stock \"down here,\" framing it as a classic value investing scenario where the pain of holding through a falling knife is precisely what creates the opportunity. The subtitle reads \"Stocks Fall Hard into the News Gap.\" Burry draws on historical market parallels, noting that the most spectacular recoveries in market history required \"absolutely inhuman\" conviction to hold through the drawdown. The full analysis is behind a paywall, but the free preview confirms active accumulation of both GSE stocks. This is a significant signal given Burry's track record and the ongoing political debate around GSE privatization.",
+      "category": "Investing/Stocks (Value)"
     },
     {
-      "pub": "The Price of Everything",
-      "title": "The latest State of the Markets podcast is OUT NOW",
-      "url": "https://timprice.substack.com/p/the-latest-state-of-the-markets-podcast-is-out-now",
-      "category": "General/Other",
+      "author": "Nate's Substack",
+      "title": "Your AI credentials don't matter. Your artifacts do. Here's how to build both sides \u2014 plus I'm launching Nate's Network.",
+      "url": "https://natesnewsletter.substack.com/p/your-ai-credentials-dont-matter-your",
+      "date": "Mar 26, 2026",
       "tickers": [],
-      "summary": "New podcast with strategist Alexander Ineichen on macro conditions."
+      "summary": "Nate argues there are \"essentially infinite AI jobs right now\" \u2014 every company he works with has uncapped AI talent budgets and still can't fill roles. He analyzed hundreds of real job postings at Anthropic, Robinhood, Upwork, Glean, and Scale AI and identified seven specific, learnable skills that consistently appear across AI roles paying $150K-$400K. The key insight is a \"K-shaped split\" in the labor market: infinite demand at the top, unemployment at the bottom. He argues most AI training is taught at the wrong altitude \u2014 either too high-level (\"AI for Everyone\") or too deep (ML engineering) \u2014 while the critical middle layer barely exists. DataCamp found 40% of AI training is just video courses, and 23% of leaders say it doesn't translate to real work. Nate is launching \"Nate's Network,\" a vetted AI talent network matching people to roles based on what they've actually built, not credentials.",
+      "category": "Tech/AI (Career/Labor Market)"
     },
     {
-      "pub": "TMT Breakout",
-      "title": "TMTB: Pricing Update",
-      "url": "https://www.tmtbreakout.com/p/tmtb-pricing-update",
-      "category": "General/Other",
+      "author": "The Price of Everything",
+      "title": "How to pick a wealth manager?",
+      "url": "https://timprice.substack.com/p/how-to-pick-a-wealth-manager",
+      "date": "Mar 26, 2026",
       "tickers": [],
-      "summary": "First price increase in 2.5 years. Standard tier to $85/month ($900/year)."
+      "summary": "Tim Price shares a video interview with James Faulkner of \"Poor Millionaires\" discussing how to evaluate and select a wealth manager. The embedded YouTube video is titled \"3 things you must ask your wealth manager.\" This is a short-form media post (video interview) rather than a written analysis. The content focuses on practical wealth management selection criteria for individual investors.",
+      "category": "General/Other (Personal Finance)"
+    },
+    {
+      "author": "The Founders Corner",
+      "title": "The Silent Killer Inside Your Company \u2014 And Why You Put It There",
+      "url": "https://www.the-founders-corner.com/p/the-founder-trap-how-your-greatest",
+      "date": "Mar 26, 2026",
+      "tickers": [],
+      "summary": "Chris Tottman explores micromanagement as the \"silent killer\" inside scaling companies, arguing it stems from fear and perfectionism rather than ego. The post identifies three pillars for breaking the cycle: (1) true delegation (transferring ownership, not just tasks), (2) structured alignment rhythms (weekly reviews, milestone check-ins) instead of hovering, and (3) outcome-based accountability rather than process control. Key insight: \"The more control you relinquish strategically, the more control you actually gain over outcomes.\" Also promotes the launch of \"The Big Book of BrainDumps,\" a founder's field manual with 70 frameworks from 30+ years of scaling software companies.",
+      "category": "VC/Startups (Leadership)"
+    },
+    {
+      "author": "Wolf of Oakville",
+      "title": "Draganfly Inc ($DPRO/$DPRO.C) FINS Review",
+      "url": "https://www.wolfofoakville.com/p/draganfly-inc-dprodproc-fins-review",
+      "date": "Mar 26, 2026",
+      "tickers": [
+        "DPRO",
+        "DPRO.C"
+      ],
+      "summary": "A scathing FINS review of Draganfly, a dual-listed drone technology company. Despite operating in a \"hotly themed sector,\" the financials are deeply problematic. Key findings: (1) Revenue of $7.7M in 2025 (+18% YoY) but gross margin collapsed to 17.1% (-400bps); (2) Net loss of $23M, 66% worse than prior year; (3) Q4 operational cash burn of $9.7M ($39M annualized); (4) 440% share dilution in 12 months (now ~570% since start of last year); (5) Break-even would require $134.5M in revenue \u2014 they achieved 5.7% of that; (6) ROIC at -45%; (7) Market cap ~$250M CAD is 32x 2025 revenue; (8) Insiders flipping RSU awards on open market. The only positive: ~$150M cash on hand after multiple capital raises, providing a long runway. Wolf gave it 1.5/5 stars, calling out management's poor capital allocation and the \"stupidity of investors\" who participated in recent raises (now down 28%).",
+      "category": "Investing/Stocks (Company Deep Dive)"
     }
-  ],
-  "macro_themes": [
-    "CPU Activation: ARM, AMD, INTC rally on agentic AI demand",
-    "Agentic Utilities: New B2A investment framework",
-    "Intelligence Arbitrage: AI reshaping outsourcing margins",
-    "Extreme Fear Persists: F&G 16.9, ESI at 13-year low"
   ]
 }
