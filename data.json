@@ -1,139 +1,47 @@
 {
-  "date": "2026-03-28",
-  "fear_greed_index": {
+  "date": "2026-03-29",
+  "fear_greed": {
     "value": 10,
-    "label": "Extreme Fear",
-    "note": "Lowest since November 2025; VIX above 30"
-  },
-  "market_context": {
-    "headline": "Dow enters correction; Nasdaq in double-digit drawdown as Iran rejects ceasefire",
-    "qqq_change": "-2%",
-    "ten_year_yield": "4.5%",
-    "oil_change": "+5%",
-    "vix": "30+",
-    "key_themes": [
-      "Iran war escalation — ceasefire rejected, Strait of Hormuz blockade fears",
-      "Inflation concerns rising alongside geopolitical risk",
-      "TMT momentum worst day in years",
-      "Extreme oversold conditions across multiple indicators"
-    ]
+    "sentiment": "Extreme Fear"
   },
   "insider_buys": [
     {
       "ticker": "PANW",
-      "insider": "Nikesh Arora",
-      "role": "CEO",
-      "date": "2026-03-27",
       "value": 10000000,
-      "shares": 68085,
-      "price": 146.87,
-      "note": "Massive conviction buy during tech selloff"
-    },
-    {
-      "ticker": "FRPH",
-      "insider": "John Baker II",
-      "role": "Director",
-      "date": "2026-03-23",
-      "value": 10000000,
-      "shares": 478468,
-      "price": 20.90,
-      "note": "Largest individual insider buy of the week"
-    },
-    {
-      "ticker": "BX",
-      "insider": "Blackstone Holdings IV",
-      "role": "10% Owner",
-      "date": "2026-03-20",
-      "value": 75000000,
-      "shares": 2868069,
-      "price": 26.15,
-      "note": "Institutional-scale accumulation"
-    },
-    {
-      "ticker": "PICS",
-      "insider": "Simoes & Pruett",
-      "role": "CEO/Director",
-      "date": "2026-03-23/26",
-      "value": 2200000,
-      "shares": 187505,
-      "price": 11.66,
-      "note": "Two-insider cluster buy"
+      "owner": "Nikesh Arora"
     },
     {
       "ticker": "IAUX",
-      "insider": "Richard Scott Young",
-      "role": "CEO",
-      "date": "2026-03-25",
       "value": 1400000,
-      "shares": 1000000,
-      "price": 1.40,
-      "note": "CEO buying 1M shares"
+      "owner": "Richard Young"
+    },
+    {
+      "ticker": "PICS",
+      "value": 1008058,
+      "owner": "Eduardo Chedid"
+    },
+    {
+      "ticker": "FMNB",
+      "value": 946810,
+      "owner": "Nicholas Varischetti"
     }
   ],
-  "posts": [
+  "top_posts": [
     {
-      "publication": "Crack The Market",
-      "title": "Why India Is Such an Attractive Investment Destination",
-      "url": "https://crackthemarket.substack.com/p/why-india-is-such-an-attractive-investment",
-      "category": "Investing/Stocks",
-      "tickers": [],
-      "summary": "India projected to become 3rd-largest economy by 2030 with $7.3T GDP. FDI exceeds $1T. Key themes: resilience, sovereignty, reshoring, AI data center value chain."
+      "title": "When Cheap Isn\u2019t Cheap",
+      "url": "https://boredombaron.substack.com/p/when-cheap-isnt-cheap-the-value"
     },
     {
-      "publication": "Multibagger Ideas",
-      "title": "A Mini Berkshire - But With Casinos and Guns",
-      "url": "https://multibaggerideas.substack.com/p/a-mini-berkshire-but-with-casinos",
-      "category": "Investing/Stocks",
-      "tickers": [],
-      "summary": "Deep dive into a diversified holding company with aerospace and casino management operations. Paywalled."
+      "title": "The China Tech Selloff",
+      "url": "https://coughlincap.com/p/the-china-tech-selloff"
     },
     {
-      "publication": "Nate's Substack",
-      "title": "The most expensive coordination cost in product development just got a fix",
-      "url": "https://natesnewsletter.substack.com/p/the-most-expensive-coordination-cost",
-      "category": "Tech/AI",
-      "tickers": [],
-      "summary": "Markdown files as bridge between product specs and AI coding agents, eliminating PM-to-engineer coordination overhead."
+      "title": "Open Loop Audit Prompt",
+      "url": "https://natesnewsletter.substack.com/p/90-of-what-you-build-on-your-ai-agent"
     },
     {
-      "publication": "Wolf of Oakville",
-      "title": "Neupath Health ($NPTH.V) FINS Review",
-      "url": "https://www.wolfofoakville.com/p/neupath-health-npthv-fins-review-da6",
-      "category": "Investing/Stocks",
-      "tickers": ["NPTH.V"],
-      "summary": "Follow-up on Canadian pain clinic operator. Stock up 130% since Dec 2024 after achieving operating leverage. Market reacted negatively to latest annuals."
-    },
-    {
-      "publication": "The Efficiency Playbook",
-      "title": "Why Support Should Be Built Around Need, Not Headcount",
-      "url": "https://efficiencyplaybook.substack.com/p/why-support-should-be-built-around",
-      "category": "General/Business",
-      "tickers": [],
-      "summary": "Small businesses should build support around actual need (10-20 hrs/week) rather than defaulting to full-time hires."
-    },
-    {
-      "publication": "The VC Corner",
-      "title": "The Founder Operating System: Best Startup Resources 2026",
-      "url": "https://www.thevccorner.com/p/founder-operating-system-startup-resources",
-      "category": "VC/Startups",
-      "tickers": [],
-      "summary": "Curated 7-layer playbook of best startup resources: Thinking, Validation, MVP, First Users, Fundraising, Infrastructure, Network."
-    },
-    {
-      "publication": "TMT Breakout",
-      "title": "TMTB Morning Wrap",
-      "url": "https://www.tmtbreakout.com/p/tmtb-morning-wrap-999",
-      "category": "Investing/Stocks",
-      "tickers": [],
-      "summary": "Daily morning wrap covering TMT sector. Paywalled."
-    },
-    {
-      "publication": "TMT Breakout",
-      "title": "TMTB Mid-day Wrap: Reddit, Applovin, META Weakness",
-      "url": "https://www.tmtbreakout.com/p/tmtb-mid-day-wrap-reddit-applovin",
-      "category": "Investing/Stocks",
-      "tickers": ["RDDT", "APP", "META", "NFLX"],
-      "summary": "QQQs -2%, Nasdaq in double-digit drawdown. TMT momentum worst day in years. Memory/semicap/optical unwind."
+      "title": "Regime Change",
+      "url": "https://timprice.substack.com/p/regime-change"
     }
   ]
 }
